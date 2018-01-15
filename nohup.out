@@ -1,0 +1,212 @@
+Error executing Jupyter command 'notybook': [Errno 2] No such file or directory
+[I 09:23:01.136 NotebookApp] Serving notebooks from local directory: /Users/yexianyong/Desktop/jupyter_notebook
+[I 09:23:01.136 NotebookApp] 0 active kernels
+[I 09:23:01.136 NotebookApp] The Jupyter Notebook is running at:
+[I 09:23:01.136 NotebookApp] http://localhost:8888/?token=2186522da6db208071528a97342875c107fdf8b1e79ef68e
+[I 09:23:01.136 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:23:01.139 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=2186522da6db208071528a97342875c107fdf8b1e79ef68e
+[I 09:23:01.378 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 09:23:02.027 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 14.50ms referer=http://localhost:8888/tree
+[W 09:23:02.031 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 2.93ms referer=http://localhost:8888/tree
+[W 09:23:10.568 NotebookApp] 404 GET /api/kernels/a70616f3-2f07-4cb9-98d2-2cca582d3912/channels?session_id=5746833988384C7B830DE0F569B310C9 (::1): Kernel does not exist: a70616f3-2f07-4cb9-98d2-2cca582d3912
+[W 09:23:10.569 NotebookApp] 404 GET /api/kernels/a70616f3-2f07-4cb9-98d2-2cca582d3912/channels?session_id=5746833988384C7B830DE0F569B310C9 (::1) 14.85ms referer=None
+[W 09:23:15.650 NotebookApp] 404 GET /api/kernels/a70616f3-2f07-4cb9-98d2-2cca582d3912/channels?session_id=84E2D7DB2D3A434585BBEF5DD596554B (::1): Kernel does not exist: a70616f3-2f07-4cb9-98d2-2cca582d3912
+[W 09:23:15.651 NotebookApp] 404 GET /api/kernels/a70616f3-2f07-4cb9-98d2-2cca582d3912/channels?session_id=84E2D7DB2D3A434585BBEF5DD596554B (::1) 4.54ms referer=None
+[W 09:23:15.881 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 1.84ms referer=http://localhost:8888/tree
+[W 09:23:15.884 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 1.69ms referer=http://localhost:8888/tree
+[W 09:23:16.530 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 3.94ms referer=http://localhost:8888/tree
+[W 09:23:16.538 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 2.29ms referer=http://localhost:8888/tree
+[W 09:23:16.926 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 1.74ms referer=http://localhost:8888/tree
+[W 09:23:16.929 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 1.88ms referer=http://localhost:8888/tree
+[W 09:23:17.141 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 1.75ms referer=http://localhost:8888/tree
+[W 09:23:17.143 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 1.67ms referer=http://localhost:8888/tree
+[W 09:23:17.330 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 1.87ms referer=http://localhost:8888/tree
+[W 09:23:17.333 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 2.06ms referer=http://localhost:8888/tree
+[W 09:23:17.502 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 2.14ms referer=http://localhost:8888/tree
+[W 09:23:17.504 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 1.89ms referer=http://localhost:8888/tree
+[W 09:23:17.668 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 1.85ms referer=http://localhost:8888/tree
+[W 09:23:17.671 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 2.04ms referer=http://localhost:8888/tree
+[W 09:23:17.862 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 1.77ms referer=http://localhost:8888/tree
+[W 09:23:17.866 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 1.73ms referer=http://localhost:8888/tree
+[W 09:23:18.105 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 2.37ms referer=http://localhost:8888/tree
+[W 09:23:18.109 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 2.02ms referer=http://localhost:8888/tree
+[W 09:23:18.282 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 1.82ms referer=http://localhost:8888/tree
+[W 09:23:18.284 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 1.72ms referer=http://localhost:8888/tree
+[W 09:23:18.475 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 1.95ms referer=http://localhost:8888/tree
+[W 09:23:18.477 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 1.71ms referer=http://localhost:8888/tree
+[W 09:23:19.934 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 2.01ms referer=http://localhost:8888/tree
+[W 09:23:19.937 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 1.99ms referer=http://localhost:8888/tree
+[W 09:23:20.442 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 1.91ms referer=http://localhost:8888/tree
+[W 09:23:20.445 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 1.73ms referer=http://localhost:8888/tree
+[W 09:23:21.068 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 1.88ms referer=http://localhost:8888/tree
+[W 09:23:21.070 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 1.81ms referer=http://localhost:8888/tree
+[W 09:23:22.017 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 1.90ms referer=http://localhost:8888/tree
+[W 09:23:22.021 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 2.02ms referer=http://localhost:8888/tree
+[W 09:23:22.513 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 2.76ms referer=http://localhost:8888/tree
+[W 09:23:22.523 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 3.04ms referer=http://localhost:8888/tree
+[W 09:23:23.213 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 1.77ms referer=http://localhost:8888/tree
+[W 09:23:23.217 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 3.20ms referer=http://localhost:8888/tree
+[W 09:23:29.371 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 2.01ms referer=http://localhost:8888/notebooks/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.ipynb
+[W 09:23:29.374 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 2.10ms referer=http://localhost:8888/notebooks/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.ipynb
+[W 09:23:29.378 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171229092300 (::1) 3.17ms referer=http://localhost:8888/notebooks/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.ipynb
+[I 09:23:29.547 NotebookApp] Kernel started: 5b6df3d9-5709-4017-ad30-d7c73377bf2e
+[I 09:23:30.492 NotebookApp] Adapting to protocol v5.1 for kernel 5b6df3d9-5709-4017-ad30-d7c73377bf2e
+[W 09:24:14.581 NotebookApp] Replacing stale connection: a70616f3-2f07-4cb9-98d2-2cca582d3912:5746833988384C7B830DE0F569B310C9
+[W 09:24:20.945 NotebookApp] Replacing stale connection: a70616f3-2f07-4cb9-98d2-2cca582d3912:84E2D7DB2D3A434585BBEF5DD596554B
+[W 09:48:41.611 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 2.24ms referer=http://localhost:8888/tree
+[W 09:48:41.617 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 2.04ms referer=http://localhost:8888/tree
+[W 09:48:42.726 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 1.95ms referer=http://localhost:8888/tree
+[W 09:48:42.730 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 1.81ms referer=http://localhost:8888/tree
+[W 10:09:46.210 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 1.74ms referer=http://localhost:8888/notebooks/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.ipynb
+[W 10:09:46.214 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 2.17ms referer=http://localhost:8888/notebooks/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.ipynb
+[W 10:09:46.223 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171229092300 (::1) 2.17ms referer=http://localhost:8888/notebooks/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.ipynb
+[I 10:09:46.378 NotebookApp] Adapting to protocol v5.1 for kernel 5b6df3d9-5709-4017-ad30-d7c73377bf2e
+[I 10:23:09.917 NotebookApp] Starting buffering for 5b6df3d9-5709-4017-ad30-d7c73377bf2e:1F5802E503924D1A8BB7B54F66F9D74C
+[W 10:23:26.914 NotebookApp] 404 GET /notebooks/Untitled.ipynb (::1): No such file or directory: Untitled.ipynb
+[W 10:23:26.918 NotebookApp] 404 GET /notebooks/Untitled.ipynb (::1) 4.35ms referer=http://localhost:8888/tree?
+[W 10:23:27.846 NotebookApp] 404 GET /notebooks/Untitled.ipynb (::1): No such file or directory: Untitled.ipynb
+[W 10:23:27.847 NotebookApp] 404 GET /notebooks/Untitled.ipynb (::1) 1.93ms referer=http://localhost:8888/tree?
+[I 10:23:31.983 NotebookApp] 302 GET /notebooks/ (::1) 1.18ms
+[W 10:23:32.248 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 1.90ms referer=http://localhost:8888/tree
+[W 10:23:32.252 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 1.80ms referer=http://localhost:8888/tree
+[W 10:24:59.143 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 1.87ms referer=http://localhost:8888/tree?
+[W 10:24:59.145 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 1.79ms referer=http://localhost:8888/tree?
+[W 10:25:11.285 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171229092300 (::1) 1.80ms referer=http://localhost:8888/tree?
+[W 10:25:11.287 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171229092300 (::1) 1.81ms referer=http://localhost:8888/tree?
+[I 10:25:17.704 NotebookApp] New terminal with automatic name: 1
+[I 15:14:18.571 NotebookApp] Serving notebooks from local directory: /Users/yexianyong/Desktop/jupyter_notebook
+[I 15:14:18.572 NotebookApp] 0 active kernels
+[I 15:14:18.572 NotebookApp] The Jupyter Notebook is running at:
+[I 15:14:18.572 NotebookApp] http://localhost:8888/?token=5c7b7f322304fcc8724a37fcd608924676a6bb663602ff41
+[I 15:14:18.572 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:14:18.573 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=5c7b7f322304fcc8724a37fcd608924676a6bb663602ff41
+[I 15:14:18.747 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 15:14:19.346 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180102151418 (::1) 11.88ms referer=http://localhost:8888/tree
+[W 15:14:19.350 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180102151418 (::1) 2.34ms referer=http://localhost:8888/tree
+[W 15:14:32.742 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180102151418 (::1) 1.94ms referer=http://localhost:8888/edit/nohup.out
+[W 15:14:32.744 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180102151418 (::1) 1.73ms referer=http://localhost:8888/edit/nohup.out
+[W 15:14:38.820 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180102151418 (::1) 1.75ms referer=http://localhost:8888/tree
+[W 15:14:38.823 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180102151418 (::1) 1.79ms referer=http://localhost:8888/tree
+[I 15:14:53.944 NotebookApp] Creating new notebook in 
+[W 15:14:54.630 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180102151418 (::1) 3.11ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[W 15:14:54.636 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180102151418 (::1) 2.22ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[I 15:14:54.770 NotebookApp] Kernel started: 450b7ca7-8918-4252-96ff-454aff60e281
+[W 15:14:54.783 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180102151418 (::1) 2.88ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[I 15:14:55.679 NotebookApp] Adapting to protocol v5.1 for kernel 450b7ca7-8918-4252-96ff-454aff60e281
+[I 15:16:54.729 NotebookApp] Saving file at /python_learn.ipynb
+[I 15:18:54.726 NotebookApp] Saving file at /python_learn.ipynb
+[I 14:34:00.163 NotebookApp] Starting buffering for 450b7ca7-8918-4252-96ff-454aff60e281:562155BB778548C084F63D3380140E0B
+[I 11:45:54.472 NotebookApp] Serving notebooks from local directory: /Users/yexianyong/Desktop/jupyter_notebook
+[I 11:45:54.472 NotebookApp] 0 active kernels
+[I 11:45:54.472 NotebookApp] The Jupyter Notebook is running at:
+[I 11:45:54.472 NotebookApp] http://localhost:8888/?token=3e5a2270f4986c1c341922ef5f8fe816521e2f29d4a96726
+[I 11:45:54.472 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:45:54.473 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=3e5a2270f4986c1c341922ef5f8fe816521e2f29d4a96726
+[I 11:45:54.655 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 11:45:55.263 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180112114553 (::1) 11.48ms referer=http://localhost:8888/tree
+[W 11:45:55.266 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180112114553 (::1) 2.22ms referer=http://localhost:8888/tree
+[W 11:47:35.960 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180112114553 (::1) 1.87ms referer=http://localhost:8888/tree
+[W 11:47:35.965 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180112114553 (::1) 1.99ms referer=http://localhost:8888/tree
+[W 11:47:40.412 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180112114553 (::1) 1.62ms referer=http://localhost:8888/tree
+[W 11:47:40.415 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180112114553 (::1) 1.63ms referer=http://localhost:8888/tree
+[W 11:47:41.213 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180112114553 (::1) 1.71ms referer=http://localhost:8888/tree
+[W 11:47:41.216 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180112114553 (::1) 1.63ms referer=http://localhost:8888/tree
+[W 11:47:42.122 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180112114553 (::1) 1.67ms referer=http://localhost:8888/tree
+[W 11:47:42.124 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180112114553 (::1) 1.77ms referer=http://localhost:8888/tree
+[I 11:47:45.065 NotebookApp] interrupted
+Serving notebooks from local directory: /Users/yexianyong/Desktop/jupyter_notebook
+0 active kernels
+The Jupyter Notebook is running at:
+http://localhost:8888/?token=3e5a2270f4986c1c341922ef5f8fe816521e2f29d4a96726
+Shutdown this notebook server (y/[n])? [C 11:47:46.358 NotebookApp] received signal 2, stopping
+[I 11:47:46.360 NotebookApp] Shutting down 0 kernels
+[I 11:47:55.727 NotebookApp] Serving notebooks from local directory: /Users/yexianyong/Desktop/jupyter_notebook
+[I 11:47:55.728 NotebookApp] 0 active kernels
+[I 11:47:55.728 NotebookApp] The Jupyter Notebook is running at:
+[I 11:47:55.728 NotebookApp] http://localhost:8888/?token=9a7152be4841d9db07b8cce46b5b9684b521c7737e8bd1fa
+[I 11:47:55.728 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:47:55.729 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=9a7152be4841d9db07b8cce46b5b9684b521c7737e8bd1fa
+[I 11:47:55.877 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 11:47:56.778 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180112114755 (::1) 13.32ms referer=http://localhost:8888/tree
+[W 11:47:56.781 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180112114755 (::1) 1.84ms referer=http://localhost:8888/tree
+[W 11:47:59.402 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180112114755 (::1) 1.64ms referer=http://localhost:8888/tree
+[W 11:47:59.404 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180112114755 (::1) 1.63ms referer=http://localhost:8888/tree
+[W 11:48:37.147 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180112114755 (::1) 1.69ms referer=http://localhost:8888/edit/nohup.out
+[W 11:48:37.158 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180112114755 (::1) 1.80ms referer=http://localhost:8888/edit/nohup.out
+[I 11:48:45.393 NotebookApp] Creating new notebook in 
+[W 11:48:46.027 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180112114755 (::1) 1.91ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[W 11:48:46.032 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180112114755 (::1) 1.79ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[I 11:48:46.165 NotebookApp] Kernel started: b496d6e1-7d33-44a0-ab44-587ff92ee0d2
+[W 11:48:46.175 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180112114755 (::1) 4.40ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[I 11:48:47.250 NotebookApp] Adapting to protocol v5.1 for kernel b496d6e1-7d33-44a0-ab44-587ff92ee0d2
+[I 11:50:46.113 NotebookApp] Saving file at /Redis.ipynb
+[I 11:52:46.111 NotebookApp] Saving file at /Redis.ipynb
+[I 11:54:46.113 NotebookApp] Saving file at /Redis.ipynb
+[I 11:56:46.105 NotebookApp] Saving file at /Redis.ipynb
+[I 11:58:46.105 NotebookApp] Saving file at /Redis.ipynb
+[W 12:13:43.428 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180112114755 (::1) 1.79ms referer=http://localhost:8888/notebooks/python_learn.ipynb
+[W 12:13:43.432 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180112114755 (::1) 1.83ms referer=http://localhost:8888/notebooks/python_learn.ipynb
+[I 12:13:43.545 NotebookApp] Kernel started: 011758df-abf7-4c6d-8e7a-216ffe4e7dba
+[W 12:13:43.565 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180112114755 (::1) 2.44ms referer=http://localhost:8888/notebooks/python_learn.ipynb
+[I 12:13:44.755 NotebookApp] Adapting to protocol v5.1 for kernel 011758df-abf7-4c6d-8e7a-216ffe4e7dba
+[I 13:44:46.003 NotebookApp] Saving file at /Redis.ipynb
+[I 14:06:45.968 NotebookApp] Saving file at /Redis.ipynb
+[I 14:10:58.489 NotebookApp] Starting buffering for b496d6e1-7d33-44a0-ab44-587ff92ee0d2:9417F9BE98244E3F8616F95E17486904
+[I 14:11:00.737 NotebookApp] Starting buffering for 011758df-abf7-4c6d-8e7a-216ffe4e7dba:9A5C26D3E6F3405488D4D592CE80F1D1
+[I 14:24:34.474 NotebookApp] 302 GET / (::1) 0.57ms
+[I 14:24:35.371 NotebookApp] 302 GET / (::1) 0.51ms
+[W 14:24:35.941 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180112114755 (::1) 1.94ms referer=http://localhost:8888/tree?
+[W 14:24:35.943 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180112114755 (::1) 1.75ms referer=http://localhost:8888/tree?
+[W 14:24:38.655 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180112114755 (::1) 1.86ms referer=http://localhost:8888/notebooks/Redis.ipynb
+[W 14:24:38.660 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180112114755 (::1) 1.82ms referer=http://localhost:8888/notebooks/Redis.ipynb
+[W 14:24:38.766 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180112114755 (::1) 2.93ms referer=http://localhost:8888/notebooks/Redis.ipynb
+[I 14:24:38.801 NotebookApp] Adapting to protocol v5.1 for kernel b496d6e1-7d33-44a0-ab44-587ff92ee0d2
+[I 14:26:38.768 NotebookApp] Saving file at /Redis.ipynb
+[I 14:30:38.761 NotebookApp] Saving file at /Redis.ipynb
+[I 14:32:38.757 NotebookApp] Saving file at /Redis.ipynb
+[I 14:34:38.754 NotebookApp] Saving file at /Redis.ipynb
+[I 14:40:38.751 NotebookApp] Saving file at /Redis.ipynb
+[I 14:42:38.750 NotebookApp] Saving file at /Redis.ipynb
+[I 15:06:38.720 NotebookApp] Saving file at /Redis.ipynb
+[I 15:10:38.717 NotebookApp] Saving file at /Redis.ipynb
+[I 18:26:35.603 NotebookApp] Starting buffering for b496d6e1-7d33-44a0-ab44-587ff92ee0d2:948F24D1F9344C9D9E1540E3058361E1
+[C 18:36:45.778 NotebookApp] received signal 15, stopping
+[I 18:36:46.297 NotebookApp] Shutting down 2 kernels
+[I 18:36:47.434 NotebookApp] Kernel shutdown: b496d6e1-7d33-44a0-ab44-587ff92ee0d2
+[I 18:36:47.435 NotebookApp] Kernel shutdown: 011758df-abf7-4c6d-8e7a-216ffe4e7dba
+[C 17:33:36.320 NotebookApp] No such file or directory: /Users/yexianyong/Desktop/jupyter_notebook/$
+[I 17:33:48.827 NotebookApp] Serving notebooks from local directory: /Users/yexianyong/Desktop/jupyter_notebook
+[I 17:33:48.828 NotebookApp] 0 active kernels
+[I 17:33:48.828 NotebookApp] The Jupyter Notebook is running at:
+[I 17:33:48.828 NotebookApp] http://localhost:8888/?token=17a6ed5ac5378dab2ececed555d22b3b2995e32cddb3b7c0
+[I 17:33:48.828 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:33:48.829 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=17a6ed5ac5378dab2ececed555d22b3b2995e32cddb3b7c0
+[I 17:33:48.985 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 17:33:49.583 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 10.79ms referer=http://localhost:8888/tree
+[W 17:33:49.588 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 2.53ms referer=http://localhost:8888/tree
+[W 17:40:28.731 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.83ms referer=http://localhost:8888/notebooks/python_learn.ipynb
+[W 17:40:28.735 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.81ms referer=http://localhost:8888/notebooks/python_learn.ipynb
+[W 17:40:28.747 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180115173348 (::1) 2.25ms referer=http://localhost:8888/notebooks/python_learn.ipynb
+[I 17:40:28.898 NotebookApp] Kernel started: ff70c498-0f93-4894-9f79-b4e4aa7f2154
+[I 17:40:29.817 NotebookApp] Adapting to protocol v5.1 for kernel ff70c498-0f93-4894-9f79-b4e4aa7f2154
+[I 17:40:33.131 NotebookApp] Starting buffering for ff70c498-0f93-4894-9f79-b4e4aa7f2154:A1A049E1C33F48869223EA2BA57BF713
