@@ -210,3 +210,676 @@ Shutdown this notebook server (y/[n])? [C 11:47:46.358 NotebookApp] received sig
 [I 17:40:28.898 NotebookApp] Kernel started: ff70c498-0f93-4894-9f79-b4e4aa7f2154
 [I 17:40:29.817 NotebookApp] Adapting to protocol v5.1 for kernel ff70c498-0f93-4894-9f79-b4e4aa7f2154
 [I 17:40:33.131 NotebookApp] Starting buffering for ff70c498-0f93-4894-9f79-b4e4aa7f2154:A1A049E1C33F48869223EA2BA57BF713
+[W 17:48:03.151 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.76ms referer=http://localhost:8888/tree
+[W 17:48:03.154 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.74ms referer=http://localhost:8888/tree
+[I 17:48:34.022 NotebookApp] 302 GET / (::1) 0.47ms
+[W 17:48:34.409 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.78ms referer=http://localhost:8888/tree?
+[W 17:48:34.412 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.75ms referer=http://localhost:8888/tree?
+[W 17:48:36.329 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.85ms referer=http://localhost:8888/tree
+[W 17:48:36.331 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.70ms referer=http://localhost:8888/tree
+[W 17:48:37.726 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.79ms referer=http://localhost:8888/notebooks/python_learn.ipynb
+[W 17:48:37.730 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.91ms referer=http://localhost:8888/notebooks/python_learn.ipynb
+[W 17:48:37.820 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180115173348 (::1) 1.93ms referer=http://localhost:8888/notebooks/python_learn.ipynb
+[I 17:48:37.857 NotebookApp] Adapting to protocol v5.1 for kernel ff70c498-0f93-4894-9f79-b4e4aa7f2154
+[W 17:48:56.971 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 2.19ms referer=http://localhost:8888/notebooks/Redis.ipynb
+[W 17:48:56.975 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.75ms referer=http://localhost:8888/notebooks/Redis.ipynb
+[I 17:48:57.078 NotebookApp] Kernel started: f2100c11-f4a4-48f8-b2e4-04002ac9711f
+[W 17:48:57.084 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180115173348 (::1) 3.60ms referer=http://localhost:8888/notebooks/Redis.ipynb
+[I 17:48:57.930 NotebookApp] Adapting to protocol v5.1 for kernel f2100c11-f4a4-48f8-b2e4-04002ac9711f
+[I 17:49:29.830 NotebookApp] Starting buffering for f2100c11-f4a4-48f8-b2e4-04002ac9711f:2A420499D4BD48388FCCA2D3C2706D75
+[I 17:49:36.911 NotebookApp] Saving file at /python_learn.ipynb
+[I 17:49:37.070 NotebookApp] Saving file at /python_learn.ipynb
+[I 17:49:38.575 NotebookApp] Starting buffering for ff70c498-0f93-4894-9f79-b4e4aa7f2154:073A45EA3CDE456B846AFDB468E39F48
+[W 17:49:41.534 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.66ms referer=http://localhost:8888/edit/nohup.out
+[W 17:49:41.543 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.81ms referer=http://localhost:8888/edit/nohup.out
+[W 17:49:47.307 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.73ms referer=http://localhost:8888/notebooks/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.ipynb
+[W 17:49:47.310 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.78ms referer=http://localhost:8888/notebooks/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.ipynb
+[W 17:49:47.317 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180115173348 (::1) 2.25ms referer=http://localhost:8888/notebooks/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.ipynb
+[I 17:49:47.422 NotebookApp] Kernel started: ed621fab-9031-4dee-86c6-c2d2faa4de53
+[I 17:49:48.371 NotebookApp] Adapting to protocol v5.1 for kernel ed621fab-9031-4dee-86c6-c2d2faa4de53
+[I 17:49:55.566 NotebookApp] Starting buffering for ed621fab-9031-4dee-86c6-c2d2faa4de53:E5B781C7E4264DEF9E17C7F71D6ED452
+[I 17:50:33.833 NotebookApp] Creating new notebook in 
+[W 17:50:34.279 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.70ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[W 17:50:34.282 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 2.60ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[I 17:50:34.366 NotebookApp] Kernel started: f4b3a900-c1bb-4b40-8bc4-da2be753fb2d
+[W 17:50:34.372 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180115173348 (::1) 2.89ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[I 17:50:35.255 NotebookApp] Adapting to protocol v5.1 for kernel f4b3a900-c1bb-4b40-8bc4-da2be753fb2d
+[I 17:52:34.367 NotebookApp] Saving file at /MNIST入门.ipynb
+[I 18:00:34.359 NotebookApp] Saving file at /MNIST入门.ipynb
+[W 18:21:05.142 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.71ms referer=http://localhost:8888/tree
+[W 18:21:05.144 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.64ms referer=http://localhost:8888/tree
+[W 18:25:25.254 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 2.26ms referer=http://localhost:8888/notebooks/python_learn.ipynb
+[W 18:25:25.259 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 2.02ms referer=http://localhost:8888/notebooks/python_learn.ipynb
+[W 18:25:25.355 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180115173348 (::1) 1.99ms referer=http://localhost:8888/notebooks/python_learn.ipynb
+[I 18:25:25.398 NotebookApp] Adapting to protocol v5.1 for kernel ff70c498-0f93-4894-9f79-b4e4aa7f2154
+[I 18:27:25.361 NotebookApp] Saving file at /python_learn.ipynb
+[I 11:03:53.796 NotebookApp] Starting buffering for f4b3a900-c1bb-4b40-8bc4-da2be753fb2d:AE40CA06A9C249AF8D3849CEC3301270
+[I 11:03:54.899 NotebookApp] Starting buffering for ff70c498-0f93-4894-9f79-b4e4aa7f2154:94B3C2EA18F34C0481E64E28959DEB9E
+[W 11:03:58.598 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 2.24ms referer=http://localhost:8888/notebooks/python_learn.ipynb
+[W 11:03:58.602 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 2.92ms referer=http://localhost:8888/notebooks/python_learn.ipynb
+[W 11:03:58.611 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180115173348 (::1) 3.98ms referer=http://localhost:8888/notebooks/python_learn.ipynb
+[I 11:03:58.744 NotebookApp] Adapting to protocol v5.1 for kernel ff70c498-0f93-4894-9f79-b4e4aa7f2154
+[I 11:05:58.712 NotebookApp] Saving file at /python_learn.ipynb
+[I 11:07:58.706 NotebookApp] Saving file at /python_learn.ipynb
+[I 11:09:58.719 NotebookApp] Saving file at /python_learn.ipynb
+[I 11:11:58.704 NotebookApp] Saving file at /python_learn.ipynb
+[I 11:13:58.700 NotebookApp] Saving file at /python_learn.ipynb
+[I 11:15:58.697 NotebookApp] Saving file at /python_learn.ipynb
+[I 11:23:12.099 NotebookApp] Starting buffering for ff70c498-0f93-4894-9f79-b4e4aa7f2154:423B4131414F43CB965C564A62ADB71C
+[W 11:23:30.338 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.92ms referer=http://localhost:8888/notebooks/pandas_test.ipynb
+[W 11:23:30.341 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 2.08ms referer=http://localhost:8888/notebooks/pandas_test.ipynb
+[I 11:23:30.488 NotebookApp] Kernel started: 636619aa-06ce-4fa0-aa90-394c810acff4
+[W 11:23:30.494 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180115173348 (::1) 3.77ms referer=http://localhost:8888/notebooks/pandas_test.ipynb
+[I 11:23:31.803 NotebookApp] Adapting to protocol v5.1 for kernel 636619aa-06ce-4fa0-aa90-394c810acff4
+[I 11:23:40.974 NotebookApp] Starting buffering for 636619aa-06ce-4fa0-aa90-394c810acff4:58ACE0B01B75402484B7237838FF3EA9
+[I 11:23:47.229 NotebookApp] Creating new notebook in 
+[W 11:23:47.705 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.80ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[W 11:23:47.707 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.76ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[I 11:23:47.804 NotebookApp] Kernel started: 5cef7b70-2b50-45df-9a48-76e47022b63c
+[W 11:23:47.810 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180115173348 (::1) 3.10ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[I 11:23:49.029 NotebookApp] Adapting to protocol v5.1 for kernel 5cef7b70-2b50-45df-9a48-76e47022b63c
+[I 11:25:47.806 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 11:27:47.799 NotebookApp] Saving file at /numpy_learn.ipynb
+[W 11:29:33.773 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.81ms referer=http://localhost:8888/notebooks/MNIST%E5%85%A5%E9%97%A8.ipynb
+[W 11:29:33.778 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.83ms referer=http://localhost:8888/notebooks/MNIST%E5%85%A5%E9%97%A8.ipynb
+[W 11:29:33.889 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180115173348 (::1) 2.61ms referer=http://localhost:8888/notebooks/MNIST%E5%85%A5%E9%97%A8.ipynb
+[I 11:29:33.924 NotebookApp] Adapting to protocol v5.1 for kernel f4b3a900-c1bb-4b40-8bc4-da2be753fb2d
+[I 11:29:47.874 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 11:31:47.796 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 16:26:32.059 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 16:28:32.044 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 16:32:32.040 NotebookApp] Saving file at /numpy_learn.ipynb
+[W 13:44:57.215 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 2.30ms referer=http://localhost:8888/notebooks/Redis.ipynb
+[W 13:44:57.222 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 3.14ms referer=http://localhost:8888/notebooks/Redis.ipynb
+[W 13:44:57.343 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180115173348 (::1) 3.03ms referer=http://localhost:8888/notebooks/Redis.ipynb
+[I 13:44:57.390 NotebookApp] Adapting to protocol v5.1 for kernel f2100c11-f4a4-48f8-b2e4-04002ac9711f
+[I 13:46:57.345 NotebookApp] Saving file at /redis.ipynb
+[I 13:48:57.343 NotebookApp] Saving file at /redis.ipynb
+[I 13:50:57.340 NotebookApp] Saving file at /redis.ipynb
+[I 13:52:57.338 NotebookApp] Saving file at /redis.ipynb
+[I 13:54:57.336 NotebookApp] Saving file at /redis.ipynb
+[I 14:22:02.780 NotebookApp] Starting buffering for f4b3a900-c1bb-4b40-8bc4-da2be753fb2d:834B6D1297074808B8593DE4543F652C
+[W 14:23:13.991 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 4.19ms referer=http://localhost:8888/notebooks/MNIST%E5%85%A5%E9%97%A8.ipynb
+[W 14:23:13.994 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 2.16ms referer=http://localhost:8888/notebooks/MNIST%E5%85%A5%E9%97%A8.ipynb
+[W 14:23:14.121 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180115173348 (::1) 2.97ms referer=http://localhost:8888/notebooks/MNIST%E5%85%A5%E9%97%A8.ipynb
+[I 14:23:14.161 NotebookApp] Adapting to protocol v5.1 for kernel f4b3a900-c1bb-4b40-8bc4-da2be753fb2d
+[I 14:28:57.290 NotebookApp] Saving file at /redis.ipynb
+[I 14:30:57.286 NotebookApp] Saving file at /redis.ipynb
+[I 14:32:57.284 NotebookApp] Saving file at /redis.ipynb
+[I 14:34:57.281 NotebookApp] Saving file at /redis.ipynb
+[I 14:36:57.278 NotebookApp] Saving file at /redis.ipynb
+[I 14:38:57.274 NotebookApp] Saving file at /redis.ipynb
+[I 14:40:57.277 NotebookApp] Saving file at /redis.ipynb
+[I 14:41:57.365 NotebookApp] Saving file at /redis.ipynb
+[I 14:42:13.211 NotebookApp] Starting buffering for f2100c11-f4a4-48f8-b2e4-04002ac9711f:27C38950496A4ED28F11A7C568D1AE3D
+[I 14:42:13.872 NotebookApp] Starting buffering for 5cef7b70-2b50-45df-9a48-76e47022b63c:E56A5F69A40B4C32A2B443D4BA6B6255
+[I 14:42:17.055 NotebookApp] Starting buffering for f4b3a900-c1bb-4b40-8bc4-da2be753fb2d:EF9DB4FD574D4B799CEEF52F0CDF1FFF
+[W 14:42:18.213 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.99ms referer=http://localhost:8888/tree
+[W 14:42:18.216 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.72ms referer=http://localhost:8888/tree
+[W 14:42:22.172 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.75ms referer=http://localhost:8888/tree
+[W 14:42:22.176 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.70ms referer=http://localhost:8888/tree
+[W 14:42:24.963 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.86ms referer=http://localhost:8888/tree
+[W 14:42:24.968 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 2.26ms referer=http://localhost:8888/tree
+[W 14:42:26.214 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.91ms referer=http://localhost:8888/tree
+[W 14:42:26.216 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.92ms referer=http://localhost:8888/tree
+[I 14:42:43.559 NotebookApp] Creating new directory in 
+[W 14:42:46.167 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.73ms referer=http://localhost:8888/tree/Untitled%20Folder
+[W 14:42:46.169 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.72ms referer=http://localhost:8888/tree/Untitled%20Folder
+[W 14:42:48.779 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.85ms referer=http://localhost:8888/tree/Untitled%20Folder
+[W 14:42:48.783 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.83ms referer=http://localhost:8888/tree/Untitled%20Folder
+[W 14:42:52.435 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 2.03ms referer=http://localhost:8888/tree
+[W 14:42:52.438 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.72ms referer=http://localhost:8888/tree
+[W 14:42:55.893 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.75ms referer=http://localhost:8888/tree
+[W 14:42:55.897 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.72ms referer=http://localhost:8888/tree
+[W 14:43:34.900 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.71ms referer=http://localhost:8888/tree/Untitled%20Folder
+[W 14:43:34.903 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.66ms referer=http://localhost:8888/tree/Untitled%20Folder
+[W 14:43:37.592 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 2.28ms referer=http://localhost:8888/tree/Untitled%20Folder
+[W 14:43:37.594 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.76ms referer=http://localhost:8888/tree/Untitled%20Folder
+[W 14:43:38.597 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.86ms referer=http://localhost:8888/tree/Untitled%20Folder
+[W 14:43:38.607 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 3.98ms referer=http://localhost:8888/tree/Untitled%20Folder
+[W 14:43:49.203 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.76ms referer=http://localhost:8888/tree/Untitled%20Folder
+[W 14:43:49.205 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.72ms referer=http://localhost:8888/tree/Untitled%20Folder
+[W 14:43:51.849 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.71ms referer=http://localhost:8888/tree
+[W 14:43:51.852 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.78ms referer=http://localhost:8888/tree
+[W 14:43:54.178 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 2.25ms referer=http://localhost:8888/tree/Untitled%20Folder
+[W 14:43:54.182 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.68ms referer=http://localhost:8888/tree/Untitled%20Folder
+[W 14:43:55.439 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.73ms referer=http://localhost:8888/tree/Untitled%20Folder
+[W 14:43:55.443 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.62ms referer=http://localhost:8888/tree/Untitled%20Folder
+[W 14:43:58.377 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.73ms referer=http://localhost:8888/tree
+[W 14:43:58.379 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.73ms referer=http://localhost:8888/tree
+[W 14:44:36.492 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 2.14ms referer=http://localhost:8888/notebooks/import_accounts.ipynb
+[W 14:44:36.499 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.85ms referer=http://localhost:8888/notebooks/import_accounts.ipynb
+[I 14:44:36.642 NotebookApp] Kernel started: e801270a-af18-4c5b-a8ef-9717e1f0293d
+[W 14:44:36.663 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180115173348 (::1) 5.11ms referer=http://localhost:8888/notebooks/import_accounts.ipynb
+[I 14:44:37.874 NotebookApp] Adapting to protocol v5.1 for kernel e801270a-af18-4c5b-a8ef-9717e1f0293d
+[I 14:45:02.590 NotebookApp] Starting buffering for e801270a-af18-4c5b-a8ef-9717e1f0293d:B26608AD2CCF4AAA8E6DD46EE726055F
+[W 14:45:04.191 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 2.12ms referer=http://localhost:8888/tree
+[W 14:45:04.195 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.81ms referer=http://localhost:8888/tree
+[W 14:45:16.716 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.94ms referer=http://localhost:8888/notebooks/redis.ipynb
+[W 14:45:16.723 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 2.17ms referer=http://localhost:8888/notebooks/redis.ipynb
+[W 14:45:16.897 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180115173348 (::1) 2.24ms referer=http://localhost:8888/notebooks/redis.ipynb
+[I 14:45:16.942 NotebookApp] Adapting to protocol v5.1 for kernel f2100c11-f4a4-48f8-b2e4-04002ac9711f
+[I 14:47:16.893 NotebookApp] Saving file at /redis.ipynb
+[W 14:51:00.162 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.75ms referer=http://localhost:8888/tree/%E5%85%B6%E4%BB%96
+[W 14:51:00.166 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.82ms referer=http://localhost:8888/tree/%E5%85%B6%E4%BB%96
+[W 14:51:09.703 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.78ms referer=http://localhost:8888/tree
+[W 14:51:09.706 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.91ms referer=http://localhost:8888/tree
+[W 14:51:11.383 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.78ms referer=http://localhost:8888/tree
+[W 14:51:11.385 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.71ms referer=http://localhost:8888/tree
+[I 14:51:45.507 NotebookApp] Creating new file in 
+[W 14:51:45.954 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.80ms referer=http://localhost:8888/edit/untitled.txt
+[W 14:51:45.960 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.85ms referer=http://localhost:8888/edit/untitled.txt
+[I 15:13:36.418 NotebookApp] Saving file at /.bash_profile.me
+[W 15:15:06.419 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.78ms referer=http://localhost:8888/tree
+[W 15:15:06.421 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.70ms referer=http://localhost:8888/tree
+[I 15:15:16.638 NotebookApp] Starting buffering for f2100c11-f4a4-48f8-b2e4-04002ac9711f:BF39D90C5C9F4522857AE0BA2DBF66D0
+[W 15:15:18.123 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.72ms referer=http://localhost:8888/tree
+[W 15:15:18.125 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.63ms referer=http://localhost:8888/tree
+[W 15:15:21.130 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.76ms referer=http://localhost:8888/tree/%E5%85%B6%E4%BB%96
+[W 15:15:21.134 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.72ms referer=http://localhost:8888/tree/%E5%85%B6%E4%BB%96
+[W 15:15:22.810 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.75ms referer=http://localhost:8888/tree
+[W 15:15:22.814 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.70ms referer=http://localhost:8888/tree
+[W 15:15:28.273 NotebookApp] delete /其他
+[W 15:15:39.644 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.77ms referer=http://localhost:8888/tree
+[W 15:15:39.648 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.76ms referer=http://localhost:8888/tree
+[W 15:15:40.402 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.75ms referer=http://localhost:8888/tree
+[W 15:15:40.406 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.69ms referer=http://localhost:8888/tree
+[W 15:15:40.924 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.76ms referer=http://localhost:8888/tree
+[W 15:15:40.928 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.71ms referer=http://localhost:8888/tree
+[W 15:15:41.207 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.96ms referer=http://localhost:8888/tree
+[W 15:15:41.469 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.88ms referer=http://localhost:8888/tree
+[W 15:15:42.137 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.89ms referer=http://localhost:8888/tree
+[W 15:15:42.875 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 3.84ms referer=http://localhost:8888/tree
+[W 15:15:42.878 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.98ms referer=http://localhost:8888/tree
+[W 18:23:47.547 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 3.45ms referer=http://localhost:8888/tree
+[W 18:23:47.554 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 3.85ms referer=http://localhost:8888/tree
+[W 18:24:46.782 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.78ms referer=http://localhost:8888/tree
+[W 18:24:46.785 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 2.23ms referer=http://localhost:8888/tree
+[W 09:58:28.884 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 2.23ms referer=http://localhost:8888/tree
+[W 09:58:28.890 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 2.21ms referer=http://localhost:8888/tree
+[W 09:58:30.342 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 2.07ms referer=http://localhost:8888/tree
+[W 09:58:30.345 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.84ms referer=http://localhost:8888/tree
+[W 09:58:44.855 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 2.58ms referer=http://localhost:8888/tree
+[W 09:58:44.858 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.75ms referer=http://localhost:8888/tree
+[W 16:57:31.859 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.93ms referer=http://localhost:8888/tree
+[W 16:57:31.864 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 2.58ms referer=http://localhost:8888/tree
+[W 13:34:38.573 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 4.42ms referer=http://localhost:8888/notebooks/numpy_learn.ipynb
+[W 13:34:38.601 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 20.78ms referer=http://localhost:8888/notebooks/numpy_learn.ipynb
+[W 13:34:38.607 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180115173348 (::1) 3.48ms referer=http://localhost:8888/notebooks/numpy_learn.ipynb
+[I 13:34:38.798 NotebookApp] Adapting to protocol v5.1 for kernel 5cef7b70-2b50-45df-9a48-76e47022b63c
+[I 13:42:14.036 NotebookApp] Starting buffering for 5cef7b70-2b50-45df-9a48-76e47022b63c:D8DE73F687704E0090E7A2E8BA3A5918
+[W 13:42:14.586 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.79ms referer=http://localhost:8888/notebooks/numpy_learn.ipynb
+[W 13:42:14.589 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.86ms referer=http://localhost:8888/notebooks/numpy_learn.ipynb
+[W 13:42:14.745 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180115173348 (::1) 2.01ms referer=http://localhost:8888/notebooks/numpy_learn.ipynb
+[I 13:42:14.771 NotebookApp] Adapting to protocol v5.1 for kernel 5cef7b70-2b50-45df-9a48-76e47022b63c
+[I 13:44:14.752 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 14:58:48.677 NotebookApp] Starting buffering for 5cef7b70-2b50-45df-9a48-76e47022b63c:36C13D5F58564F0BB2FE6A8F2C15B16E
+[W 15:35:32.465 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 2.25ms referer=http://localhost:8888/tree
+[W 15:35:32.470 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 2.27ms referer=http://localhost:8888/tree
+[W 15:38:02.699 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180115173348 (::1) 1.80ms referer=http://localhost:8888/notebooks/numpy_learn.ipynb
+[W 15:38:02.702 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180115173348 (::1) 1.72ms referer=http://localhost:8888/notebooks/numpy_learn.ipynb
+[W 15:38:02.855 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180115173348 (::1) 3.97ms referer=http://localhost:8888/notebooks/numpy_learn.ipynb
+[I 15:38:02.924 NotebookApp] Adapting to protocol v5.1 for kernel 5cef7b70-2b50-45df-9a48-76e47022b63c
+[I 15:40:02.857 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 17:08:33.992 NotebookApp] Starting buffering for 5cef7b70-2b50-45df-9a48-76e47022b63c:256FD7020E3F442E850ED4272302C661
+[I 17:09:20.230 NotebookApp] The port 8888 is already in use, trying another port.
+[I 17:09:20.248 NotebookApp] Serving notebooks from local directory: /Users/yexianyong/Desktop/jupyter_notebook
+[I 17:09:20.248 NotebookApp] 0 active kernels
+[I 17:09:20.248 NotebookApp] The Jupyter Notebook is running at:
+[I 17:09:20.248 NotebookApp] http://localhost:8889/?token=9b37238466bb78b5fe18df4315c8ddc1fbddf754844e84c5
+[I 17:09:20.248 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:09:20.249 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=9b37238466bb78b5fe18df4315c8ddc1fbddf754844e84c5
+[I 17:09:36.012 NotebookApp] The port 8888 is already in use, trying another port.
+[I 17:09:36.013 NotebookApp] The port 8889 is already in use, trying another port.
+[I 17:09:36.028 NotebookApp] Serving notebooks from local directory: /Users/yexianyong/Desktop/jupyter_notebook
+[I 17:09:36.028 NotebookApp] 0 active kernels
+[I 17:09:36.028 NotebookApp] The Jupyter Notebook is running at:
+[I 17:09:36.028 NotebookApp] http://localhost:8890/?token=89ad56435ed9f9b5eeb899c85b6253cb005055556940eee7
+[I 17:09:36.028 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:09:36.029 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8890/?token=89ad56435ed9f9b5eeb899c85b6253cb005055556940eee7
+[I 17:09:51.866 NotebookApp] interrupted
+Serving notebooks from local directory: /Users/yexianyong/Desktop/jupyter_notebook
+0 active kernels
+The Jupyter Notebook is running at:
+http://localhost:8890/?token=89ad56435ed9f9b5eeb899c85b6253cb005055556940eee7
+Shutdown this notebook server (y/[n])? [C 17:09:53.733 NotebookApp] received signal 2, stopping
+[I 17:09:53.735 NotebookApp] Shutting down 0 kernels
+[C 17:10:37.947 NotebookApp] received signal 15, stopping
+[I 17:10:37.999 NotebookApp] Shutting down 7 kernels
+[I 17:10:39.187 NotebookApp] Kernel shutdown: ff70c498-0f93-4894-9f79-b4e4aa7f2154
+[I 17:10:44.436 NotebookApp] Kernel shutdown: f2100c11-f4a4-48f8-b2e4-04002ac9711f
+[I 17:10:44.480 NotebookApp] Kernel shutdown: ed621fab-9031-4dee-86c6-c2d2faa4de53
+[I 17:10:44.480 NotebookApp] Kernel shutdown: f4b3a900-c1bb-4b40-8bc4-da2be753fb2d
+[I 17:10:44.525 NotebookApp] Kernel shutdown: 636619aa-06ce-4fa0-aa90-394c810acff4
+[I 17:10:44.568 NotebookApp] Kernel shutdown: 5cef7b70-2b50-45df-9a48-76e47022b63c
+[I 17:10:44.569 NotebookApp] Kernel shutdown: e801270a-af18-4c5b-a8ef-9717e1f0293d
+[I 17:11:16.728 NotebookApp] Serving notebooks from local directory: /Users/yexianyong/Desktop/jupyter_notebook
+[I 17:11:16.728 NotebookApp] 0 active kernels
+[I 17:11:16.728 NotebookApp] The Jupyter Notebook is running at:
+[I 17:11:16.728 NotebookApp] http://localhost:8888/?token=e67e7bf20a7492b4df27bc40f4df80d75b304ec8d99c8a18
+[I 17:11:16.728 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:11:16.729 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=e67e7bf20a7492b4df27bc40f4df80d75b304ec8d99c8a18
+[I 17:11:26.794 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 17:11:27.390 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180119171116 (::1) 12.00ms referer=http://localhost:8888/tree
+[W 17:11:27.395 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180119171116 (::1) 2.56ms referer=http://localhost:8888/tree
+[W 17:11:29.146 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180119171116 (::1) 1.89ms referer=http://localhost:8888/tree
+[W 17:11:29.150 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180119171116 (::1) 1.57ms referer=http://localhost:8888/tree
+[W 17:11:29.667 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180119171116 (::1) 1.60ms referer=http://localhost:8888/tree
+[W 17:11:29.669 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180119171116 (::1) 1.82ms referer=http://localhost:8888/tree
+[W 17:11:30.137 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180119171116 (::1) 2.55ms referer=http://localhost:8888/tree
+[W 17:11:30.139 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180119171116 (::1) 1.75ms referer=http://localhost:8888/tree
+[W 17:11:46.343 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180119171116 (::1) 1.81ms referer=http://localhost:8888/tree
+[W 17:11:46.345 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180119171116 (::1) 1.72ms referer=http://localhost:8888/tree
+[W 17:12:32.276 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180119171116 (::1) 1.85ms referer=http://localhost:8888/tree
+[W 17:12:32.281 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180119171116 (::1) 2.06ms referer=http://localhost:8888/tree
+[W 17:12:33.305 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180119171116 (::1) 1.66ms referer=http://localhost:8888/tree
+[W 17:12:33.307 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180119171116 (::1) 2.15ms referer=http://localhost:8888/tree
+[W 17:12:33.835 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180119171116 (::1) 1.68ms referer=http://localhost:8888/tree
+[W 17:12:33.837 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180119171116 (::1) 1.80ms referer=http://localhost:8888/tree
+[W 17:12:34.269 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180119171116 (::1) 1.87ms referer=http://localhost:8888/tree
+[W 17:12:34.271 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180119171116 (::1) 1.62ms referer=http://localhost:8888/tree
+[W 17:12:34.714 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180119171116 (::1) 1.63ms referer=http://localhost:8888/tree
+[W 17:12:34.716 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180119171116 (::1) 1.65ms referer=http://localhost:8888/tree
+[W 17:12:35.089 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180119171116 (::1) 1.59ms referer=http://localhost:8888/tree
+[W 17:12:35.091 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180119171116 (::1) 1.60ms referer=http://localhost:8888/tree
+[W 17:12:35.292 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180119171116 (::1) 1.58ms referer=http://localhost:8888/tree
+[W 17:12:35.294 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180119171116 (::1) 1.60ms referer=http://localhost:8888/tree
+[W 17:12:35.470 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180119171116 (::1) 1.74ms referer=http://localhost:8888/tree
+[W 17:12:35.473 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180119171116 (::1) 1.69ms referer=http://localhost:8888/tree
+[W 17:12:35.664 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180119171116 (::1) 2.10ms referer=http://localhost:8888/tree
+[W 17:12:35.667 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180119171116 (::1) 2.07ms referer=http://localhost:8888/tree
+[W 17:12:35.862 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180119171116 (::1) 2.03ms referer=http://localhost:8888/tree
+[W 17:12:35.864 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180119171116 (::1) 1.83ms referer=http://localhost:8888/tree
+[W 17:12:36.044 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180119171116 (::1) 6.36ms referer=http://localhost:8888/tree
+[W 17:12:36.047 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180119171116 (::1) 1.81ms referer=http://localhost:8888/tree
+[W 17:14:44.646 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180119171116 (::1) 1.90ms referer=http://localhost:8888/notebooks/numpy_learn.ipynb
+[W 17:14:44.650 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180119171116 (::1) 1.62ms referer=http://localhost:8888/notebooks/numpy_learn.ipynb
+[W 17:14:44.659 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180119171116 (::1) 2.05ms referer=http://localhost:8888/notebooks/numpy_learn.ipynb
+[I 17:14:44.834 NotebookApp] Kernel started: 1d8d1356-7c4e-4df9-acf6-b175d489aee6
+[I 17:14:45.756 NotebookApp] Adapting to protocol v5.1 for kernel 1d8d1356-7c4e-4df9-acf6-b175d489aee6
+[W 17:15:32.679 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180119171116 (::1) 2.05ms referer=http://localhost:8888/notebooks/redis.ipynb
+[W 17:15:32.683 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180119171116 (::1) 2.09ms referer=http://localhost:8888/notebooks/redis.ipynb
+[W 17:15:32.709 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180119171116 (::1) 2.14ms referer=http://localhost:8888/notebooks/redis.ipynb
+[I 17:15:32.866 NotebookApp] Kernel started: c4440909-96c1-4bb2-ae5c-0df8d8e31dac
+[I 17:15:33.843 NotebookApp] Adapting to protocol v5.1 for kernel c4440909-96c1-4bb2-ae5c-0df8d8e31dac
+[I 17:16:45.115 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 17:18:45.111 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 17:20:19.580 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 17:20:20.400 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 17:20:44.782 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 17:22:44.777 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 17:24:44.772 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 17:26:44.771 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 17:28:44.768 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 17:38:44.766 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 17:40:44.761 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 17:42:44.758 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 17:44:44.756 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 17:46:44.751 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 17:48:44.753 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 17:50:44.755 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 18:00:44.871 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 18:02:09.817 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 18:02:10.030 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 18:02:11.240 NotebookApp] Starting buffering for 1d8d1356-7c4e-4df9-acf6-b175d489aee6:353F5B2F83FE4E71B52841C2BFC3DC40
+[W 18:02:11.800 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180119171116 (::1) 2.53ms referer=http://localhost:8888/notebooks/numpy_learn.ipynb
+[W 18:02:11.804 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180119171116 (::1) 1.86ms referer=http://localhost:8888/notebooks/numpy_learn.ipynb
+[W 18:02:12.022 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180119171116 (::1) 2.84ms referer=http://localhost:8888/notebooks/numpy_learn.ipynb
+[I 18:02:12.046 NotebookApp] Adapting to protocol v5.1 for kernel 1d8d1356-7c4e-4df9-acf6-b175d489aee6
+[I 18:04:12.022 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 18:05:55.664 NotebookApp] Saving file at /numpy_learn.ipynb
+[I 18:05:57.009 NotebookApp] Starting buffering for 1d8d1356-7c4e-4df9-acf6-b175d489aee6:06B809F79BD74F13B665F1BDA13AB2A9
+[W 18:06:01.329 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180119171116 (::1) 1.74ms referer=http://localhost:8888/notebooks/numpy_learn.ipynb
+[W 18:06:01.333 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180119171116 (::1) 2.12ms referer=http://localhost:8888/notebooks/numpy_learn.ipynb
+[W 18:06:01.358 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180119171116 (::1) 2.06ms referer=http://localhost:8888/notebooks/numpy_learn.ipynb
+[I 18:06:01.561 NotebookApp] Adapting to protocol v5.1 for kernel 1d8d1356-7c4e-4df9-acf6-b175d489aee6
+[I 18:08:01.537 NotebookApp] Saving file at /numpy_learn.ipynb
+[C 14:16:06.928 NotebookApp] No such file or directory: /Users/yexianyong/Desktop/jupyter_notebook/$
+[I 14:16:16.946 NotebookApp] Serving notebooks from local directory: /Users/yexianyong/Desktop/jupyter_notebook
+[I 14:16:16.946 NotebookApp] 0 active kernels
+[I 14:16:16.946 NotebookApp] The Jupyter Notebook is running at:
+[I 14:16:16.946 NotebookApp] http://localhost:8888/?token=e5d1a7dc92653b40b604a76fe5c8c1201064dc20ffb46efa
+[I 14:16:16.946 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 14:16:16.947 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=e5d1a7dc92653b40b604a76fe5c8c1201064dc20ffb46efa
+[I 14:16:17.133 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 14:16:17.808 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180122141616 (::1) 12.23ms referer=http://localhost:8888/tree
+[W 14:16:17.810 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180122141616 (::1) 2.29ms referer=http://localhost:8888/tree
+[W 14:16:21.256 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180122141616 (::1) 1.77ms referer=http://localhost:8888/tree
+[W 14:16:21.258 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180122141616 (::1) 1.67ms referer=http://localhost:8888/tree
+[W 14:16:23.692 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180122141616 (::1) 2.07ms referer=http://localhost:8888/notebooks/redis.ipynb
+[W 14:16:23.696 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180122141616 (::1) 1.85ms referer=http://localhost:8888/notebooks/redis.ipynb
+[W 14:16:23.709 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180122141616 (::1) 3.01ms referer=http://localhost:8888/notebooks/redis.ipynb
+[I 14:16:23.946 NotebookApp] Kernel started: 708df324-571d-47f3-b0cd-7d528b135acb
+[W 14:16:25.842 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180122141616 (::1) 1.84ms referer=http://localhost:8888/tree
+[W 14:16:25.845 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180122141616 (::1) 1.79ms referer=http://localhost:8888/tree
+[I 14:16:35.803 NotebookApp] Creating new notebook in 
+[W 14:16:36.359 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180122141616 (::1) 2.18ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[W 14:16:36.363 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180122141616 (::1) 1.66ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[I 14:16:36.451 NotebookApp] Kernel started: 8044b133-2a0f-442c-b6d7-ab7a7cc4763d
+[W 14:16:36.465 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180122141616 (::1) 2.56ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[I 14:16:37.358 NotebookApp] Adapting to protocol v5.1 for kernel 8044b133-2a0f-442c-b6d7-ab7a7cc4763d
+[I 14:18:36.457 NotebookApp] Saving file at /zhilian.ipynb
+[I 14:19:39.860 NotebookApp] Saving file at /zhilian.ipynb
+[I 14:20:36.447 NotebookApp] Saving file at /zhilian.ipynb
+[I 14:48:37.274 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:56:36.698 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:58:36.695 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 15:00:35.638 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 15:00:36.122 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 15:00:36.391 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 15:00:37.458 NotebookApp] Starting buffering for 8044b133-2a0f-442c-b6d7-ab7a7cc4763d:702A63090F5E41B687CA4DF0037FA4EB
+[W 15:01:17.792 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180122141616 (::1) 3.68ms referer=http://localhost:8888/tree
+[W 15:01:17.796 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180122141616 (::1) 1.93ms referer=http://localhost:8888/tree
+[W 15:01:22.090 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180122141616 (::1) 2.17ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[W 15:01:22.092 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180122141616 (::1) 1.89ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[W 15:01:22.244 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180122141616 (::1) 1.90ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[I 15:01:22.292 NotebookApp] Adapting to protocol v5.1 for kernel 8044b133-2a0f-442c-b6d7-ab7a7cc4763d
+[I 15:03:22.247 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 15:05:22.241 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 15:07:22.243 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[W 16:10:55.315 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180122141616 (::1) 1.77ms referer=http://localhost:8888/notebooks/pandas_learn.ipynb
+[W 16:10:55.318 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180122141616 (::1) 1.93ms referer=http://localhost:8888/notebooks/pandas_learn.ipynb
+[I 16:10:55.447 NotebookApp] Kernel started: 62e33992-b062-4957-904b-e1e369e17b72
+[W 16:10:55.452 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180122141616 (::1) 2.89ms referer=http://localhost:8888/notebooks/pandas_learn.ipynb
+[I 16:10:56.683 NotebookApp] Adapting to protocol v5.1 for kernel 62e33992-b062-4957-904b-e1e369e17b72
+[I 16:12:55.445 NotebookApp] Saving file at /pandas_learn.ipynb
+[I 16:14:55.441 NotebookApp] Saving file at /pandas_learn.ipynb
+[I 16:16:56.158 NotebookApp] Saving file at /pandas_learn.ipynb
+[I 16:18:55.441 NotebookApp] Saving file at /pandas_learn.ipynb
+[I 16:20:55.440 NotebookApp] Saving file at /pandas_learn.ipynb
+[I 16:22:55.434 NotebookApp] Saving file at /pandas_learn.ipynb
+[I 16:24:55.436 NotebookApp] Saving file at /pandas_learn.ipynb
+[I 16:26:55.437 NotebookApp] Saving file at /pandas_learn.ipynb
+[I 17:15:22.145 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 17:17:22.147 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 17:19:22.201 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 17:21:22.197 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 17:31:22.196 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 17:33:22.194 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 17:35:22.185 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[W 17:36:17.546 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[I 17:37:22.132 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 17:39:22.131 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 17:41:22.131 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 17:45:22.125 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 17:47:22.126 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 17:49:22.124 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 17:51:22.119 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 17:53:22.117 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 17:55:22.120 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 17:57:22.117 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 17:59:22.117 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 18:07:22.112 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 18:09:22.106 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 18:15:22.107 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 18:17:22.106 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 18:19:22.101 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 18:21:22.099 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 18:23:22.099 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 18:23:57.202 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 18:23:58.901 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 18:23:58.962 NotebookApp] Starting buffering for 8044b133-2a0f-442c-b6d7-ab7a7cc4763d:EFC2AD47EFA241A28AB1B5556E5C1231
+[W 18:24:04.801 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180122141616 (::1) 1.99ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[W 18:24:04.804 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180122141616 (::1) 1.85ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[W 18:24:05.044 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180122141616 (::1) 2.01ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[I 18:24:05.061 NotebookApp] Adapting to protocol v5.1 for kernel 8044b133-2a0f-442c-b6d7-ab7a7cc4763d
+[I 18:26:04.989 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 18:28:04.995 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 18:30:04.984 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 18:32:04.984 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 18:34:00.133 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 09:45:32.335 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 09:47:32.327 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 09:59:32.316 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 10:01:32.318 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 10:03:32.316 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 10:05:32.319 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 10:19:32.309 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 10:21:32.306 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 10:25:32.300 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 10:27:32.299 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 10:29:32.298 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 10:35:32.298 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 10:37:32.299 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 10:39:32.295 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 10:41:32.290 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 10:45:32.291 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 10:47:32.289 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 10:49:32.286 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 10:51:32.284 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 10:53:32.286 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 11:07:32.274 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 11:09:32.275 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 11:11:30.406 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 11:11:30.663 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 11:11:31.700 NotebookApp] Starting buffering for 8044b133-2a0f-442c-b6d7-ab7a7cc4763d:3BE6D06CECDC4CD38AE2667EB8F64383
+[W 11:11:32.118 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180122141616 (::1) 2.17ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[W 11:11:32.122 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180122141616 (::1) 2.74ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[W 11:11:32.132 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180122141616 (::1) 2.82ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[I 11:11:32.373 NotebookApp] Adapting to protocol v5.1 for kernel 8044b133-2a0f-442c-b6d7-ab7a7cc4763d
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 11:12:56.008 NotebookApp] Serving notebooks from local directory: /Users/yexianyong/Desktop/jupyter_notebook
+[I 11:12:56.008 NotebookApp] 0 active kernels
+[I 11:12:56.008 NotebookApp] The Jupyter Notebook is running at:
+[I 11:12:56.008 NotebookApp] http://localhost:8888/?token=f7f8e213a6023b84118b4a80a759f3b7e1b5e48abc14c223
+[I 11:12:56.008 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:12:56.009 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=f7f8e213a6023b84118b4a80a759f3b7e1b5e48abc14c223
+[I 11:12:56.188 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 11:12:56.800 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 11.76ms referer=http://localhost:8888/tree
+[W 11:12:56.802 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.74ms referer=http://localhost:8888/tree
+[W 11:12:58.348 NotebookApp] 404 GET /api/kernels/62e33992-b062-4957-904b-e1e369e17b72/channels?session_id=653F3F6028BF439F84A2C209A305555C (::1): Kernel does not exist: 62e33992-b062-4957-904b-e1e369e17b72
+[W 11:12:58.349 NotebookApp] 404 GET /api/kernels/62e33992-b062-4957-904b-e1e369e17b72/channels?session_id=653F3F6028BF439F84A2C209A305555C (::1) 16.09ms referer=None
+[W 11:13:03.484 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.95ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[W 11:13:03.489 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 4.44ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[W 11:13:03.496 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180123111255 (::1) 2.61ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[I 11:13:03.756 NotebookApp] Kernel started: 79d659ad-7b42-40f3-ac9f-0a565af70084
+[I 11:13:04.637 NotebookApp] Adapting to protocol v5.1 for kernel 79d659ad-7b42-40f3-ac9f-0a565af70084
+[W 11:13:11.385 NotebookApp] 404 GET /api/kernels/8044b133-2a0f-442c-b6d7-ab7a7cc4763d/channels?session_id=DD54A825A0CF472596D3132B08FE5313 (::1): Kernel does not exist: 8044b133-2a0f-442c-b6d7-ab7a7cc4763d
+[W 11:13:11.387 NotebookApp] 404 GET /api/kernels/8044b133-2a0f-442c-b6d7-ab7a7cc4763d/channels?session_id=DD54A825A0CF472596D3132B08FE5313 (::1) 3.63ms referer=None
+[W 11:13:15.337 NotebookApp] Replacing stale connection: 62e33992-b062-4957-904b-e1e369e17b72:653F3F6028BF439F84A2C209A305555C
+[I 11:13:32.545 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[W 11:13:44.828 NotebookApp] Replacing stale connection: 8044b133-2a0f-442c-b6d7-ab7a7cc4763d:DD54A825A0CF472596D3132B08FE5313
+[I 11:15:13.683 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 11:15:16.547 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 11:15:16.849 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 11:15:17.343 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 11:17:03.708 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[W 11:17:48.332 NotebookApp] Replacing stale connection: 62e33992-b062-4957-904b-e1e369e17b72:653F3F6028BF439F84A2C209A305555C
+[W 11:18:49.631 NotebookApp] Replacing stale connection: 8044b133-2a0f-442c-b6d7-ab7a7cc4763d:DD54A825A0CF472596D3132B08FE5313
+[I 11:19:03.711 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 11:21:03.704 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[W 11:22:53.333 NotebookApp] Replacing stale connection: 62e33992-b062-4957-904b-e1e369e17b72:653F3F6028BF439F84A2C209A305555C
+[I 11:23:03.707 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 11:25:03.701 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 11:27:03.702 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 11:29:03.699 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 11:31:03.699 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 11:33:03.701 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 11:35:03.699 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 11:37:04.603 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 11:39:03.697 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 12:12:33.071 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 12:14:33.062 NotebookApp] Saving file at /zhilian_datamining.ipynb
+/bin/sh: fc-list: command not found
+[I 12:18:33.054 NotebookApp] Saving file at /zhilian_datamining.ipynb
+/bin/sh: fc-list: command not found
+[I 12:20:33.052 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 12:22:33.056 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 12:30:33.047 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 13:12:42.607 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 13:16:42.605 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:06:47.979 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:06:49.785 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[W 14:06:57.913 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 2.29ms referer=http://localhost:8888/notebooks/pandas_learn.ipynb
+[W 14:06:57.917 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 2.55ms referer=http://localhost:8888/notebooks/pandas_learn.ipynb
+[W 14:06:57.927 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180123111255 (::1) 3.30ms referer=http://localhost:8888/notebooks/pandas_learn.ipynb
+[I 14:06:58.114 NotebookApp] Kernel started: 6feab97b-033f-4fb1-96cc-c45652e25efa
+[W 14:06:59.063 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.71ms referer=http://localhost:8888/notebooks/pandas_learn.ipynb
+[W 14:06:59.070 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.91ms referer=http://localhost:8888/notebooks/pandas_learn.ipynb
+[W 14:06:59.192 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180123111255 (::1) 1.99ms referer=http://localhost:8888/notebooks/pandas_learn.ipynb
+[I 14:06:59.444 NotebookApp] Adapting to protocol v5.1 for kernel 6feab97b-033f-4fb1-96cc-c45652e25efa
+[I 14:06:59.444 NotebookApp] Adapting to protocol v5.1 for kernel 6feab97b-033f-4fb1-96cc-c45652e25efa
+[W 14:06:59.459 NotebookApp] zmq message arrived on closed channel
+[W 14:06:59.462 NotebookApp] zmq message arrived on closed channel
+[I 14:07:02.170 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:07:02.665 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:07:02.991 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:07:03.218 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[W 14:07:08.419 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.76ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[W 14:07:08.422 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 2.26ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[W 14:07:08.555 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180123111255 (::1) 2.01ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[I 14:07:08.603 NotebookApp] Adapting to protocol v5.1 for kernel 79d659ad-7b42-40f3-ac9f-0a565af70084
+[I 14:07:12.500 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:07:12.734 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[W 14:08:02.838 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 2.42ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[W 14:08:02.842 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.95ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[W 14:08:02.983 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180123111255 (::1) 2.03ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[I 14:08:03.035 NotebookApp] Adapting to protocol v5.1 for kernel 79d659ad-7b42-40f3-ac9f-0a565af70084
+[I 14:10:02.987 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:12:02.988 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:13:10.604 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:13:11.751 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:13:12.246 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:14:02.984 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:16:02.981 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:18:02.983 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:20:02.982 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:20:43.322 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:20:43.941 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:20:44.187 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:20:44.389 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:20:44.580 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:20:44.771 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[W 14:20:46.361 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 2.09ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[W 14:20:46.365 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 2.07ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[W 14:20:46.374 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180123111255 (::1) 2.46ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[I 14:20:46.565 NotebookApp] Adapting to protocol v5.1 for kernel 79d659ad-7b42-40f3-ac9f-0a565af70084
+[W 14:21:00.387 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.74ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[W 14:21:00.391 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.74ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[W 14:21:00.395 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180123111255 (::1) 1.99ms referer=http://localhost:8888/notebooks/zhilian_datamining.ipynb
+[I 14:21:00.588 NotebookApp] Adapting to protocol v5.1 for kernel 79d659ad-7b42-40f3-ac9f-0a565af70084
+[I 14:23:00.542 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:25:00.539 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:27:00.543 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:29:00.535 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:31:00.537 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:31:55.456 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:31:55.702 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:32:12.003 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:32:12.260 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:33:00.534 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:35:00.535 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:48:20.989 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:48:46.511 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:48:46.735 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:48:46.937 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:49:00.530 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:51:00.528 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:53:00.525 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:55:00.521 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:57:00.522 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 14:59:00.517 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 15:01:00.516 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 15:03:00.518 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 15:05:00.516 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 15:07:00.513 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 15:11:00.513 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 15:13:00.513 NotebookApp] Saving file at /zhilian_datamining.ipynb
+[I 15:14:50.969 NotebookApp] Saving file at /各行业招聘数量排名.ipynb
+[I 15:14:51.787 NotebookApp] Saving file at /各行业招聘数量排名.ipynb
+[W 15:14:57.724 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.87ms referer=http://localhost:8888/tree
+[W 15:14:57.726 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.68ms referer=http://localhost:8888/tree
+[I 15:15:04.090 NotebookApp] Creating new directory in 
+[W 15:15:06.040 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 2.13ms referer=http://localhost:8888/tree/Untitled%20Folder
+[W 15:15:06.044 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.66ms referer=http://localhost:8888/tree/Untitled%20Folder
+[W 15:15:07.337 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.73ms referer=http://localhost:8888/tree/Untitled%20Folder
+[W 15:15:07.339 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.61ms referer=http://localhost:8888/tree/Untitled%20Folder
+[I 15:16:22.079 NotebookApp] Starting buffering for 6feab97b-033f-4fb1-96cc-c45652e25efa:D4F2EF6DD49B41E9850399BCEB979A93
+[I 15:16:23.320 NotebookApp] Starting buffering for 79d659ad-7b42-40f3-ac9f-0a565af70084:A6FD1C9AC46543FD8A6C2EF305EE2BF1
+[W 15:17:55.446 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.78ms referer=http://localhost:8888/tree
+[W 15:17:55.450 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.60ms referer=http://localhost:8888/tree
+[W 15:17:55.490 NotebookApp] 404 GET /clusters?_=1516691875297 (::1) 1.52ms referer=http://localhost:8888/tree
+[W 15:17:56.425 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.86ms referer=http://localhost:8888/tree
+[W 15:17:56.428 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.87ms referer=http://localhost:8888/tree
+[W 15:17:56.468 NotebookApp] 404 GET /clusters?_=1516691876326 (::1) 1.81ms referer=http://localhost:8888/tree
+[W 15:18:00.057 NotebookApp] 404 GET /clusters?_=1516691876327 (::1) 1.74ms referer=http://localhost:8888/tree
+[W 15:18:01.006 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.73ms referer=http://localhost:8888/tree
+[W 15:18:01.009 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.74ms referer=http://localhost:8888/tree
+[W 15:18:01.073 NotebookApp] 404 GET /clusters?_=1516691880920 (::1) 1.73ms referer=http://localhost:8888/tree
+[W 15:18:09.557 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 2.16ms referer=http://localhost:8888/tree
+[W 15:18:09.563 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.78ms referer=http://localhost:8888/tree
+[W 15:18:09.610 NotebookApp] 404 GET /clusters?_=1516691889468 (::1) 1.81ms referer=http://localhost:8888/tree
+[I 15:18:21.545 NotebookApp] Kernel shutdown: 79d659ad-7b42-40f3-ac9f-0a565af70084
+[W 15:19:59.766 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.84ms referer=http://localhost:8888/tree
+[W 15:19:59.769 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 2.25ms referer=http://localhost:8888/tree
+[W 15:19:59.816 NotebookApp] 404 GET /clusters?_=1516691999583 (::1) 1.97ms referer=http://localhost:8888/tree
+[W 15:20:55.420 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.67ms referer=http://localhost:8888/tree
+[W 15:20:55.422 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.67ms referer=http://localhost:8888/tree
+[W 15:20:55.459 NotebookApp] 404 GET /clusters?_=1516692055275 (::1) 1.48ms referer=http://localhost:8888/tree
+[W 15:20:56.428 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.79ms referer=http://localhost:8888/tree/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0
+[W 15:20:56.434 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.82ms referer=http://localhost:8888/tree/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0
+[W 15:20:56.470 NotebookApp] 404 GET /clusters?_=1516692056345 (::1) 2.44ms referer=http://localhost:8888/tree/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0
+[W 15:21:01.057 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.88ms referer=http://localhost:8888/tree
+[W 15:21:01.060 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.73ms referer=http://localhost:8888/tree
+[W 15:21:01.101 NotebookApp] 404 GET /clusters?_=1516692060972 (::1) 1.96ms referer=http://localhost:8888/tree
+[W 15:21:02.107 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.98ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 15:21:02.111 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.73ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 15:21:02.138 NotebookApp] 404 GET /clusters?_=1516692062028 (::1) 1.96ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 15:21:04.243 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180123111255 (::1) 3.27ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[W 15:21:04.248 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.88ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[W 15:21:04.250 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.80ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[I 15:21:04.570 NotebookApp] Kernel started: 8da1f74b-9f50-4e86-ab6f-818153e334f1
+[I 15:21:05.562 NotebookApp] Adapting to protocol v5.1 for kernel 8da1f74b-9f50-4e86-ab6f-818153e334f1
+[I 15:23:32.357 NotebookApp] Saving file at /智联招聘数据分析/各行业招聘数量排名.ipynb
+[I 15:23:32.625 NotebookApp] Saving file at /智联招聘数据分析/各行业招聘数量排名.ipynb
+[I 15:25:04.580 NotebookApp] Saving file at /智联招聘数据分析/各行业招聘数量排名.ipynb
+[I 15:27:04.579 NotebookApp] Saving file at /智联招聘数据分析/各行业招聘数量排名.ipynb
+[I 15:29:04.577 NotebookApp] Saving file at /智联招聘数据分析/各行业招聘数量排名.ipynb
+[W 15:30:39.006 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 2.06ms referer=http://localhost:8888/tree
+[W 15:30:39.009 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.72ms referer=http://localhost:8888/tree
+[W 15:30:39.048 NotebookApp] 404 GET /clusters?_=1516692638861 (::1) 1.82ms referer=http://localhost:8888/tree
+[W 15:30:40.847 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 2.20ms referer=http://localhost:8888/tree/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0
+[W 15:30:40.849 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.74ms referer=http://localhost:8888/tree/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0
+[W 15:30:40.888 NotebookApp] 404 GET /clusters?_=1516692640764 (::1) 2.04ms referer=http://localhost:8888/tree/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0
+[I 15:37:41.474 NotebookApp] Saving file at /智联招聘数据分析/各行业招聘数量排名.ipynb
+[I 15:41:04.565 NotebookApp] Saving file at /智联招聘数据分析/各行业招聘数量排名.ipynb
+[I 15:42:01.389 NotebookApp] Saving file at /智联招聘数据分析/各行业招聘数量排名.ipynb
+[I 15:47:04.563 NotebookApp] Saving file at /智联招聘数据分析/各行业招聘数量排名.ipynb
+[I 15:49:04.559 NotebookApp] Saving file at /智联招聘数据分析/各行业招聘数量排名.ipynb
+[I 15:53:04.562 NotebookApp] Saving file at /智联招聘数据分析/各行业招聘数量排名.ipynb
+[I 15:55:04.560 NotebookApp] Saving file at /智联招聘数据分析/各行业招聘数量排名.ipynb
+[I 15:57:04.557 NotebookApp] Saving file at /智联招聘数据分析/各行业招聘数量排名.ipynb
+[I 16:01:03.566 NotebookApp] Saving file at /智联招聘数据分析/各行业招聘数量排名.ipynb
+[I 16:02:10.200 NotebookApp] Saving file at /智联招聘数据分析/各行业招聘数量排名.ipynb
+[I 16:03:03.558 NotebookApp] Saving file at /智联招聘数据分析/各行业招聘数量排名.ipynb
