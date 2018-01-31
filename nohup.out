@@ -900,3 +900,268 @@ Shutdown this notebook server (y/[n])? [C 17:09:53.733 NotebookApp] received sig
 [I 16:43:03.527 NotebookApp] Saving file at /智联招聘数据分析/各行业招聘数量排名.ipynb
 [I 16:44:19.374 NotebookApp] Saving file at /智联招聘数据分析/各行业招聘数量排名.ipynb
 [I 16:44:19.855 NotebookApp] Saving file at /智联招聘数据分析/各行业招聘数量排名.ipynb
+[I 16:50:28.634 NotebookApp] 302 GET / (127.0.0.1) 0.52ms
+[I 16:50:28.637 NotebookApp] 302 GET /tree? (127.0.0.1) 0.76ms
+[I 16:50:28.684 NotebookApp] Kernel started: 7e02f34e-834d-4d79-b3e3-011b291f1ed1
+[W 16:50:28.710 NotebookApp] No session ID specified
+[I 16:50:29.975 NotebookApp] Adapting to protocol v5.1 for kernel 7e02f34e-834d-4d79-b3e3-011b291f1ed1
+[W 16:56:47.900 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 2.29ms referer=http://localhost:8888/tree
+[W 16:56:47.906 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.73ms referer=http://localhost:8888/tree
+[W 16:56:47.949 NotebookApp] 404 GET /clusters?_=1516697807735 (::1) 2.39ms referer=http://localhost:8888/tree
+[W 16:56:50.081 NotebookApp] Notebook lifecycle.ipynb is not trusted
+[W 16:56:50.101 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.96ms referer=http://localhost:8888/notebooks/lifecycle.ipynb
+[W 16:56:50.106 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180123111255 (::1) 3.97ms referer=http://localhost:8888/notebooks/lifecycle.ipynb
+[W 16:56:50.110 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.91ms referer=http://localhost:8888/notebooks/lifecycle.ipynb
+[I 16:56:50.981 NotebookApp] Kernel started: 84f9a8e6-8d54-432f-8620-0cb3c23ddfac
+[I 16:56:52.288 NotebookApp] Adapting to protocol v5.1 for kernel 84f9a8e6-8d54-432f-8620-0cb3c23ddfac
+[I 16:58:50.982 NotebookApp] Saving file at /lifecycle.ipynb
+[I 16:58:58.036 NotebookApp] Starting buffering for 84f9a8e6-8d54-432f-8620-0cb3c23ddfac:68AF3DFDF7B843258E7FEC0FE6599853
+[W 17:04:24.602 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.80ms referer=http://localhost:8888/tree
+[W 17:04:24.606 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.89ms referer=http://localhost:8888/tree
+[W 17:04:24.653 NotebookApp] 404 GET /clusters?_=1516698264467 (::1) 1.92ms referer=http://localhost:8888/tree
+[W 17:04:30.987 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 2.02ms referer=http://localhost:8888/tree
+[W 17:04:30.990 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 2.12ms referer=http://localhost:8888/tree
+[W 17:04:31.034 NotebookApp] 404 GET /clusters?_=1516698270886 (::1) 1.55ms referer=http://localhost:8888/tree
+[W 17:04:31.841 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.83ms referer=http://localhost:8888/tree
+[W 17:04:31.845 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.96ms referer=http://localhost:8888/tree
+[W 17:04:31.883 NotebookApp] 404 GET /clusters?_=1516698271752 (::1) 1.60ms referer=http://localhost:8888/tree
+[W 17:04:32.743 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.79ms referer=http://localhost:8888/tree
+[W 17:04:32.751 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 2.16ms referer=http://localhost:8888/tree
+[W 17:04:32.785 NotebookApp] 404 GET /clusters?_=1516698272654 (::1) 1.57ms referer=http://localhost:8888/tree
+[W 17:07:23.538 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.58ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:07:23.541 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.83ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:07:23.582 NotebookApp] 404 GET /clusters?_=1516698443400 (::1) 1.65ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:07:26.083 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.68ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[W 17:07:26.085 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.84ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[W 17:07:26.095 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180123111255 (::1) 2.30ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[I 17:07:26.497 NotebookApp] Adapting to protocol v5.1 for kernel 8da1f74b-9f50-4e86-ab6f-818153e334f1
+[I 17:09:26.389 NotebookApp] Saving file at /智联招聘数据分析/各行业招聘数量排名.ipynb
+[W 17:10:10.943 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.76ms referer=http://localhost:8888/tree
+[W 17:10:10.946 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 2.06ms referer=http://localhost:8888/tree
+[W 17:10:10.998 NotebookApp] 404 GET /clusters?_=1516698610742 (::1) 2.07ms referer=http://localhost:8888/tree
+[W 17:10:12.164 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.72ms referer=http://localhost:8888/tree
+[W 17:10:12.168 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.67ms referer=http://localhost:8888/tree
+[W 17:10:12.205 NotebookApp] 404 GET /clusters?_=1516698612084 (::1) 2.01ms referer=http://localhost:8888/tree
+[W 17:10:14.337 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.67ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:10:14.339 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.54ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:10:14.372 NotebookApp] 404 GET /clusters?_=1516698614247 (::1) 1.98ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:10:17.730 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.72ms referer=http://localhost:8888/tree
+[W 17:10:17.733 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 2.11ms referer=http://localhost:8888/tree
+[W 17:10:17.768 NotebookApp] 404 GET /clusters?_=1516698617652 (::1) 1.76ms referer=http://localhost:8888/tree
+[W 17:10:24.558 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.82ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:10:24.560 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.65ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:10:24.595 NotebookApp] 404 GET /clusters?_=1516698624470 (::1) 1.70ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:10:27.564 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.89ms referer=http://localhost:8888/tree
+[W 17:10:27.566 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.71ms referer=http://localhost:8888/tree
+[W 17:10:27.603 NotebookApp] 404 GET /clusters?_=1516698627487 (::1) 2.41ms referer=http://localhost:8888/tree
+[W 17:12:06.951 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.84ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:12:06.954 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 2.15ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:12:06.992 NotebookApp] 404 GET /clusters?_=1516698726858 (::1) 1.77ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:12:08.415 NotebookApp] Notebook 智联招聘数据分析/各行业招聘数量排名.ipynb is not trusted
+[W 17:12:08.435 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 2.71ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[W 17:12:08.437 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.69ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[W 17:12:08.448 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180123111255 (::1) 2.70ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[I 17:12:08.890 NotebookApp] Adapting to protocol v5.1 for kernel 8da1f74b-9f50-4e86-ab6f-818153e334f1
+[I 17:13:53.812 NotebookApp] Starting buffering for 7e02f34e-834d-4d79-b3e3-011b291f1ed1:b7433171-fcb315e6c82bb39d723e6e37
+[I 17:13:54.430 NotebookApp] Kernel shutdown: 7e02f34e-834d-4d79-b3e3-011b291f1ed1
+[W 17:14:52.930 NotebookApp] Notebook 智联招聘数据分析/各行业招聘数量排名.ipynb is not trusted
+[I 17:14:53.215 NotebookApp] Support files will be in 
+[I 17:14:53.215 NotebookApp] Making directory /Users/yexianyong/Desktop/jupyter_notebook/智联招聘数据分析
+[I 17:14:53.215 NotebookApp] Writing 25851 bytes to /Users/yexianyong/Desktop/jupyter_notebook/智联招聘数据分析/notebook.tex
+[I 17:14:53.216 NotebookApp] Building PDF
+[E 17:14:53.223 NotebookApp] nbconvert failed: xelatex not found on PATH, if you have not installed xelatex you may need to do so. Find further instructions at https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex.
+    Traceback (most recent call last):
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/nbconvert/handlers.py", line 122, in get
+        resources=resource_dict
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/nbconvert/exporters/pdf.py", line 175, in from_notebook_node
+        rc = self.run_latex(tex_file)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/nbconvert/exporters/pdf.py", line 137, in run_latex
+        self.latex_count, log_error)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/nbconvert/exporters/pdf.py", line 99, in run_command
+        "at {link}.".format(formatter=command_list[0], link=link))
+    OSError: xelatex not found on PATH, if you have not installed xelatex you may need to do so. Find further instructions at https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex.
+[W 17:14:53.226 NotebookApp] 500 GET /nbconvert/pdf/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb?download=true (::1): nbconvert failed: xelatex not found on PATH, if you have not installed xelatex you may need to do so. Find further instructions at https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex.
+[E 17:14:53.229 NotebookApp] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+      "Referer": "http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+      "Cookie": "_xsrf=2|d4a2dad4|69fad810b077758d2da6e3d71c4f6ffb|1516008828; username-localhost-8888=\"2|1:0|10:1516698610|23:username-localhost-8888|44:ZjY0OWQwZWI3NjQ3NDE5MDhlYjFiNmJkYzE2MmUyMjI=|c1eae21d23300380730cd48b908cc2569bf9c3af7c45b23b0477d40546a31845\""
+    }
+[E 17:14:53.229 NotebookApp] 500 GET /nbconvert/pdf/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb?download=true (::1) 448.66ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[W 17:15:10.188 NotebookApp] Notebook 智联招聘数据分析/各行业招聘数量排名.ipynb is not trusted
+[W 17:15:10.197 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.68ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[W 17:15:10.200 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.71ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[W 17:15:10.213 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180123111255 (::1) 1.95ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[I 17:15:10.705 NotebookApp] Adapting to protocol v5.1 for kernel 8da1f74b-9f50-4e86-ab6f-818153e334f1
+[W 17:15:17.569 NotebookApp] Notebook 智联招聘数据分析/各行业招聘数量排名.ipynb is not trusted
+[I 17:15:17.768 NotebookApp] Support files will be in 
+[I 17:15:17.768 NotebookApp] Making directory /Users/yexianyong/Desktop/jupyter_notebook/智联招聘数据分析
+[I 17:15:17.769 NotebookApp] Writing 25851 bytes to /Users/yexianyong/Desktop/jupyter_notebook/智联招聘数据分析/notebook.tex
+[I 17:15:17.769 NotebookApp] Building PDF
+[E 17:15:17.770 NotebookApp] nbconvert failed: xelatex not found on PATH, if you have not installed xelatex you may need to do so. Find further instructions at https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex.
+    Traceback (most recent call last):
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/nbconvert/handlers.py", line 122, in get
+        resources=resource_dict
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/nbconvert/exporters/pdf.py", line 175, in from_notebook_node
+        rc = self.run_latex(tex_file)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/nbconvert/exporters/pdf.py", line 137, in run_latex
+        self.latex_count, log_error)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/nbconvert/exporters/pdf.py", line 99, in run_command
+        "at {link}.".format(formatter=command_list[0], link=link))
+    OSError: xelatex not found on PATH, if you have not installed xelatex you may need to do so. Find further instructions at https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex.
+[W 17:15:17.770 NotebookApp] 500 GET /nbconvert/pdf/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb?download=true (::1): nbconvert failed: xelatex not found on PATH, if you have not installed xelatex you may need to do so. Find further instructions at https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex.
+[E 17:15:17.771 NotebookApp] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+      "Referer": "http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+      "Cookie": "_xsrf=2|d4a2dad4|69fad810b077758d2da6e3d71c4f6ffb|1516008828; username-localhost-8888=\"2|1:0|10:1516698610|23:username-localhost-8888|44:ZjY0OWQwZWI3NjQ3NDE5MDhlYjFiNmJkYzE2MmUyMjI=|c1eae21d23300380730cd48b908cc2569bf9c3af7c45b23b0477d40546a31845\""
+    }
+[E 17:15:17.771 NotebookApp] 500 GET /nbconvert/pdf/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb?download=true (::1) 232.44ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[W 17:15:25.947 NotebookApp] Notebook 智联招聘数据分析/各行业招聘数量排名.ipynb is not trusted
+[W 17:15:25.958 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.81ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[W 17:15:25.961 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.82ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[W 17:15:25.968 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180123111255 (::1) 2.09ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[I 17:15:26.427 NotebookApp] Adapting to protocol v5.1 for kernel 8da1f74b-9f50-4e86-ab6f-818153e334f1
+[I 17:16:06.710 NotebookApp] Saving file at /智联招聘数据分析/各行业招聘数量排名.ipynb
+[W 17:16:06.710 NotebookApp] Notebook 智联招聘数据分析/各行业招聘数量排名.ipynb is not trusted
+[W 17:16:06.778 NotebookApp] Notebook 智联招聘数据分析/各行业招聘数量排名.ipynb is not trusted
+[I 17:18:05.027 NotebookApp] Starting buffering for 8da1f74b-9f50-4e86-ab6f-818153e334f1:9F1A9E5E99F24827B03A7854240775C7
+[W 17:18:05.491 NotebookApp] Notebook 智联招聘数据分析/各行业招聘数量排名.ipynb is not trusted
+[W 17:18:05.500 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.82ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[W 17:18:05.503 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 2.09ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[W 17:18:05.513 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180123111255 (::1) 2.46ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[I 17:18:05.973 NotebookApp] Adapting to protocol v5.1 for kernel 8da1f74b-9f50-4e86-ab6f-818153e334f1
+[I 17:18:06.692 NotebookApp] Starting buffering for 8da1f74b-9f50-4e86-ab6f-818153e334f1:EC1FFCA3B0534E57981D178D9221763B
+[W 17:18:07.755 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.77ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:18:07.759 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.70ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:18:07.795 NotebookApp] 404 GET /clusters?_=1516699087625 (::1) 1.63ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:18:13.616 NotebookApp] Notebook 智联招聘数据分析/各行业招聘数量排名.ipynb is not trusted
+[W 17:18:13.627 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180123111255 (::1) 2.06ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[W 17:18:13.629 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.53ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[W 17:18:13.634 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 2.28ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[I 17:18:14.017 NotebookApp] Adapting to protocol v5.1 for kernel 8da1f74b-9f50-4e86-ab6f-818153e334f1
+[I 17:18:17.931 NotebookApp] Starting buffering for 8da1f74b-9f50-4e86-ab6f-818153e334f1:2F255B0F792F48448F4384508FD52456
+[W 17:19:22.586 NotebookApp] Notebook 智联招聘数据分析/各行业招聘数量排名.ipynb is not trusted
+[W 17:19:22.596 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 2.39ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[W 17:19:22.600 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 2.20ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[W 17:19:22.605 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180123111255 (::1) 1.84ms referer=http://localhost:8888/notebooks/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%90%84%E8%A1%8C%E4%B8%9A%E6%8B%9B%E8%81%98%E6%95%B0%E9%87%8F%E6%8E%92%E5%90%8D.ipynb
+[I 17:19:23.052 NotebookApp] Adapting to protocol v5.1 for kernel 8da1f74b-9f50-4e86-ab6f-818153e334f1
+[I 17:20:54.842 NotebookApp] 302 GET / (127.0.0.1) 0.50ms
+[I 17:20:54.844 NotebookApp] 302 GET /tree? (127.0.0.1) 0.78ms
+[I 17:20:54.866 NotebookApp] Kernel started: 098d4ae0-5d05-4726-9a50-3fc701a40ba9
+[W 17:20:54.873 NotebookApp] No session ID specified
+[I 17:20:56.077 NotebookApp] Adapting to protocol v5.1 for kernel 098d4ae0-5d05-4726-9a50-3fc701a40ba9
+[I 17:23:38.903 NotebookApp] Starting buffering for 8da1f74b-9f50-4e86-ab6f-818153e334f1:E27A4CEA1EA14A58814E3FC6E7AD8BCA
+[W 17:23:39.994 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.88ms referer=http://localhost:8888/tree
+[W 17:23:39.996 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.64ms referer=http://localhost:8888/tree
+[W 17:23:40.039 NotebookApp] 404 GET /clusters?_=1516699419850 (::1) 1.88ms referer=http://localhost:8888/tree
+[W 17:23:58.982 NotebookApp] delete /智联招聘数据分析
+[W 17:23:58.983 NotebookApp] 400 DELETE /api/contents/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90 (::1): Directory /Users/yexianyong/Desktop/jupyter_notebook/智联招聘数据分析 not empty
+[W 17:23:58.983 NotebookApp] Directory /Users/yexianyong/Desktop/jupyter_notebook/智联招聘数据分析 not empty
+[W 17:23:58.983 NotebookApp] 400 DELETE /api/contents/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90 (::1) 1.72ms referer=http://localhost:8888/tree
+[W 17:24:04.166 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.79ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:24:04.168 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.72ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:24:04.210 NotebookApp] 404 GET /clusters?_=1516699444030 (::1) 1.97ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:24:10.100 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.93ms referer=http://localhost:8888/tree
+[W 17:24:10.103 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.68ms referer=http://localhost:8888/tree
+[W 17:24:10.140 NotebookApp] 404 GET /clusters?_=1516699450014 (::1) 1.79ms referer=http://localhost:8888/tree
+[W 17:24:18.701 NotebookApp] delete /智联招聘数据分析
+[W 17:24:18.701 NotebookApp] 400 DELETE /api/contents/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90 (::1): Directory /Users/yexianyong/Desktop/jupyter_notebook/智联招聘数据分析 not empty
+[W 17:24:18.702 NotebookApp] Directory /Users/yexianyong/Desktop/jupyter_notebook/智联招聘数据分析 not empty
+[W 17:24:18.702 NotebookApp] 400 DELETE /api/contents/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90 (::1) 2.09ms referer=http://localhost:8888/tree
+[W 17:24:23.472 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 2.04ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:24:23.478 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.72ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:24:23.513 NotebookApp] 404 GET /clusters?_=1516699463339 (::1) 1.61ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[I 17:24:28.290 NotebookApp] Kernel shutdown: 8da1f74b-9f50-4e86-ab6f-818153e334f1
+[W 17:24:28.292 NotebookApp] delete /智联招聘数据分析/各行业招聘人数排名.png
+[W 17:24:28.294 NotebookApp] delete /智联招聘数据分析/各行业招聘数量排名.ipynb
+[W 17:24:33.751 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.73ms referer=http://localhost:8888/tree
+[W 17:24:33.753 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.73ms referer=http://localhost:8888/tree
+[W 17:24:33.802 NotebookApp] 404 GET /clusters?_=1516699473603 (::1) 1.75ms referer=http://localhost:8888/tree
+[W 17:24:41.252 NotebookApp] delete /智联招聘数据分析
+[W 17:24:41.253 NotebookApp] 400 DELETE /api/contents/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90 (::1): Directory /Users/yexianyong/Desktop/jupyter_notebook/智联招聘数据分析 not empty
+[W 17:24:41.253 NotebookApp] Directory /Users/yexianyong/Desktop/jupyter_notebook/智联招聘数据分析 not empty
+[W 17:24:41.254 NotebookApp] 400 DELETE /api/contents/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90 (::1) 1.94ms referer=http://localhost:8888/tree
+[W 17:24:44.528 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.84ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:24:44.532 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.93ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:24:44.560 NotebookApp] 404 GET /clusters?_=1516699484395 (::1) 1.60ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:24:47.959 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.87ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:24:47.962 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.75ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:24:47.986 NotebookApp] 404 GET /clusters?_=1516699487874 (::1) 1.43ms referer=http://localhost:8888/tree/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+[W 17:24:50.004 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.77ms referer=http://localhost:8888/tree
+[W 17:24:50.007 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.94ms referer=http://localhost:8888/tree
+[W 17:24:50.044 NotebookApp] 404 GET /clusters?_=1516699489917 (::1) 1.72ms referer=http://localhost:8888/tree
+[W 17:24:54.740 NotebookApp] delete /智联招聘数据分析
+[W 17:24:54.741 NotebookApp] 400 DELETE /api/contents/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90 (::1): Directory /Users/yexianyong/Desktop/jupyter_notebook/智联招聘数据分析 not empty
+[W 17:24:54.741 NotebookApp] Directory /Users/yexianyong/Desktop/jupyter_notebook/智联招聘数据分析 not empty
+[W 17:24:54.741 NotebookApp] 400 DELETE /api/contents/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90 (::1) 1.71ms referer=http://localhost:8888/tree
+[W 17:25:14.296 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.80ms referer=http://localhost:8888/tree
+[W 17:25:14.299 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.88ms referer=http://localhost:8888/tree
+[W 17:25:14.338 NotebookApp] 404 GET /clusters?_=1516699514157 (::1) 1.88ms referer=http://localhost:8888/tree
+[W 17:27:21.117 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.77ms referer=http://localhost:8888/tree
+[W 17:27:21.119 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.69ms referer=http://localhost:8888/tree
+[W 17:27:21.150 NotebookApp] 404 GET /clusters?_=1516699640991 (::1) 2.30ms referer=http://localhost:8888/tree
+[I 17:59:00.527 NotebookApp] 302 GET / (127.0.0.1) 0.56ms
+[I 17:59:00.528 NotebookApp] 302 GET /tree? (127.0.0.1) 0.72ms
+[I 17:59:00.549 NotebookApp] Kernel started: cc630e4f-11b0-41aa-adef-d80e77f1b73f
+[W 17:59:00.555 NotebookApp] No session ID specified
+[I 17:59:01.737 NotebookApp] Adapting to protocol v5.1 for kernel cc630e4f-11b0-41aa-adef-d80e77f1b73f
+[W 18:05:11.737 NotebookApp] 404 GET /notebooks/numpy_learn.ipynb (::1): No such file or directory: numpy_learn.ipynb
+[W 18:05:11.739 NotebookApp] 404 GET /notebooks/numpy_learn.ipynb (::1) 2.78ms referer=None
+[I 18:05:15.639 NotebookApp] 302 GET / (::1) 0.64ms
+[W 18:05:15.996 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.69ms referer=http://localhost:8888/tree?
+[W 18:05:16.000 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.79ms referer=http://localhost:8888/tree?
+[W 18:05:16.058 NotebookApp] 404 GET /clusters?_=1516701915737 (::1) 1.73ms referer=http://localhost:8888/tree?
+[I 18:05:30.072 NotebookApp] Kernel shutdown: 6feab97b-033f-4fb1-96cc-c45652e25efa
+[W 18:05:30.074 NotebookApp] zmq message arrived on closed channel
+[W 18:05:30.075 NotebookApp] zmq message arrived on closed channel
+[W 18:05:30.076 NotebookApp] zmq message arrived on closed channel
+[W 18:05:31.542 NotebookApp] 404 GET /notebooks/lifecycle.ipynb (::1): No such file or directory: lifecycle.ipynb
+[W 18:05:31.543 NotebookApp] 404 GET /notebooks/lifecycle.ipynb (::1) 1.96ms referer=http://localhost:8888/tree?
+[I 18:05:37.472 NotebookApp] Kernel shutdown: 84f9a8e6-8d54-432f-8620-0cb3c23ddfac
+[W 18:05:42.332 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.71ms referer=http://localhost:8888/tree
+[W 18:05:42.341 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.68ms referer=http://localhost:8888/tree
+[W 18:05:42.379 NotebookApp] 404 GET /clusters?_=1516701942221 (::1) 2.01ms referer=http://localhost:8888/tree
+[W 18:05:51.747 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.82ms referer=http://localhost:8888/tree
+[W 18:05:51.750 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.72ms referer=http://localhost:8888/tree
+[W 18:05:51.783 NotebookApp] 404 GET /clusters?_=1516701951667 (::1) 1.91ms referer=http://localhost:8888/tree
+[I 18:10:18.334 NotebookApp] 302 GET / (::1) 0.49ms
+[W 18:10:18.854 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.71ms referer=http://localhost:8888/tree?
+[W 18:10:18.856 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.65ms referer=http://localhost:8888/tree?
+[W 18:10:18.913 NotebookApp] 404 GET /clusters?_=1516702218583 (::1) 1.78ms referer=http://localhost:8888/tree?
+[W 18:10:21.451 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 2.16ms referer=http://localhost:8888/tree/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0
+[W 18:10:21.455 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 2.05ms referer=http://localhost:8888/tree/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0
+[W 18:10:21.498 NotebookApp] 404 GET /clusters?_=1516702221373 (::1) 1.64ms referer=http://localhost:8888/tree/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0
+[W 18:10:23.122 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.91ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/numpy.ipynb
+[W 18:10:23.126 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 1.68ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/numpy.ipynb
+[I 18:10:23.318 NotebookApp] Kernel started: e3ef7531-0212-4550-b53f-4c22a9e9c35d
+[W 18:10:23.326 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180123111255 (::1) 2.42ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/numpy.ipynb
+[I 18:10:24.571 NotebookApp] Adapting to protocol v5.1 for kernel e3ef7531-0212-4550-b53f-4c22a9e9c35d
+[I 18:10:50.162 NotebookApp] Starting buffering for e3ef7531-0212-4550-b53f-4c22a9e9c35d:DA66CB2229884E4FA11A32B728BC9293
+[I 18:10:50.584 NotebookApp] Kernel restarted: e3ef7531-0212-4550-b53f-4c22a9e9c35d
+[I 18:10:51.491 NotebookApp] Adapting to protocol v5.1 for kernel e3ef7531-0212-4550-b53f-4c22a9e9c35d
+[I 18:10:51.492 NotebookApp] Restoring connection for e3ef7531-0212-4550-b53f-4c22a9e9c35d:DA66CB2229884E4FA11A32B728BC9293
+[I 18:10:51.492 NotebookApp] Replaying 6 buffered messages
+[I 18:10:53.158 NotebookApp] Starting buffering for e3ef7531-0212-4550-b53f-4c22a9e9c35d:DA66CB2229884E4FA11A32B728BC9293
+[W 18:10:53.545 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.76ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/numpy.ipynb
+[W 18:10:53.553 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 2.27ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/numpy.ipynb
+[W 18:10:53.558 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180123111255 (::1) 2.27ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/numpy.ipynb
+[I 18:10:53.779 NotebookApp] Adapting to protocol v5.1 for kernel e3ef7531-0212-4550-b53f-4c22a9e9c35d
+[I 18:11:31.178 NotebookApp] 302 GET / (::1) 0.46ms
+[I 18:11:31.188 NotebookApp] Starting buffering for e3ef7531-0212-4550-b53f-4c22a9e9c35d:8D1E444BA175417E85A937FDE86E3C22
+[W 18:11:31.419 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180123111255 (::1) 1.91ms referer=http://localhost:8888/tree?
+[W 18:11:31.423 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180123111255 (::1) 2.16ms referer=http://localhost:8888/tree?
+[W 18:11:31.455 NotebookApp] 404 GET /clusters?_=1516702291294 (::1) 1.47ms referer=http://localhost:8888/tree?
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
