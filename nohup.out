@@ -1575,3 +1575,330 @@ Shutdown this notebook server (y/[n])? [C 17:09:53.733 NotebookApp] received sig
 [I 10:51:03.188 NotebookApp] Saving file at /机器学习/线性单元和梯度下降.ipynb
 [I 10:52:48.187 NotebookApp] Saving file at /机器学习/线性单元和梯度下降.ipynb
 [I 10:52:48.385 NotebookApp] Saving file at /机器学习/线性单元和梯度下降.ipynb
+[I 10:53:03.189 NotebookApp] Saving file at /机器学习/线性单元和梯度下降.ipynb
+[W 10:54:04.477 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180205095308 (::1) 2.14ms referer=http://localhost:8888/tree
+[W 10:54:04.482 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180205095308 (::1) 1.87ms referer=http://localhost:8888/tree
+[W 10:54:05.897 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180205095308 (::1) 2.03ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
+[W 10:54:05.902 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180205095308 (::1) 1.94ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
+[I 10:54:12.344 NotebookApp] Creating new notebook in /机器学习
+[W 10:54:12.883 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180205095308 (::1) 1.76ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/Untitled.ipynb?kernel_name=python3
+[W 10:54:12.886 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180205095308 (::1) 1.84ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/Untitled.ipynb?kernel_name=python3
+[I 10:54:12.984 NotebookApp] Kernel started: d017dfaf-ab56-44e0-b342-08783005bc3f
+[W 10:54:12.999 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180205095308 (::1) 2.59ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/Untitled.ipynb?kernel_name=python3
+[I 10:54:14.342 NotebookApp] Adapting to protocol v5.1 for kernel d017dfaf-ab56-44e0-b342-08783005bc3f
+[I 10:56:13.263 NotebookApp] Saving file at /机器学习/神经网络和方向传播.ipynb
+[I 11:14:12.978 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 13:24:47.718 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 13:34:47.711 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 19:06:32.101 NotebookApp] Starting buffering for d017dfaf-ab56-44e0-b342-08783005bc3f:FA1890D58BBC44328D614717984218E1
+[I 19:06:32.119 NotebookApp] Starting buffering for a25a453f-845e-4d14-9bc0-d94614081848:343CB20B5D1541E1B2899136BC1374A6
+[I 19:06:32.120 NotebookApp] Starting buffering for 20d81b90-57a1-4eae-b147-18aefea7d6ed:0BF655D41A4B469B9458B035D95FAEFC
+[I 19:06:32.121 NotebookApp] Starting buffering for b91a73ee-df14-4a2f-86f8-7326911ef604:31A958E059D048F791D072DC2F2E036D
+[I 19:06:32.123 NotebookApp] Starting buffering for 6b1e9d82-adfb-4048-9410-e7bf4175477a:39F96071F76145F283CB6767A78EACBB
+[C 19:17:06.666 NotebookApp] received signal 15, stopping
+[I 19:17:07.192 NotebookApp] Shutting down 6 kernels
+[I 19:17:08.543 NotebookApp] Kernel shutdown: 6b1e9d82-adfb-4048-9410-e7bf4175477a
+[I 19:17:08.645 NotebookApp] Kernel shutdown: a25a453f-845e-4d14-9bc0-d94614081848
+[I 19:17:08.645 NotebookApp] Kernel shutdown: 149baf8d-9008-4ee5-95ef-e67027106ff6
+[I 19:17:08.646 NotebookApp] Kernel shutdown: b91a73ee-df14-4a2f-86f8-7326911ef604
+[I 19:17:08.646 NotebookApp] Kernel shutdown: 20d81b90-57a1-4eae-b147-18aefea7d6ed
+[I 19:17:08.646 NotebookApp] Kernel shutdown: d017dfaf-ab56-44e0-b342-08783005bc3f
+[I 10:32:32.738 NotebookApp] Loading IPython parallel extension
+[I 10:32:32.749 NotebookApp] Serving notebooks from local directory: /Users/yexianyong/Desktop/jupyter_notebook
+[I 10:32:32.749 NotebookApp] 0 active kernels
+[I 10:32:32.749 NotebookApp] The Jupyter Notebook is running at:
+[I 10:32:32.749 NotebookApp] http://localhost:8888/?token=a909481b38d964207c0369ae6ef0aa7c51d39a4e0d4cc9ad
+[I 10:32:32.749 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:32:32.750 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=a909481b38d964207c0369ae6ef0aa7c51d39a4e0d4cc9ad
+[I 10:32:32.916 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 10:32:33.592 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180206103232 (::1) 11.65ms referer=http://localhost:8888/tree
+[W 10:32:33.594 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180206103232 (::1) 1.83ms referer=http://localhost:8888/tree
+[W 10:33:15.344 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180206103232 (::1) 2.63ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
+[W 10:33:15.349 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180206103232 (::1) 2.05ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
+[W 10:33:20.314 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180206103232 (::1) 2.95ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[W 10:33:20.320 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180206103232 (::1) 3.89ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[W 10:33:20.323 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180206103232 (::1) 2.75ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[I 10:33:20.460 NotebookApp] Kernel started: 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20
+[I 10:33:21.652 NotebookApp] Adapting to protocol v5.1 for kernel 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20
+[I 10:35:20.410 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:37:20.409 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:39:20.405 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:41:20.404 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:43:20.402 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:45:20.396 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:47:20.403 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[W 10:48:54.920 NotebookApp] WebSocket ping timeout after 93257 ms.
+[E 10:48:54.942 NotebookApp] Uncaught exception GET /api/kernels/6a0f0d95-b6c5-48d3-b622-7ab836ebfe20/channels?session_id=E74766BE73944808AB7E5C75B6257EC5 (::1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='GET', uri='/api/kernels/6a0f0d95-b6c5-48d3-b622-7ab836ebfe20/channels?session_id=E74766BE73944808AB7E5C75B6257EC5', version='HTTP/1.1', remote_ip='::1', headers={'Host': 'localhost:8888', 'Connection': 'Upgrade', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Upgrade': 'websocket', 'Origin': 'http://localhost:8888', 'Sec-Websocket-Version': '13', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8', 'Cookie': '_xsrf=2|d4a2dad4|69fad810b077758d2da6e3d71c4f6ffb|1516008828; username-localhost-8889="2|1:0|10:1517382729|23:username-localhost-8889|44:YTFiZmRiODlmNWE4NDhhNmFkNDlmM2ViZThlZDNmNWM=|47227742f1622e4814dcc5de563b5c106e7db2f648560704ac6523cddc01f476"; csrftoken=FwIQbgyhEPvqTyFJGZIApJQHm5gyUphhNQ5WAERINi1ulOlNyljk84n3JO9keXzK; sessionid=ny1j1zj2bac0nwn7gex367ihqnih40gk; username-localhost-8888="2|1:0|10:1517884352|23:username-localhost-8888|44:YjE2Y2QwMGMwNGIyNGRlN2I3M2RkNGRhMzI4ZWIyODQ=|6442377d4ac393d46dc0eb3a0d4b58c899978dd8f5ba769fa8732ba0f86a41f6"', 'Sec-Websocket-Key': '7JcWubGP7d7DxhJ1u+jd7w==', 'Sec-Websocket-Extensions': 'permessage-deflate; client_max_window_bits'})
+    Traceback (most recent call last):
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/web.py", line 1467, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/stack_context.py", line 316, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 191, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/websocket.py", line 249, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 10:48:54.962 NotebookApp] Uncaught exception GET /api/kernels/6a0f0d95-b6c5-48d3-b622-7ab836ebfe20/channels?session_id=E74766BE73944808AB7E5C75B6257EC5 (::1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='GET', uri='/api/kernels/6a0f0d95-b6c5-48d3-b622-7ab836ebfe20/channels?session_id=E74766BE73944808AB7E5C75B6257EC5', version='HTTP/1.1', remote_ip='::1', headers={'Host': 'localhost:8888', 'Connection': 'Upgrade', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Upgrade': 'websocket', 'Origin': 'http://localhost:8888', 'Sec-Websocket-Version': '13', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8', 'Cookie': '_xsrf=2|d4a2dad4|69fad810b077758d2da6e3d71c4f6ffb|1516008828; username-localhost-8889="2|1:0|10:1517382729|23:username-localhost-8889|44:YTFiZmRiODlmNWE4NDhhNmFkNDlmM2ViZThlZDNmNWM=|47227742f1622e4814dcc5de563b5c106e7db2f648560704ac6523cddc01f476"; csrftoken=FwIQbgyhEPvqTyFJGZIApJQHm5gyUphhNQ5WAERINi1ulOlNyljk84n3JO9keXzK; sessionid=ny1j1zj2bac0nwn7gex367ihqnih40gk; username-localhost-8888="2|1:0|10:1517884352|23:username-localhost-8888|44:YjE2Y2QwMGMwNGIyNGRlN2I3M2RkNGRhMzI4ZWIyODQ=|6442377d4ac393d46dc0eb3a0d4b58c899978dd8f5ba769fa8732ba0f86a41f6"', 'Sec-Websocket-Key': '7JcWubGP7d7DxhJ1u+jd7w==', 'Sec-Websocket-Extensions': 'permessage-deflate; client_max_window_bits'})
+    Traceback (most recent call last):
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/web.py", line 1467, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/stack_context.py", line 316, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 191, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/websocket.py", line 249, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 10:48:54.965 NotebookApp] Uncaught exception GET /api/kernels/6a0f0d95-b6c5-48d3-b622-7ab836ebfe20/channels?session_id=E74766BE73944808AB7E5C75B6257EC5 (::1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='GET', uri='/api/kernels/6a0f0d95-b6c5-48d3-b622-7ab836ebfe20/channels?session_id=E74766BE73944808AB7E5C75B6257EC5', version='HTTP/1.1', remote_ip='::1', headers={'Host': 'localhost:8888', 'Connection': 'Upgrade', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Upgrade': 'websocket', 'Origin': 'http://localhost:8888', 'Sec-Websocket-Version': '13', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8', 'Cookie': '_xsrf=2|d4a2dad4|69fad810b077758d2da6e3d71c4f6ffb|1516008828; username-localhost-8889="2|1:0|10:1517382729|23:username-localhost-8889|44:YTFiZmRiODlmNWE4NDhhNmFkNDlmM2ViZThlZDNmNWM=|47227742f1622e4814dcc5de563b5c106e7db2f648560704ac6523cddc01f476"; csrftoken=FwIQbgyhEPvqTyFJGZIApJQHm5gyUphhNQ5WAERINi1ulOlNyljk84n3JO9keXzK; sessionid=ny1j1zj2bac0nwn7gex367ihqnih40gk; username-localhost-8888="2|1:0|10:1517884352|23:username-localhost-8888|44:YjE2Y2QwMGMwNGIyNGRlN2I3M2RkNGRhMzI4ZWIyODQ=|6442377d4ac393d46dc0eb3a0d4b58c899978dd8f5ba769fa8732ba0f86a41f6"', 'Sec-Websocket-Key': '7JcWubGP7d7DxhJ1u+jd7w==', 'Sec-Websocket-Extensions': 'permessage-deflate; client_max_window_bits'})
+    Traceback (most recent call last):
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/web.py", line 1467, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/stack_context.py", line 316, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 191, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/websocket.py", line 249, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 10:48:54.970 NotebookApp] Uncaught exception GET /api/kernels/6a0f0d95-b6c5-48d3-b622-7ab836ebfe20/channels?session_id=E74766BE73944808AB7E5C75B6257EC5 (::1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='GET', uri='/api/kernels/6a0f0d95-b6c5-48d3-b622-7ab836ebfe20/channels?session_id=E74766BE73944808AB7E5C75B6257EC5', version='HTTP/1.1', remote_ip='::1', headers={'Host': 'localhost:8888', 'Connection': 'Upgrade', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Upgrade': 'websocket', 'Origin': 'http://localhost:8888', 'Sec-Websocket-Version': '13', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8', 'Cookie': '_xsrf=2|d4a2dad4|69fad810b077758d2da6e3d71c4f6ffb|1516008828; username-localhost-8889="2|1:0|10:1517382729|23:username-localhost-8889|44:YTFiZmRiODlmNWE4NDhhNmFkNDlmM2ViZThlZDNmNWM=|47227742f1622e4814dcc5de563b5c106e7db2f648560704ac6523cddc01f476"; csrftoken=FwIQbgyhEPvqTyFJGZIApJQHm5gyUphhNQ5WAERINi1ulOlNyljk84n3JO9keXzK; sessionid=ny1j1zj2bac0nwn7gex367ihqnih40gk; username-localhost-8888="2|1:0|10:1517884352|23:username-localhost-8888|44:YjE2Y2QwMGMwNGIyNGRlN2I3M2RkNGRhMzI4ZWIyODQ=|6442377d4ac393d46dc0eb3a0d4b58c899978dd8f5ba769fa8732ba0f86a41f6"', 'Sec-Websocket-Key': '7JcWubGP7d7DxhJ1u+jd7w==', 'Sec-Websocket-Extensions': 'permessage-deflate; client_max_window_bits'})
+    Traceback (most recent call last):
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/web.py", line 1467, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/stack_context.py", line 316, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 191, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/websocket.py", line 249, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[W 10:50:22.631 NotebookApp] zmq message arrived on closed channel
+[W 10:50:22.686 NotebookApp] zmq message arrived on closed channel
+[W 10:50:24.495 NotebookApp] zmq message arrived on closed channel
+[W 10:50:24.865 NotebookApp] Replacing stale connection: 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20:E74766BE73944808AB7E5C75B6257EC5
+[W 10:50:24.867 NotebookApp] zmq message arrived on closed channel
+[W 10:50:24.878 NotebookApp] zmq message arrived on closed channel
+[I 10:51:07.266 NotebookApp] Starting buffering for 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20:E74766BE73944808AB7E5C75B6257EC5
+[I 10:51:09.594 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:51:09.645 NotebookApp] Adapting to protocol v5.1 for kernel 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20
+[I 10:51:09.649 NotebookApp] Restoring connection for 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20:E74766BE73944808AB7E5C75B6257EC5
+[I 10:51:09.649 NotebookApp] Replaying 4 buffered messages
+[W 10:52:54.350 NotebookApp] WebSocket ping timeout after 104700 ms.
+[E 10:52:54.359 NotebookApp] Uncaught exception GET /api/kernels/6a0f0d95-b6c5-48d3-b622-7ab836ebfe20/channels?session_id=E74766BE73944808AB7E5C75B6257EC5 (::1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='GET', uri='/api/kernels/6a0f0d95-b6c5-48d3-b622-7ab836ebfe20/channels?session_id=E74766BE73944808AB7E5C75B6257EC5', version='HTTP/1.1', remote_ip='::1', headers={'Host': 'localhost:8888', 'Connection': 'Upgrade', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Upgrade': 'websocket', 'Origin': 'http://localhost:8888', 'Sec-Websocket-Version': '13', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8', 'Cookie': '_xsrf=2|d4a2dad4|69fad810b077758d2da6e3d71c4f6ffb|1516008828; username-localhost-8889="2|1:0|10:1517382729|23:username-localhost-8889|44:YTFiZmRiODlmNWE4NDhhNmFkNDlmM2ViZThlZDNmNWM=|47227742f1622e4814dcc5de563b5c106e7db2f648560704ac6523cddc01f476"; csrftoken=FwIQbgyhEPvqTyFJGZIApJQHm5gyUphhNQ5WAERINi1ulOlNyljk84n3JO9keXzK; sessionid=ny1j1zj2bac0nwn7gex367ihqnih40gk; username-localhost-8888="2|1:0|10:1517884352|23:username-localhost-8888|44:YjE2Y2QwMGMwNGIyNGRlN2I3M2RkNGRhMzI4ZWIyODQ=|6442377d4ac393d46dc0eb3a0d4b58c899978dd8f5ba769fa8732ba0f86a41f6"', 'Sec-Websocket-Key': 'Rb95sdpYcYfGultJEMFG1g==', 'Sec-Websocket-Extensions': 'permessage-deflate; client_max_window_bits'})
+    Traceback (most recent call last):
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/web.py", line 1467, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/stack_context.py", line 316, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 191, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/websocket.py", line 249, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 10:52:54.366 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:52:54.396 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:52:54.428 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:52:54.444 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:52:54.464 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[E 10:52:54.489 NotebookApp] Uncaught exception GET /api/kernels/6a0f0d95-b6c5-48d3-b622-7ab836ebfe20/channels?session_id=E74766BE73944808AB7E5C75B6257EC5 (::1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='GET', uri='/api/kernels/6a0f0d95-b6c5-48d3-b622-7ab836ebfe20/channels?session_id=E74766BE73944808AB7E5C75B6257EC5', version='HTTP/1.1', remote_ip='::1', headers={'Host': 'localhost:8888', 'Connection': 'Upgrade', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Upgrade': 'websocket', 'Origin': 'http://localhost:8888', 'Sec-Websocket-Version': '13', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8', 'Cookie': '_xsrf=2|d4a2dad4|69fad810b077758d2da6e3d71c4f6ffb|1516008828; username-localhost-8889="2|1:0|10:1517382729|23:username-localhost-8889|44:YTFiZmRiODlmNWE4NDhhNmFkNDlmM2ViZThlZDNmNWM=|47227742f1622e4814dcc5de563b5c106e7db2f648560704ac6523cddc01f476"; csrftoken=FwIQbgyhEPvqTyFJGZIApJQHm5gyUphhNQ5WAERINi1ulOlNyljk84n3JO9keXzK; sessionid=ny1j1zj2bac0nwn7gex367ihqnih40gk; username-localhost-8888="2|1:0|10:1517884352|23:username-localhost-8888|44:YjE2Y2QwMGMwNGIyNGRlN2I3M2RkNGRhMzI4ZWIyODQ=|6442377d4ac393d46dc0eb3a0d4b58c899978dd8f5ba769fa8732ba0f86a41f6"', 'Sec-Websocket-Key': 'Rb95sdpYcYfGultJEMFG1g==', 'Sec-Websocket-Extensions': 'permessage-deflate; client_max_window_bits'})
+    Traceback (most recent call last):
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/web.py", line 1467, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/stack_context.py", line 316, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 191, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/websocket.py", line 249, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 10:52:54.514 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[W 10:52:54.528 NotebookApp] zmq message arrived on closed channel
+[W 10:53:51.775 NotebookApp] zmq message arrived on closed channel
+[W 10:53:51.846 NotebookApp] zmq message arrived on closed channel
+[W 10:53:52.997 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180206103232 (::1) 6.56ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[W 10:53:53.054 NotebookApp] zmq message arrived on closed channel
+[W 10:53:53.061 NotebookApp] zmq message arrived on closed channel
+[W 10:53:53.079 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180206103232 (::1) 2.12ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[W 10:53:53.082 NotebookApp] zmq message arrived on closed channel
+[I 10:53:53.084 NotebookApp] Starting buffering for 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20:E74766BE73944808AB7E5C75B6257EC5
+[I 10:53:53.215 NotebookApp] Adapting to protocol v5.1 for kernel 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20
+[W 10:53:53.407 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180206103232 (::1) 3.36ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[W 10:53:53.620 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180206103232 (::1) 1.89ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
+[W 10:53:53.658 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180206103232 (::1) 2.80ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
+[I 11:03:53.188 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 11:08:23.050 NotebookApp] Starting buffering for 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20:C90A3C0C1A4145078FDAB4886F7714B5
+[I 11:08:32.542 NotebookApp] 302 GET / (::1) 2.27ms
+[W 11:08:33.106 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180206103232 (::1) 2.44ms referer=http://localhost:8888/tree?
+[W 11:08:33.111 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180206103232 (::1) 2.03ms referer=http://localhost:8888/tree?
+[W 11:08:37.710 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180206103232 (::1) 1.95ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
+[W 11:08:37.713 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180206103232 (::1) 2.35ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
+[W 11:08:39.293 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180206103232 (::1) 2.20ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[W 11:08:39.296 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180206103232 (::1) 1.83ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[W 11:08:39.298 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180206103232 (::1) 1.78ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[I 11:08:41.532 NotebookApp] Adapting to protocol v5.1 for kernel 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20
+[W 11:11:45.934 NotebookApp] WebSocket ping timeout after 94395 ms.
+[E 11:11:45.943 NotebookApp] Uncaught exception GET /api/kernels/6a0f0d95-b6c5-48d3-b622-7ab836ebfe20/channels?session_id=8FA3326573A548F7822D13B00868ADE3 (::1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='GET', uri='/api/kernels/6a0f0d95-b6c5-48d3-b622-7ab836ebfe20/channels?session_id=8FA3326573A548F7822D13B00868ADE3', version='HTTP/1.1', remote_ip='::1', headers={'Host': 'localhost:8888', 'Connection': 'Upgrade', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Upgrade': 'websocket', 'Origin': 'http://localhost:8888', 'Sec-Websocket-Version': '13', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8', 'Cookie': '_xsrf=2|d4a2dad4|69fad810b077758d2da6e3d71c4f6ffb|1516008828; username-localhost-8889="2|1:0|10:1517382729|23:username-localhost-8889|44:YTFiZmRiODlmNWE4NDhhNmFkNDlmM2ViZThlZDNmNWM=|47227742f1622e4814dcc5de563b5c106e7db2f648560704ac6523cddc01f476"; csrftoken=FwIQbgyhEPvqTyFJGZIApJQHm5gyUphhNQ5WAERINi1ulOlNyljk84n3JO9keXzK; sessionid=ny1j1zj2bac0nwn7gex367ihqnih40gk; username-localhost-8888="2|1:0|10:1517884352|23:username-localhost-8888|44:YjE2Y2QwMGMwNGIyNGRlN2I3M2RkNGRhMzI4ZWIyODQ=|6442377d4ac393d46dc0eb3a0d4b58c899978dd8f5ba769fa8732ba0f86a41f6"', 'Sec-Websocket-Key': 'DS9+Dno3R9it45YBq/yxHw==', 'Sec-Websocket-Extensions': 'permessage-deflate; client_max_window_bits'})
+    Traceback (most recent call last):
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/web.py", line 1467, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/stack_context.py", line 316, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 191, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/websocket.py", line 249, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 11:11:45.992 NotebookApp] Uncaught exception GET /api/kernels/6a0f0d95-b6c5-48d3-b622-7ab836ebfe20/channels?session_id=8FA3326573A548F7822D13B00868ADE3 (::1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='GET', uri='/api/kernels/6a0f0d95-b6c5-48d3-b622-7ab836ebfe20/channels?session_id=8FA3326573A548F7822D13B00868ADE3', version='HTTP/1.1', remote_ip='::1', headers={'Host': 'localhost:8888', 'Connection': 'Upgrade', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Upgrade': 'websocket', 'Origin': 'http://localhost:8888', 'Sec-Websocket-Version': '13', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8', 'Cookie': '_xsrf=2|d4a2dad4|69fad810b077758d2da6e3d71c4f6ffb|1516008828; username-localhost-8889="2|1:0|10:1517382729|23:username-localhost-8889|44:YTFiZmRiODlmNWE4NDhhNmFkNDlmM2ViZThlZDNmNWM=|47227742f1622e4814dcc5de563b5c106e7db2f648560704ac6523cddc01f476"; csrftoken=FwIQbgyhEPvqTyFJGZIApJQHm5gyUphhNQ5WAERINi1ulOlNyljk84n3JO9keXzK; sessionid=ny1j1zj2bac0nwn7gex367ihqnih40gk; username-localhost-8888="2|1:0|10:1517884352|23:username-localhost-8888|44:YjE2Y2QwMGMwNGIyNGRlN2I3M2RkNGRhMzI4ZWIyODQ=|6442377d4ac393d46dc0eb3a0d4b58c899978dd8f5ba769fa8732ba0f86a41f6"', 'Sec-Websocket-Key': 'DS9+Dno3R9it45YBq/yxHw==', 'Sec-Websocket-Extensions': 'permessage-deflate; client_max_window_bits'})
+    Traceback (most recent call last):
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/web.py", line 1467, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/stack_context.py", line 316, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 191, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/websocket.py", line 249, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 11:11:45.995 NotebookApp] Uncaught exception GET /api/kernels/6a0f0d95-b6c5-48d3-b622-7ab836ebfe20/channels?session_id=8FA3326573A548F7822D13B00868ADE3 (::1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='GET', uri='/api/kernels/6a0f0d95-b6c5-48d3-b622-7ab836ebfe20/channels?session_id=8FA3326573A548F7822D13B00868ADE3', version='HTTP/1.1', remote_ip='::1', headers={'Host': 'localhost:8888', 'Connection': 'Upgrade', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Upgrade': 'websocket', 'Origin': 'http://localhost:8888', 'Sec-Websocket-Version': '13', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8', 'Cookie': '_xsrf=2|d4a2dad4|69fad810b077758d2da6e3d71c4f6ffb|1516008828; username-localhost-8889="2|1:0|10:1517382729|23:username-localhost-8889|44:YTFiZmRiODlmNWE4NDhhNmFkNDlmM2ViZThlZDNmNWM=|47227742f1622e4814dcc5de563b5c106e7db2f648560704ac6523cddc01f476"; csrftoken=FwIQbgyhEPvqTyFJGZIApJQHm5gyUphhNQ5WAERINi1ulOlNyljk84n3JO9keXzK; sessionid=ny1j1zj2bac0nwn7gex367ihqnih40gk; username-localhost-8888="2|1:0|10:1517884352|23:username-localhost-8888|44:YjE2Y2QwMGMwNGIyNGRlN2I3M2RkNGRhMzI4ZWIyODQ=|6442377d4ac393d46dc0eb3a0d4b58c899978dd8f5ba769fa8732ba0f86a41f6"', 'Sec-Websocket-Key': 'DS9+Dno3R9it45YBq/yxHw==', 'Sec-Websocket-Extensions': 'permessage-deflate; client_max_window_bits'})
+    Traceback (most recent call last):
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/web.py", line 1467, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/stack_context.py", line 316, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 191, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/websocket.py", line 249, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 11:11:46.001 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 11:11:49.381 NotebookApp] Starting buffering for 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20:8FA3326573A548F7822D13B00868ADE3
+[W 11:14:49.581 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180206103232 (::1) 2.21ms referer=http://localhost:8888/tree
+[W 11:14:49.586 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180206103232 (::1) 2.47ms referer=http://localhost:8888/tree
+[W 11:14:51.058 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180206103232 (::1) 2.06ms referer=http://localhost:8888/tree/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0
+[W 11:14:51.064 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180206103232 (::1) 1.73ms referer=http://localhost:8888/tree/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0
+[W 11:14:52.840 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180206103232 (::1) 1.98ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/matplotlib.ipynb
+[W 11:14:52.843 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180206103232 (::1) 2.61ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/matplotlib.ipynb
+[W 11:14:52.863 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180206103232 (::1) 1.96ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/matplotlib.ipynb
+[I 11:14:53.012 NotebookApp] Kernel started: 1e76a002-8e1b-442f-8fe6-906b44ebc214
+[I 11:14:54.357 NotebookApp] Adapting to protocol v5.1 for kernel 1e76a002-8e1b-442f-8fe6-906b44ebc214
+[I 11:16:52.983 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 11:18:52.978 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 11:20:52.970 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 11:22:52.969 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 11:24:52.966 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 11:26:52.965 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 11:28:52.965 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 11:30:52.962 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 11:32:52.960 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 11:34:52.954 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:18:23.071 NotebookApp] Creating new notebook in /工具学习
+[W 14:18:23.526 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180206103232 (::1) 2.56ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/Untitled.ipynb?kernel_name=python3
+[W 14:18:23.529 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180206103232 (::1) 1.89ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/Untitled.ipynb?kernel_name=python3
+[I 14:18:23.620 NotebookApp] Kernel started: 510b9edb-8b57-4ec8-ba19-365be44c27c3
+[W 14:18:23.629 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180206103232 (::1) 4.36ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/Untitled.ipynb?kernel_name=python3
+[I 14:18:24.560 NotebookApp] Adapting to protocol v5.1 for kernel 510b9edb-8b57-4ec8-ba19-365be44c27c3
+[I 14:20:23.619 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
+2018-02-06 14:20:48.455096: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX
+[I 14:22:23.618 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
+[I 16:58:23.457 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
+[I 17:25:05.697 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 17:56:29.834 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:00:12.763 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:01:41.743 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:01:42.302 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:01:42.571 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:01:42.751 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:01:42.920 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[W 18:01:45.517 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180206103232 (::1) 1.84ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[W 18:01:45.520 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180206103232 (::1) 2.57ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[W 18:01:45.656 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180206103232 (::1) 3.01ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[I 18:01:45.680 NotebookApp] Adapting to protocol v5.1 for kernel 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20
+[I 18:01:45.681 NotebookApp] Discarding 3 buffered messages for 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20:8FA3326573A548F7822D13B00868ADE3
+[I 18:01:48.885 NotebookApp] Kernel interrupted: 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20
+[I 18:01:52.395 NotebookApp] Kernel interrupted: 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20
+[I 18:01:56.618 NotebookApp] Starting buffering for 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20:3FF1F15A57A24B849093C63861F5C08F
+[I 18:01:57.244 NotebookApp] Kernel restarted: 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20
+[I 18:01:58.384 NotebookApp] Adapting to protocol v5.1 for kernel 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20
+[I 18:01:58.385 NotebookApp] Restoring connection for 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20:3FF1F15A57A24B849093C63861F5C08F
+[I 18:01:58.385 NotebookApp] Replaying 6 buffered messages
+[I 18:03:45.660 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:07:45.652 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:09:45.654 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:25:45.634 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:27:46.621 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:29:46.621 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:33:46.615 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:35:46.710 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:37:46.615 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:39:46.612 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:40:12.607 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:40:12.876 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:41:46.613 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 09:45:55.325 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 09:47:55.810 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:05:55.967 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:11:55.307 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:13:55.306 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:14:04.939 NotebookApp] Starting buffering for 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20:3FF1F15A57A24B849093C63861F5C08F
+[I 10:14:05.571 NotebookApp] Kernel restarted: 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20
+[I 10:14:06.761 NotebookApp] Adapting to protocol v5.1 for kernel 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20
+[I 10:14:06.762 NotebookApp] Restoring connection for 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20:3FF1F15A57A24B849093C63861F5C08F
+[I 10:14:06.762 NotebookApp] Replaying 6 buffered messages
