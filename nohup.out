@@ -1902,3 +1902,72 @@ Shutdown this notebook server (y/[n])? [C 17:09:53.733 NotebookApp] received sig
 [I 10:14:06.761 NotebookApp] Adapting to protocol v5.1 for kernel 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20
 [I 10:14:06.762 NotebookApp] Restoring connection for 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20:3FF1F15A57A24B849093C63861F5C08F
 [I 10:14:06.762 NotebookApp] Replaying 6 buffered messages
+[I 10:15:55.760 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:19:55.305 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:21:55.300 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:25:55.299 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:27:55.295 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:29:55.298 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:31:55.292 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:33:55.294 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:35:55.291 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:37:55.294 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:39:55.293 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:41:55.293 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:43:55.287 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:45:55.287 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:47:55.289 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:49:55.286 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:51:55.287 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 11:07:49.292 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 11:07:49.605 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 11:07:49.954 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 11:07:50.212 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 09:29:52.236 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 09:31:52.240 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 09:57:52.217 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 09:59:52.216 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:01:52.213 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:03:52.215 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:11:52.213 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:12:41.907 NotebookApp] Starting buffering for 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20:3FF1F15A57A24B849093C63861F5C08F
+[I 10:12:42.635 NotebookApp] Kernel restarted: 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20
+[I 10:12:43.812 NotebookApp] Adapting to protocol v5.1 for kernel 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20
+[I 10:12:43.813 NotebookApp] Restoring connection for 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20:3FF1F15A57A24B849093C63861F5C08F
+[I 10:12:43.813 NotebookApp] Replaying 6 buffered messages
+[I 10:12:50.637 NotebookApp] Kernel interrupted: 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20
+[I 10:12:53.332 NotebookApp] Kernel interrupted: 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20
+[I 10:13:04.211 NotebookApp] Starting buffering for 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20:3FF1F15A57A24B849093C63861F5C08F
+[I 10:13:04.631 NotebookApp] Kernel shutdown: 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20
+[E 10:13:09.181 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 85, in post
+        yield gen.maybe_future(km.restart_kernel(kernel_id))
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py", line 264, in restart_kernel
+        self._check_kernel_id(kernel_id)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py", line 343, in _check_kernel_id
+        raise web.HTTPError(404, u'Kernel does not exist: %s' % kernel_id)
+    tornado.web.HTTPError: HTTP 404: Not Found (Kernel does not exist: 6a0f0d95-b6c5-48d3-b622-7ab836ebfe20)
+[E 10:13:09.185 NotebookApp] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "0",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Origin": "http://localhost:8888",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|d4a2dad4|69fad810b077758d2da6e3d71c4f6ffb|1516008828",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36",
+      "Referer": "http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+      "Cookie": "_xsrf=2|d4a2dad4|69fad810b077758d2da6e3d71c4f6ffb|1516008828; username-localhost-8889=\"2|1:0|10:1517382729|23:username-localhost-8889|44:YTFiZmRiODlmNWE4NDhhNmFkNDlmM2ViZThlZDNmNWM=|47227742f1622e4814dcc5de563b5c106e7db2f648560704ac6523cddc01f476\"; csrftoken=FwIQbgyhEPvqTyFJGZIApJQHm5gyUphhNQ5WAERINi1ulOlNyljk84n3JO9keXzK; sessionid=ny1j1zj2bac0nwn7gex367ihqnih40gk; username-localhost-8888=\"2|1:0|10:1517884352|23:username-localhost-8888|44:YjE2Y2QwMGMwNGIyNGRlN2I3M2RkNGRhMzI4ZWIyODQ=|6442377d4ac393d46dc0eb3a0d4b58c899978dd8f5ba769fa8732ba0f86a41f6\""
+    }
+[E 10:13:09.185 NotebookApp] 500 POST /api/kernels/6a0f0d95-b6c5-48d3-b622-7ab836ebfe20/restart (::1) 3.78ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[W 10:13:09.191 NotebookApp] 404 DELETE /api/sessions/628640e2-8cfc-4804-80ad-7f916d3999d1 (::1): Session not found: session_id='628640e2-8cfc-4804-80ad-7f916d3999d1'
+[W 10:13:09.191 NotebookApp] Session not found: session_id='628640e2-8cfc-4804-80ad-7f916d3999d1'
+[W 10:13:09.191 NotebookApp] 404 DELETE /api/sessions/628640e2-8cfc-4804-80ad-7f916d3999d1 (::1) 1.58ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[I 10:13:09.211 NotebookApp] Kernel started: 5d5e9f95-4e20-4fb6-bc7b-6ae929c80a49
+[I 10:13:09.964 NotebookApp] Adapting to protocol v5.1 for kernel 5d5e9f95-4e20-4fb6-bc7b-6ae929c80a49
+[I 10:13:52.205 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:15:52.205 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:17:52.205 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
