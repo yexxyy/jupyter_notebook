@@ -1971,3 +1971,111 @@ Shutdown this notebook server (y/[n])? [C 17:09:53.733 NotebookApp] received sig
 [I 10:13:52.205 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
 [I 10:15:52.205 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
 [I 10:17:52.205 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 17:55:58.915 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:34:11.363 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:36:11.348 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:44:11.332 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:46:11.335 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:48:11.331 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:50:11.328 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:52:11.327 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:56:11.328 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 11:02:11.322 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 11:04:11.321 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 11:06:11.321 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 11:08:11.320 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 11:10:11.317 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 11:12:11.318 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 11:16:11.311 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 11:17:07.946 NotebookApp] Starting buffering for 5d5e9f95-4e20-4fb6-bc7b-6ae929c80a49:3FF1F15A57A24B849093C63861F5C08F
+[I 11:17:08.681 NotebookApp] Kernel restarted: 5d5e9f95-4e20-4fb6-bc7b-6ae929c80a49
+[I 11:17:09.922 NotebookApp] Adapting to protocol v5.1 for kernel 5d5e9f95-4e20-4fb6-bc7b-6ae929c80a49
+[I 11:17:09.923 NotebookApp] Restoring connection for 5d5e9f95-4e20-4fb6-bc7b-6ae929c80a49:3FF1F15A57A24B849093C63861F5C08F
+[I 11:17:09.923 NotebookApp] Replaying 6 buffered messages
+[I 11:18:03.200 NotebookApp] Starting buffering for 5d5e9f95-4e20-4fb6-bc7b-6ae929c80a49:3FF1F15A57A24B849093C63861F5C08F
+[I 11:18:03.929 NotebookApp] Kernel restarted: 5d5e9f95-4e20-4fb6-bc7b-6ae929c80a49
+[I 11:18:05.014 NotebookApp] Adapting to protocol v5.1 for kernel 5d5e9f95-4e20-4fb6-bc7b-6ae929c80a49
+[I 11:18:05.015 NotebookApp] Restoring connection for 5d5e9f95-4e20-4fb6-bc7b-6ae929c80a49:3FF1F15A57A24B849093C63861F5C08F
+[I 11:18:05.015 NotebookApp] Replaying 6 buffered messages
+[I 11:18:11.312 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 11:18:56.551 NotebookApp] Starting buffering for 5d5e9f95-4e20-4fb6-bc7b-6ae929c80a49:3FF1F15A57A24B849093C63861F5C08F
+[I 11:18:56.975 NotebookApp] Kernel restarted: 5d5e9f95-4e20-4fb6-bc7b-6ae929c80a49
+[I 11:18:57.786 NotebookApp] Adapting to protocol v5.1 for kernel 5d5e9f95-4e20-4fb6-bc7b-6ae929c80a49
+[I 11:18:57.787 NotebookApp] Restoring connection for 5d5e9f95-4e20-4fb6-bc7b-6ae929c80a49:3FF1F15A57A24B849093C63861F5C08F
+[I 11:18:57.787 NotebookApp] Replaying 6 buffered messages
+[I 11:20:11.311 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 16:05:30.239 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 16:07:30.837 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 16:48:17.787 NotebookApp] Starting buffering for 1e76a002-8e1b-442f-8fe6-906b44ebc214:0BD868B6CF23472E89CE70CF21F3224B
+[I 16:48:20.291 NotebookApp] Starting buffering for 510b9edb-8b57-4ec8-ba19-365be44c27c3:A9FB61D762444FF39449F557F32BAAC4
+[I 16:49:30.196 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[W 16:49:37.328 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180206103232 (::1) 1.90ms referer=http://localhost:8888/tree
+[W 16:49:37.335 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180206103232 (::1) 2.54ms referer=http://localhost:8888/tree
+[W 16:49:38.847 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180206103232 (::1) 2.04ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
+[W 16:49:38.850 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180206103232 (::1) 2.28ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
+[W 16:49:40.733 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180206103232 (::1) 1.74ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%84%9F%E7%9F%A5%E5%99%A8.ipynb
+[W 16:49:40.736 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180206103232 (::1) 1.86ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%84%9F%E7%9F%A5%E5%99%A8.ipynb
+[W 16:49:40.759 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180206103232 (::1) 2.82ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%84%9F%E7%9F%A5%E5%99%A8.ipynb
+[I 16:49:40.908 NotebookApp] Kernel started: 88aec821-830f-4888-a2f9-b7d02de1fe70
+[I 16:49:42.103 NotebookApp] Adapting to protocol v5.1 for kernel 88aec821-830f-4888-a2f9-b7d02de1fe70
+[W 16:49:52.395 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180206103232 (::1) 2.29ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%BA%BF%E6%80%A7%E5%8D%95%E5%85%83%E5%92%8C%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D.ipynb
+[W 16:49:52.398 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180206103232 (::1) 2.06ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%BA%BF%E6%80%A7%E5%8D%95%E5%85%83%E5%92%8C%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D.ipynb
+[W 16:49:52.419 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180206103232 (::1) 2.50ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%BA%BF%E6%80%A7%E5%8D%95%E5%85%83%E5%92%8C%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D.ipynb
+[I 16:49:52.573 NotebookApp] Kernel started: 45da359b-ef1a-42f2-a321-e4dda5b9a271
+[I 16:49:53.423 NotebookApp] Adapting to protocol v5.1 for kernel 45da359b-ef1a-42f2-a321-e4dda5b9a271
+[I 16:50:02.873 NotebookApp] Starting buffering for 45da359b-ef1a-42f2-a321-e4dda5b9a271:CD612296FA2F4C3FA0DBFB37D20B6F72
+[I 16:50:04.368 NotebookApp] Starting buffering for 88aec821-830f-4888-a2f9-b7d02de1fe70:4DA8405B1BE34463A84C1581777E87F7
+[I 16:55:30.195 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 17:09:30.180 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 17:11:30.178 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 17:13:30.176 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 17:15:30.174 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 17:17:30.210 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 17:19:30.174 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 17:21:30.170 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 17:23:30.172 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 17:29:30.164 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 17:31:30.164 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 17:33:30.163 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 17:35:30.159 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 17:45:30.154 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 17:47:30.152 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 17:49:30.150 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 17:59:30.144 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:01:30.138 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:03:30.135 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:05:30.133 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:07:30.133 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:09:30.130 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:11:27.705 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:11:27.928 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:13:30.130 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:17:30.123 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:21:18.015 NotebookApp] Kernel interrupted: 5d5e9f95-4e20-4fb6-bc7b-6ae929c80a49
+[I 18:21:30.173 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:23:01.693 NotebookApp] Kernel interrupted: 5d5e9f95-4e20-4fb6-bc7b-6ae929c80a49
+[I 18:23:05.370 NotebookApp] Starting buffering for 5d5e9f95-4e20-4fb6-bc7b-6ae929c80a49:3FF1F15A57A24B849093C63861F5C08F
+[I 18:23:06.001 NotebookApp] Kernel restarted: 5d5e9f95-4e20-4fb6-bc7b-6ae929c80a49
+[I 18:23:06.840 NotebookApp] Adapting to protocol v5.1 for kernel 5d5e9f95-4e20-4fb6-bc7b-6ae929c80a49
+[I 18:23:06.841 NotebookApp] Restoring connection for 5d5e9f95-4e20-4fb6-bc7b-6ae929c80a49:3FF1F15A57A24B849093C63861F5C08F
+[I 18:23:06.841 NotebookApp] Replaying 6 buffered messages
+[I 18:23:30.120 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:25:30.118 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:27:30.117 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:31:30.112 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:33:30.114 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:35:30.110 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 18:36:27.654 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 09:25:03.096 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 09:27:03.096 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 09:29:03.093 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 09:43:03.086 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 09:45:03.078 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 09:47:03.081 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 09:55:03.073 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 09:57:03.075 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 09:59:03.069 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:01:03.067 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:03:03.071 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:25:03.052 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 10:27:03.049 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
