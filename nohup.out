@@ -2168,3 +2168,211 @@ Shutdown this notebook server (y/[n])? [C 17:09:53.733 NotebookApp] received sig
 [I 11:36:29.194 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
 [I 11:36:42.116 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
 [I 11:36:42.655 NotebookApp] Saving file at /机器学习/神经网络和反向传播.ipynb
+[I 09:32:37.558 NotebookApp] Loading IPython parallel extension
+[I 09:32:37.568 NotebookApp] Serving notebooks from local directory: /Users/yexianyong/Desktop/jupyter_notebook
+[I 09:32:37.569 NotebookApp] 0 active kernels
+[I 09:32:37.569 NotebookApp] The Jupyter Notebook is running at:
+[I 09:32:37.569 NotebookApp] http://localhost:8888/?token=bfdad87e1f971249af4e90a60a6c1e9690e8d7466e29715c
+[I 09:32:37.569 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:32:37.570 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=bfdad87e1f971249af4e90a60a6c1e9690e8d7466e29715c
+[I 09:32:37.710 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 09:32:38.330 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180222093236 (::1) 11.46ms referer=http://localhost:8888/tree
+[W 09:32:38.333 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180222093236 (::1) 2.08ms referer=http://localhost:8888/tree
+[W 09:32:47.415 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180222093236 (::1) 2.74ms referer=http://localhost:8888/tree
+[W 09:32:47.425 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180222093236 (::1) 1.65ms referer=http://localhost:8888/tree
+[W 09:32:49.831 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180222093236 (::1) 2.11ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
+[W 09:32:49.838 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180222093236 (::1) 2.02ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
+[W 09:32:57.245 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180222093236 (::1) 4.32ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[W 09:32:57.251 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180222093236 (::1) 1.95ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[W 09:32:57.253 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180222093236 (::1) 1.92ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[I 09:32:57.633 NotebookApp] Kernel started: 4cb73278-b1ef-4e7c-b632-d2eee2fbfb7f
+[I 09:32:58.410 NotebookApp] Adapting to protocol v5.1 for kernel 4cb73278-b1ef-4e7c-b632-d2eee2fbfb7f
+[I 09:34:10.543 NotebookApp] Starting buffering for 4cb73278-b1ef-4e7c-b632-d2eee2fbfb7f:9676D9F4ADA94C54874D208743A5711F
+[I 09:50:52.588 NotebookApp] Creating new notebook in /机器学习
+[W 09:50:53.158 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180222093236 (::1) 2.38ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/Untitled.ipynb?kernel_name=python3
+[W 09:50:53.160 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180222093236 (::1) 1.79ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/Untitled.ipynb?kernel_name=python3
+[I 09:50:53.236 NotebookApp] Kernel started: 3eef19ca-317f-477e-b391-c9c2c564d6e4
+[W 09:50:53.246 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180222093236 (::1) 2.51ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/Untitled.ipynb?kernel_name=python3
+[I 09:50:54.097 NotebookApp] Adapting to protocol v5.1 for kernel 3eef19ca-317f-477e-b391-c9c2c564d6e4
+[I 09:51:27.219 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
+[I 09:52:53.235 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
+[W 17:47:20.013 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180222093236 (::1) 2.12ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[W 17:47:20.019 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180222093236 (::1) 3.05ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[W 17:47:20.022 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180222093236 (::1) 2.00ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[I 17:47:20.372 NotebookApp] Adapting to protocol v5.1 for kernel 4cb73278-b1ef-4e7c-b632-d2eee2fbfb7f
+[I 17:47:27.794 NotebookApp] Starting buffering for 4cb73278-b1ef-4e7c-b632-d2eee2fbfb7f:95683F2BCC454E38B0D382B43662AB8B
+[W 17:59:43.070 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180222093236 (::1) 2.03ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[W 17:59:43.074 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180222093236 (::1) 1.73ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[W 17:59:43.076 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180222093236 (::1) 1.84ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[I 17:59:43.416 NotebookApp] Adapting to protocol v5.1 for kernel 4cb73278-b1ef-4e7c-b632-d2eee2fbfb7f
+[I 18:03:38.244 NotebookApp] Starting buffering for 4cb73278-b1ef-4e7c-b632-d2eee2fbfb7f:43B3718007FB4082897E8CD51D2533A2
+[I 02:00:48.571 NotebookApp] Starting buffering for 3eef19ca-317f-477e-b391-c9c2c564d6e4:926881AEBC93490BBD5FA6821CC59A97
+[C 02:14:17.135 NotebookApp] received signal 15, stopping
+[I 02:14:18.143 NotebookApp] Shutting down 2 kernels
+[I 02:14:19.178 NotebookApp] Kernel shutdown: 4cb73278-b1ef-4e7c-b632-d2eee2fbfb7f
+[I 02:14:19.179 NotebookApp] Kernel shutdown: 3eef19ca-317f-477e-b391-c9c2c564d6e4
+[I 09:23:26.145 NotebookApp] Loading IPython parallel extension
+[I 09:23:26.156 NotebookApp] Serving notebooks from local directory: /Users/yexianyong/Desktop/jupyter_notebook
+[I 09:23:26.156 NotebookApp] 0 active kernels
+[I 09:23:26.156 NotebookApp] The Jupyter Notebook is running at:
+[I 09:23:26.156 NotebookApp] http://localhost:8888/?token=f454e9f9e702778c53e66622c2c01d5914eef06cc2d4825f
+[I 09:23:26.156 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:23:26.158 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=f454e9f9e702778c53e66622c2c01d5914eef06cc2d4825f
+[I 09:23:26.316 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 09:23:26.901 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180223092325 (::1) 12.01ms referer=http://localhost:8888/tree
+[W 09:23:26.903 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180223092325 (::1) 1.90ms referer=http://localhost:8888/tree
+[W 09:23:39.185 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180223092325 (::1) 1.91ms referer=http://localhost:8888/tree/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0
+[W 09:23:39.189 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180223092325 (::1) 1.75ms referer=http://localhost:8888/tree/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0
+[W 09:23:41.507 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180223092325 (::1) 2.48ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/matplotlib.ipynb
+[W 09:23:41.511 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180223092325 (::1) 1.82ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/matplotlib.ipynb
+[W 09:23:41.516 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180223092325 (::1) 1.88ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/matplotlib.ipynb
+[I 09:23:41.783 NotebookApp] Kernel started: a3735aac-d545-4912-a27a-2b64f8d416bb
+[I 09:23:42.669 NotebookApp] Adapting to protocol v5.1 for kernel a3735aac-d545-4912-a27a-2b64f8d416bb
+[I 09:25:41.731 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 09:29:41.726 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 09:31:41.725 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 09:33:41.728 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 09:37:41.725 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 09:43:41.798 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 09:45:42.050 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 09:47:41.714 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 10:05:41.690 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 10:11:41.687 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 10:21:41.675 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 10:29:41.664 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 10:33:41.660 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 10:35:41.655 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 10:41:41.650 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 10:43:41.649 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 10:45:41.644 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 10:47:41.641 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 10:49:41.639 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 10:51:41.634 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 10:53:41.635 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 10:55:41.630 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 10:57:41.626 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 11:21:15.217 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 11:27:15.131 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 11:31:15.125 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 11:33:15.124 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 11:37:15.114 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 11:49:15.101 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 11:51:15.097 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 11:53:15.097 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 11:55:15.094 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 11:57:15.093 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 11:59:15.090 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 13:22:44.531 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 13:24:44.537 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 13:26:44.511 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 13:30:44.504 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 13:32:44.515 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 13:34:44.499 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 13:36:44.498 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 13:38:44.496 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 13:40:44.493 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 13:44:44.487 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 13:46:44.484 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 13:48:44.486 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 13:50:44.479 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 13:52:44.478 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 13:54:44.477 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 13:56:44.477 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 13:58:44.473 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:00:44.471 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:02:44.467 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[W 14:03:38.567 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180223092325 (::1) 2.46ms referer=http://localhost:8888/tree
+[W 14:03:38.570 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180223092325 (::1) 2.04ms referer=http://localhost:8888/tree
+[W 14:03:39.986 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180223092325 (::1) 1.95ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
+[W 14:03:39.989 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180223092325 (::1) 2.21ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
+[W 14:03:42.936 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180223092325 (::1) 2.13ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[W 14:03:42.939 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180223092325 (::1) 1.75ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[I 14:03:43.251 NotebookApp] Kernel started: 8243a8e6-bb27-407c-b35e-28891524c149
+[W 14:03:43.264 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180223092325 (::1) 4.59ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[I 14:03:44.563 NotebookApp] Adapting to protocol v5.1 for kernel 8243a8e6-bb27-407c-b35e-28891524c149
+[I 14:03:53.012 NotebookApp] Starting buffering for 8243a8e6-bb27-407c-b35e-28891524c149:35727C581A434F05AC977E429D25DE65
+[I 14:04:44.468 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:08:44.841 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:10:44.831 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:12:03.934 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:14:44.830 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:16:44.829 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:18:44.829 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:20:44.824 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:22:44.826 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:24:44.820 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:26:44.822 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:28:44.821 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:30:44.819 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:38:44.816 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:40:44.810 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:42:44.807 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:44:44.808 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:46:44.810 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:48:44.810 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:50:44.807 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:54:44.801 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 14:56:44.804 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 15:10:44.790 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 15:12:44.793 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 15:14:44.789 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 15:16:44.786 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 15:18:44.786 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 15:20:44.785 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 15:22:44.783 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 15:24:44.785 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 15:26:44.786 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 15:28:44.784 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[W 15:30:31.737 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180223092325 (::1) 2.00ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[W 15:30:31.740 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180223092325 (::1) 1.88ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[W 15:30:32.054 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180223092325 (::1) 2.44ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
+[I 15:30:32.064 NotebookApp] Adapting to protocol v5.1 for kernel 8243a8e6-bb27-407c-b35e-28891524c149
+[I 15:30:45.608 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 15:32:44.781 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 15:34:44.777 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 15:36:44.778 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 15:38:44.778 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 15:40:44.772 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 15:42:44.777 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 15:43:51.572 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 15:46:44.772 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 15:48:44.778 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 15:54:44.766 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 15:56:44.766 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 16:12:44.757 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 16:14:44.750 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 16:18:44.750 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 16:22:44.746 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 16:24:44.744 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 16:26:44.745 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 16:28:44.742 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 16:30:44.742 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 16:32:44.739 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 16:36:44.737 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 16:38:44.733 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 16:40:44.731 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 16:42:44.734 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 16:44:11.918 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 16:44:44.727 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 16:46:44.728 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 16:48:39.717 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 16:56:12.156 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 16:56:44.723 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 17:00:21.414 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 17:04:44.718 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 17:07:00.942 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 17:08:44.712 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 17:10:44.716 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 17:12:44.713 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 17:16:44.708 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 17:18:44.710 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 17:28:40.259 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
+[I 17:32:44.697 NotebookApp] Saving file at /工具学习/matplotlib.ipynb
