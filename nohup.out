@@ -115,3 +115,4 @@
 [I 17:25:22.631 NotebookApp] Kernel started: 7b8e5491-e8d3-481a-b406-11790f5151cd
 [W 17:25:22.664 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180312094446 (::1) 6.17ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/TensorFlow.ipynb
 [I 17:25:24.006 NotebookApp] Adapting to protocol v5.1 for kernel 7b8e5491-e8d3-481a-b406-11790f5151cd
+[I 17:27:22.642 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
