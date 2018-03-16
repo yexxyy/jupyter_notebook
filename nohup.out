@@ -1,226 +1,49 @@
-[I 09:44:46.883 NotebookApp] Loading IPython parallel extension
-[I 09:44:46.892 NotebookApp] Serving notebooks from local directory: /Users/yexianyong/Desktop/jupyter_notebook
-[I 09:44:46.892 NotebookApp] 0 active kernels
-[I 09:44:46.892 NotebookApp] The Jupyter Notebook is running at:
-[I 09:44:46.892 NotebookApp] http://localhost:8888/?token=e9a9f2ca35c07928f72e87000f3094a50faada0a17f0fab2
-[I 09:44:46.893 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[C 09:44:46.894 NotebookApp] 
+[I 10:02:31.248 NotebookApp] Loading IPython parallel extension
+[I 10:02:31.258 NotebookApp] Serving notebooks from local directory: /Users/yexianyong/Desktop/jupyter_notebook
+[I 10:02:31.258 NotebookApp] 0 active kernels
+[I 10:02:31.258 NotebookApp] The Jupyter Notebook is running at:
+[I 10:02:31.258 NotebookApp] http://localhost:8888/?token=8227af5cea448454029a186940014a307a46e853bf5759c7
+[I 10:02:31.258 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:02:31.260 NotebookApp] 
     
     Copy/paste this URL into your browser when you connect for the first time,
     to login with a token:
-        http://localhost:8888/?token=e9a9f2ca35c07928f72e87000f3094a50faada0a17f0fab2
-[I 09:44:47.044 NotebookApp] Accepting one-time-token-authenticated connection from ::1
-[W 09:44:47.678 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180312094446 (::1) 11.79ms referer=http://localhost:8888/tree
-[W 09:44:47.683 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180312094446 (::1) 1.85ms referer=http://localhost:8888/tree
-[W 09:44:54.096 NotebookApp] delete /nohup.log
-[W 09:44:56.797 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180312094446 (::1) 1.93ms referer=http://localhost:8888/edit/nohup.out
-[W 09:44:56.806 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180312094446 (::1) 2.09ms referer=http://localhost:8888/edit/nohup.out
-[W 09:45:01.697 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180312094446 (::1) 2.35ms referer=http://localhost:8888/tree
-[W 09:45:01.705 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180312094446 (::1) 1.92ms referer=http://localhost:8888/tree
-[W 09:53:32.970 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180312094446 (::1) 1.66ms referer=http://localhost:8888/tree
-[W 09:53:32.973 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180312094446 (::1) 2.44ms referer=http://localhost:8888/tree
-[W 09:53:34.529 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180312094446 (::1) 2.46ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
-[W 09:53:34.533 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180312094446 (::1) 2.10ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
-[W 09:53:43.785 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180312094446 (::1) 3.11ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb
-[W 09:53:43.790 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180312094446 (::1) 3.29ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb
-[W 09:53:43.794 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180312094446 (::1) 2.18ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb
-[I 09:53:44.480 NotebookApp] Kernel started: f3a5c5cf-c073-41b9-9157-765da8025efd
-[I 09:53:45.327 NotebookApp] Adapting to protocol v5.1 for kernel f3a5c5cf-c073-41b9-9157-765da8025efd
-[I 10:09:44.496 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 10:11:44.612 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 10:13:44.790 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 10:15:45.021 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 10:17:44.411 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 10:17:59.741 NotebookApp] Kernel interrupted: f3a5c5cf-c073-41b9-9157-765da8025efd
-[I 10:19:44.408 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 10:25:44.403 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 10:27:44.399 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 10:33:44.390 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 10:35:44.383 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 10:53:44.367 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 10:55:44.368 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[W 10:58:23.327 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180312094446 (::1) 2.08ms referer=http://localhost:8888/tree
-[W 10:58:23.331 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180312094446 (::1) 1.87ms referer=http://localhost:8888/tree
-[W 10:58:24.934 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180312094446 (::1) 2.41ms referer=http://localhost:8888/tree/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0
-[W 10:58:24.938 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180312094446 (::1) 1.85ms referer=http://localhost:8888/tree/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0
-[W 10:58:48.149 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180312094446 (::1) 2.31ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/numpy.ipynb
-[W 10:58:48.154 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180312094446 (::1) 2.89ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/numpy.ipynb
-[W 10:58:48.157 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180312094446 (::1) 2.08ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/numpy.ipynb
-[I 10:58:49.001 NotebookApp] Kernel started: 6529c00a-7102-4b41-a228-fe92e6414132
-[I 10:58:49.949 NotebookApp] Adapting to protocol v5.1 for kernel 6529c00a-7102-4b41-a228-fe92e6414132
-[I 11:00:49.001 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 11:02:49.000 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 11:04:48.999 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 11:06:12.263 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 11:06:20.341 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 11:06:48.995 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 11:08:48.991 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 11:10:48.991 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 11:12:48.988 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 11:14:48.986 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 11:14:49.162 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 11:14:49.418 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 11:16:48.981 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 11:18:48.979 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 11:19:57.637 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 11:19:57.864 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 11:31:44.326 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 11:35:44.326 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 11:37:44.318 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 11:39:44.313 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 11:41:44.312 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 11:43:44.312 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 11:45:44.306 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 11:47:44.306 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 11:53:17.860 NotebookApp] Starting buffering for f3a5c5cf-c073-41b9-9157-765da8025efd:342F8CA206474711B0605FC7D532B5B5
-[W 11:53:18.423 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180312094446 (::1) 3.61ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb
-[W 11:53:18.427 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180312094446 (::1) 1.97ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb
-[W 11:53:18.431 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180312094446 (::1) 1.70ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb
-[I 11:53:19.066 NotebookApp] Adapting to protocol v5.1 for kernel f3a5c5cf-c073-41b9-9157-765da8025efd
-[I 13:21:54.470 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 13:24:43.427 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 13:26:43.424 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 13:28:43.417 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 13:30:43.427 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 13:32:43.414 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 13:34:43.414 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 13:36:43.410 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 13:38:43.410 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 13:58:53.550 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 14:00:13.267 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 14:02:13.260 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 14:04:43.371 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 14:06:43.367 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 14:08:13.253 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 14:08:43.573 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 14:10:13.255 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 14:12:13.247 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 14:12:58.037 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 14:12:58.318 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 14:14:43.358 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 14:16:13.239 NotebookApp] Saving file at /工具学习/numpy.ipynb
-[I 14:16:43.049 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 14:18:43.051 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 14:20:43.048 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 15:08:43.009 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 16:20:45.331 NotebookApp] Starting buffering for 6529c00a-7102-4b41-a228-fe92e6414132:2D5B8231393848048CBE8746B7AD4AAC
-[I 16:28:38.745 NotebookApp] Adapting to protocol v5.1 for kernel 6529c00a-7102-4b41-a228-fe92e6414132
-[I 16:52:42.922 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 16:54:42.925 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 17:14:51.227 NotebookApp] Starting buffering for 6529c00a-7102-4b41-a228-fe92e6414132:146EC15A16E1462F8DC078CBF5AF6A1A
-[I 17:15:53.831 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 17:15:54.066 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[W 17:25:22.491 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180312094446 (::1) 2.10ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/TensorFlow.ipynb
-[W 17:25:22.496 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180312094446 (::1) 2.50ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/TensorFlow.ipynb
-[I 17:25:22.631 NotebookApp] Kernel started: 7b8e5491-e8d3-481a-b406-11790f5151cd
-[W 17:25:22.664 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180312094446 (::1) 6.17ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/TensorFlow.ipynb
-[I 17:25:24.006 NotebookApp] Adapting to protocol v5.1 for kernel 7b8e5491-e8d3-481a-b406-11790f5151cd
-[I 17:27:22.642 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 17:29:22.639 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-2018-03-12 17:47:59.424619: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.2 AVX
-[I 17:49:22.608 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 17:51:22.608 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 09:28:10.145 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 09:32:10.140 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 09:34:10.140 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 09:36:10.139 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 09:36:53.631 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 10:00:10.119 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 10:02:10.115 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 10:04:10.115 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 10:06:10.111 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 10:08:10.112 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 10:10:10.112 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[W 16:43:38.849 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180312094446 (::1) 2.50ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/python.ipynb
-[W 16:43:38.853 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180312094446 (::1) 2.41ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/python.ipynb
-[W 16:43:38.868 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180312094446 (::1) 2.98ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/python.ipynb
-[I 16:43:39.071 NotebookApp] Kernel started: fdbe166b-0ed8-414f-9e7c-589c39a58594
-[I 16:43:40.229 NotebookApp] Adapting to protocol v5.1 for kernel fdbe166b-0ed8-414f-9e7c-589c39a58594
-[I 16:45:39.065 NotebookApp] Saving file at /工具学习/python.ipynb
-[I 14:17:42.247 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 14:19:42.192 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 14:42:31.119 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 14:42:31.354 NotebookApp] Saving file at /机器学习/卷积神经网络.ipynb
-[I 14:56:21.885 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 15:00:21.875 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 15:02:21.872 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 15:08:21.863 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 15:14:21.858 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 15:16:21.855 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 15:18:21.857 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 15:20:21.853 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 15:22:59.544 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 15:24:21.849 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 15:26:21.848 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 15:28:21.842 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 15:30:21.842 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 15:32:22.303 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[W 15:32:31.420 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180312094446 (::1) 4.14ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/matplotlib.ipynb
-[W 15:32:31.428 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180312094446 (::1) 3.33ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/matplotlib.ipynb
-[W 15:32:31.430 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180312094446 (::1) 1.98ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/matplotlib.ipynb
-[I 15:32:32.037 NotebookApp] Kernel started: cca0e47d-6237-4d2f-b4ee-f848416eea19
-[I 15:32:33.364 NotebookApp] Adapting to protocol v5.1 for kernel cca0e47d-6237-4d2f-b4ee-f848416eea19
-[I 15:34:21.842 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 15:36:21.840 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 15:38:21.836 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 15:40:21.830 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 15:42:21.829 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 15:44:21.828 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 15:46:21.825 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 15:48:21.823 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 15:50:21.820 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 15:52:21.819 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 16:02:21.821 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[W 16:03:31.811 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180312094446 (::1) 2.88ms referer=http://localhost:8888/tree
-[W 16:03:31.823 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180312094446 (::1) 1.93ms referer=http://localhost:8888/tree
-[W 16:03:33.568 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180312094446 (::1) 1.97ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
-[W 16:03:33.571 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180312094446 (::1) 2.48ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
-[W 16:03:36.474 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180312094446 (::1) 1.93ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%84%9F%E7%9F%A5%E5%99%A8.ipynb
-[W 16:03:36.477 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180312094446 (::1) 2.05ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%84%9F%E7%9F%A5%E5%99%A8.ipynb
-[W 16:03:36.487 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180312094446 (::1) 3.05ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%84%9F%E7%9F%A5%E5%99%A8.ipynb
-[I 16:03:36.667 NotebookApp] Kernel started: 4727c035-d5f7-497a-ad41-49b8bed6db7d
-[I 16:03:37.984 NotebookApp] Adapting to protocol v5.1 for kernel 4727c035-d5f7-497a-ad41-49b8bed6db7d
-[I 16:03:44.840 NotebookApp] Starting buffering for 4727c035-d5f7-497a-ad41-49b8bed6db7d:C8B6218E0364431D8801EEF129CECDE7
-[W 16:03:46.600 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180312094446 (::1) 1.92ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
-[W 16:03:46.604 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180312094446 (::1) 2.75ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
-[W 16:03:46.606 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180312094446 (::1) 1.84ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb
-[I 16:03:47.034 NotebookApp] Kernel started: 9bd1194d-cb7e-471e-b653-ff76a4dcb27e
-[I 16:03:48.023 NotebookApp] Adapting to protocol v5.1 for kernel 9bd1194d-cb7e-471e-b653-ff76a4dcb27e
-[I 16:03:48.359 NotebookApp] Starting buffering for 9bd1194d-cb7e-471e-b653-ff76a4dcb27e:16AE97B41E6F40E0A44FC26A535DA0B8
-[W 16:03:50.062 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180312094446 (::1) 1.89ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%BA%BF%E6%80%A7%E5%8D%95%E5%85%83%E5%92%8C%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D.ipynb
-[W 16:03:50.065 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180312094446 (::1) 1.82ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%BA%BF%E6%80%A7%E5%8D%95%E5%85%83%E5%92%8C%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D.ipynb
-[I 16:03:50.247 NotebookApp] Kernel started: 6e88be66-3c03-4087-81fd-5dff4cf7e136
-[W 16:03:50.256 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180312094446 (::1) 2.74ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%BA%BF%E6%80%A7%E5%8D%95%E5%85%83%E5%92%8C%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D.ipynb
-[I 16:03:51.147 NotebookApp] Adapting to protocol v5.1 for kernel 6e88be66-3c03-4087-81fd-5dff4cf7e136
-[I 16:04:22.252 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 16:06:21.812 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 16:08:21.804 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 16:10:21.802 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 16:16:21.800 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 16:20:21.797 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 16:22:21.793 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 16:24:21.788 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 16:26:21.787 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 16:28:21.788 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 16:30:21.783 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 16:32:21.781 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 16:34:21.779 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 16:36:21.782 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 16:38:21.780 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 16:40:21.778 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 17:00:21.766 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 17:02:21.755 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 17:04:21.752 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 17:06:21.751 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 17:08:21.749 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 17:10:21.750 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 17:12:21.747 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 17:14:21.747 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 17:15:04.128 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 17:15:04.397 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 17:15:04.601 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 17:15:04.780 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 17:15:04.949 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 17:15:05.141 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 17:15:05.344 NotebookApp] Saving file at /工具学习/TensorFlow.ipynb
-[I 17:20:59.891 NotebookApp] Saving file at /工具学习/tensorflow-拟合平面.ipynb
+        http://localhost:8888/?token=8227af5cea448454029a186940014a307a46e853bf5759c7
+[I 10:02:39.126 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 10:02:39.632 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180316100230 (::1) 13.17ms referer=http://localhost:8888/tree
+[W 10:02:39.635 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180316100230 (::1) 2.00ms referer=http://localhost:8888/tree
+[W 10:02:42.213 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180316100230 (::1) 2.19ms referer=http://localhost:8888/tree
+[W 10:02:42.220 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180316100230 (::1) 2.03ms referer=http://localhost:8888/tree
+[W 10:02:47.482 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180316100230 (::1) 2.00ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
+[W 10:02:47.490 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180316100230 (::1) 1.93ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
+[W 10:02:49.862 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180316100230 (::1) 1.93ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/tensorflow-MNIST%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8.ipynb
+[W 10:02:49.864 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180316100230 (::1) 1.84ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/tensorflow-MNIST%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8.ipynb
+[W 10:02:49.870 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180316100230 (::1) 1.97ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/tensorflow-MNIST%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8.ipynb
+[I 10:02:50.081 NotebookApp] Kernel started: 2252ec42-1477-43fc-bdc4-b1cfba38937b
+[I 10:02:50.919 NotebookApp] Adapting to protocol v5.1 for kernel 2252ec42-1477-43fc-bdc4-b1cfba38937b
+[I 10:04:02.040 NotebookApp] Starting buffering for 2252ec42-1477-43fc-bdc4-b1cfba38937b:5095026CA4E04629803B38A7F382C176
+[W 10:04:07.683 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180316100230 (::1) 2.04ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/tensorflow-MNIST%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8.ipynb
+[W 10:04:07.686 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180316100230 (::1) 2.02ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/tensorflow-MNIST%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8.ipynb
+[W 10:04:07.694 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180316100230 (::1) 2.16ms referer=http://localhost:8888/notebooks/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/tensorflow-MNIST%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8.ipynb
+[I 10:04:07.962 NotebookApp] Adapting to protocol v5.1 for kernel 2252ec42-1477-43fc-bdc4-b1cfba38937b
+[I 10:04:23.450 NotebookApp] Starting buffering for 2252ec42-1477-43fc-bdc4-b1cfba38937b:523524950AC04EF98EBDC14EABFAC65F
+[I 10:04:42.040 NotebookApp] Kernel shutdown: 2252ec42-1477-43fc-bdc4-b1cfba38937b
+[W 10:04:42.042 NotebookApp] delete /机器学习/tensorflow-MNIST机器学习入门.ipynb
+[W 10:04:50.477 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180316100230 (::1) 2.07ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/base_path
+[W 10:04:50.485 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180316100230 (::1) 2.03ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/base_path
+[W 10:04:54.651 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180316100230 (::1) 2.07ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
+[W 10:04:54.656 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180316100230 (::1) 1.84ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
+[W 10:05:00.130 NotebookApp] delete /机器学习/MINIST_data
+[W 10:05:00.132 NotebookApp] delete /机器学习/MNIST_data
+[W 10:05:08.759 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180316100230 (::1) 1.84ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/training_images_path
+[W 10:05:08.762 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180316100230 (::1) 1.82ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/training_images_path
+[W 10:05:11.341 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180316100230 (::1) 2.09ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
+[W 10:05:11.344 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180316100230 (::1) 1.83ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
+[W 10:05:18.707 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180316100230 (::1) 2.61ms referer=http://localhost:8888/tree
+[W 10:05:18.709 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180316100230 (::1) 1.94ms referer=http://localhost:8888/tree
+[W 10:05:20.074 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180316100230 (::1) 1.87ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
+[W 10:05:20.077 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180316100230 (::1) 1.68ms referer=http://localhost:8888/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
+[W 10:05:23.482 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180312094446 (::1) 2.50ms referer=http://localhost:8888/tree
+[W 10:05:23.484 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180312094446 (::1) 1.90ms referer=http://localhost:8888/tree
+[W 10:05:24.633 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180316100230 (::1) 2.28ms referer=http://localhost:8888/tree/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0
+[W 10:05:24.638 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180316100230 (::1) 1.77ms referer=http://localhost:8888/tree/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0
