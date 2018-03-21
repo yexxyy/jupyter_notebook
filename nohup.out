@@ -56,3 +56,23 @@ mysqldump: [Warning] Using a password on the command line interface can be insec
 [I 15:47:57.204 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
 [I 15:47:57.475 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
 [I 15:47:57.665 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
+[I 15:51:27.471 NotebookApp] Saving file at /工具学习/mysql_with_python.ipynb
+[I 15:54:57.778 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
+[I 15:57:27.468 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
+[I 15:59:27.466 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
+[I 16:01:27.461 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
+[I 16:02:14.046 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
+[I 16:02:14.315 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
+[I 16:02:14.585 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+mysqldump: Got error: 1045: Access denied for user 'root'@'localhost' (using password: YES) when trying to connect
+[I 16:03:27.461 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
+[I 16:06:47.200 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
+[I 16:06:47.424 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
+[I 16:06:47.637 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
+[I 16:07:44.585 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
+[I 16:07:44.996 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
+[I 16:07:45.069 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
+[I 16:18:42.068 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
+[I 16:18:52.067 NotebookApp] Starting buffering for 1224e87a-1afa-4d72-bb9b-d7d26a24627f:784D698D3B6C4BC4BF3E705FDAEE8BA4
+[I 16:19:17.527 NotebookApp] New terminal with automatic name: 1
