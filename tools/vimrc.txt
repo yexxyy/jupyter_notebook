@@ -66,17 +66,12 @@ set fdm=syntax
 "设置键盘映射，通过空格设置折叠
 nnoremap <space> @=((foldclosed(line('.')<0)?'zc':'zo'))<CR>
 """"""""""""""""""""""""""""""""""""""""""""""
-"不要闪烁
-set novisualbell
+
+
 
 "启动显示状态行
 set laststatus=2
 
-"浅色显示当前行
-autocmd InsertLeave * se nocul
-
-"用浅色高亮当前行
-autocmd InsertEnter * se cul
 
 "显示输入的命令
 set showcmd
@@ -85,3 +80,5 @@ set showcmd
 set fillchars=vert:/
 
 set fillchars=stl:/
+
+
