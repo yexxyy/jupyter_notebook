@@ -194,3 +194,35 @@
 [I 16:50:51.333 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
 [I 16:50:51.587 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
 [I 16:50:51.839 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:52:14.207 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:52:29.507 NotebookApp] Starting buffering for 9c63cd34-71e5-4e48-81df-b580c9ce5644:7156170839b140a88fe9bf548639438a
+[I 16:52:34.076 NotebookApp] Starting buffering for 66dcf06a-6464-4c8a-8718-90cb8f1ff028:d062effa721445358d036a44a5f616e1
+[W 16:58:00.350 NotebookApp] Notebook deep_learn/MNIST机器学习入门.ipynb is not trusted
+[I 16:58:01.421 NotebookApp] Kernel started: fa03d6fb-90fa-4325-90af-ac1d34943ed7
+[I 16:58:02.915 NotebookApp] Adapting to protocol v5.1 for kernel fa03d6fb-90fa-4325-90af-ac1d34943ed7
+[I 16:58:28.410 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[W 16:58:28.411 NotebookApp] Notebook deep_learn/MNIST机器学习入门.ipynb is not trusted
+[W 16:59:07.931 NotebookApp] Notebook deep_learn/神经网络和反向传播.ipynb is not trusted
+[I 16:59:08.276 NotebookApp] Kernel started: f9e265e6-eec6-457f-a228-c58127090703
+[I 16:59:10.085 NotebookApp] Adapting to protocol v5.1 for kernel f9e265e6-eec6-457f-a228-c58127090703
+[I 16:59:19.760 NotebookApp] Starting buffering for f9e265e6-eec6-457f-a228-c58127090703:51a46ef448ee4b1fa5f420f7d988ce24
+[I 17:04:00.661 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 17:06:00.654 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 17:08:00.656 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+2018-03-22 17:08:20.410812: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 17:08:43.386 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 17:10:00.659 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 17:12:00.664 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 17:14:00.663 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 17:16:00.670 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 17:18:00.676 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 17:20:00.691 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 17:22:00.687 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 17:24:00.689 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 17:26:00.693 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 17:28:00.703 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 17:30:00.707 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 17:30:19.737 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 17:30:23.390 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 17:30:37.958 NotebookApp] Starting buffering for fa03d6fb-90fa-4325-90af-ac1d34943ed7:7b178f39de194f8c8460839a39dd04f0
+[W 17:31:01.540 NotebookApp] delete /deep_learn/mnist
