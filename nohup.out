@@ -1,78 +1,190 @@
-[I 14:33:18.441 NotebookApp] Loading IPython parallel extension
-[I 14:33:18.453 NotebookApp] Serving notebooks from local directory: /Users/yexianyong/Desktop/jupyter_notebook
-[I 14:33:18.453 NotebookApp] 0 active kernels
-[I 14:33:18.453 NotebookApp] The Jupyter Notebook is running at:
-[I 14:33:18.453 NotebookApp] http://localhost:8888/?token=261b8053eb1e261b776dd938a0880071553f73da570fb0af
-[I 14:33:18.454 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[C 14:33:18.455 NotebookApp] 
+[I 09:43:01.006 NotebookApp] Writing notebook server cookie secret to /Users/yetongxue/Library/Jupyter/runtime/notebook_cookie_secret
+[I 09:43:01.498 NotebookApp] Serving notebooks from local directory: /Users/yetongxue/Desktop/jupyter_notebook
+[I 09:43:01.498 NotebookApp] 0 active kernels
+[I 09:43:01.498 NotebookApp] The Jupyter Notebook is running at:
+[I 09:43:01.499 NotebookApp] http://localhost:8888/?token=79a875ad281984a29d95458df8c0665da58dbccd962e0130
+[I 09:43:01.499 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:43:01.500 NotebookApp] 
     
     Copy/paste this URL into your browser when you connect for the first time,
     to login with a token:
-        http://localhost:8888/?token=261b8053eb1e261b776dd938a0880071553f73da570fb0af
-[I 14:33:20.748 NotebookApp] Accepting one-time-token-authenticated connection from ::1
-[W 14:33:22.059 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180321143317 (::1) 13.31ms referer=http://localhost:8888/tree
-[W 14:33:22.063 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180321143317 (::1) 1.75ms referer=http://localhost:8888/tree
-[W 14:33:24.678 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180321143317 (::1) 2.26ms referer=http://localhost:8888/tree/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0
-[W 14:33:24.682 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180321143317 (::1) 2.43ms referer=http://localhost:8888/tree/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0
-[W 14:33:26.956 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180321143317 (::1) 5.98ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/backup_mysql_with_python.ipynb
-[W 14:33:26.960 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180321143317 (::1) 2.32ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/backup_mysql_with_python.ipynb
-[W 14:33:26.964 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180321143317 (::1) 2.09ms referer=http://localhost:8888/notebooks/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/backup_mysql_with_python.ipynb
-[I 14:33:27.622 NotebookApp] Kernel started: 1224e87a-1afa-4d72-bb9b-d7d26a24627f
-[I 14:33:28.643 NotebookApp] Adapting to protocol v5.1 for kernel 1224e87a-1afa-4d72-bb9b-d7d26a24627f
-[I 14:45:27.551 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 14:47:27.548 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 14:49:27.547 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 14:51:27.541 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 14:53:27.542 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 14:55:27.534 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 14:57:27.532 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 14:59:27.529 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:01:27.530 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:03:27.526 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:05:27.521 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:07:27.519 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:09:27.538 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:11:27.518 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:17:27.549 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:19:27.509 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:21:27.512 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:23:27.504 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:25:27.504 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:29:27.500 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:31:27.498 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:33:29.562 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:35:27.494 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:37:27.486 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:39:27.489 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:41:27.487 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:43:27.484 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-mysqldump: [Warning] Using a password on the command line interface can be insecure.
-mysqldump: [Warning] Using a password on the command line interface can be insecure.
-mysqldump: [Warning] Using a password on the command line interface can be insecure.
-[I 15:45:27.478 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-mysqldump: [Warning] Using a password on the command line interface can be insecure.
-mysqldump: [Warning] Using a password on the command line interface can be insecure.
-[I 15:47:27.480 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:47:57.204 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:47:57.475 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:47:57.665 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:51:27.471 NotebookApp] Saving file at /工具学习/mysql_with_python.ipynb
-[I 15:54:57.778 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:57:27.468 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 15:59:27.466 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 16:01:27.461 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 16:02:14.046 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 16:02:14.315 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 16:02:14.585 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-mysqldump: [Warning] Using a password on the command line interface can be insecure.
-mysqldump: Got error: 1045: Access denied for user 'root'@'localhost' (using password: YES) when trying to connect
-[I 16:03:27.461 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 16:06:47.200 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 16:06:47.424 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 16:06:47.637 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 16:07:44.585 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 16:07:44.996 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 16:07:45.069 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 16:18:42.068 NotebookApp] Saving file at /工具学习/backup_mysql_with_python.ipynb
-[I 16:18:52.067 NotebookApp] Starting buffering for 1224e87a-1afa-4d72-bb9b-d7d26a24627f:784D698D3B6C4BC4BF3E705FDAEE8BA4
-[I 16:19:17.527 NotebookApp] New terminal with automatic name: 1
+        http://localhost:8888/?token=79a875ad281984a29d95458df8c0665da58dbccd962e0130
+[I 09:43:02.873 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[I 10:08:16.306 NotebookApp] Writing notebook-signing key to /Users/yetongxue/Library/Jupyter/notebook_secret
+[W 10:08:16.309 NotebookApp] Notebook 工具学习/tensorflow.ipynb is not trusted
+[I 10:08:17.237 NotebookApp] Kernel started: 66dcf06a-6464-4c8a-8718-90cb8f1ff028
+[I 10:08:18.641 NotebookApp] Adapting to protocol v5.1 for kernel 66dcf06a-6464-4c8a-8718-90cb8f1ff028
+2018-03-22 10:08:33.758492: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 10:10:16.811 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 10:14:16.929 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 10:16:17.032 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 10:18:16.961 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 10:20:16.832 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 10:22:16.710 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 10:24:16.895 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 10:46:16.923 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 10:48:17.127 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 10:50:17.077 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 10:52:16.876 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 10:54:17.223 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 11:26:16.918 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 11:28:16.842 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 11:30:16.879 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 11:32:16.875 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 11:34:16.974 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 11:38:16.893 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 11:46:16.908 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 11:48:16.910 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 11:50:17.553 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 11:52:17.055 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 11:54:17.344 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 13:20:17.126 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 13:22:17.398 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 13:23:35.976 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 13:24:17.629 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 13:26:17.425 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 13:28:17.405 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 13:30:17.234 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 13:32:17.489 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 13:34:17.328 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 13:36:17.159 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 13:38:17.271 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 13:38:32.352 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 13:40:17.278 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 13:42:17.462 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 13:44:17.384 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 13:46:17.691 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 13:48:17.411 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 13:50:17.319 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 14:00:17.662 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 14:02:17.570 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 14:14:17.573 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 14:16:17.796 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 14:18:17.762 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 14:20:17.777 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 14:22:17.811 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 14:26:17.479 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 14:28:17.561 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 14:30:17.335 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 14:36:17.666 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 14:38:17.316 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 14:40:17.540 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 14:42:17.460 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 14:44:17.600 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 14:46:17.779 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 14:48:17.816 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 14:50:17.320 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 14:52:17.501 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 14:54:17.596 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 14:56:17.319 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 14:57:49.809 NotebookApp] Saving file at /工具学习/tensorflow.ipynb
+[I 14:58:07.739 NotebookApp] Saving file at /工具学习/tensorflow-1.ipynb
+[W 15:07:28.314 NotebookApp] Notebook 机器学习/tensorflow-MNIST机器学习入门.ipynb is not trusted
+[I 15:07:29.643 NotebookApp] Kernel started: db1f19e5-e82a-40ae-bf21-d5c4bc625d38
+[I 15:07:31.099 NotebookApp] Adapting to protocol v5.1 for kernel db1f19e5-e82a-40ae-bf21-d5c4bc625d38
+[W 15:07:43.570 NotebookApp] Notebook 机器学习/tensorflow-深入MNIST.ipynb is not trusted
+[I 15:07:44.724 NotebookApp] Kernel started: 626da433-0955-4a2b-ac73-4a229f690e08
+[I 15:07:46.129 NotebookApp] Adapting to protocol v5.1 for kernel 626da433-0955-4a2b-ac73-4a229f690e08
+[I 15:09:30.039 NotebookApp] Saving file at /机器学习/MNIST机器学习入门.ipynb
+[W 15:09:30.041 NotebookApp] Notebook 机器学习/MNIST机器学习入门.ipynb is not trusted
+[I 15:09:44.936 NotebookApp] Saving file at /机器学习/深入MNIST.ipynb
+[W 15:09:44.937 NotebookApp] Notebook 机器学习/深入MNIST.ipynb is not trusted
+[W 15:11:06.347 NotebookApp] Notebook 机器学习/神经网络和反向传播.ipynb is not trusted
+[I 15:11:07.310 NotebookApp] Kernel started: a155d926-c8f4-4647-bfd6-fd918729c248
+[I 15:11:09.060 NotebookApp] Adapting to protocol v5.1 for kernel a155d926-c8f4-4647-bfd6-fd918729c248
+[I 15:11:34.317 NotebookApp] Starting buffering for a155d926-c8f4-4647-bfd6-fd918729c248:fb29810b6ad842ecb005416ef8668e34
+[I 15:16:26.873 NotebookApp] Kernel started: 8ec9e7b3-7c02-4b05-b078-827d294ed4e1
+[I 15:16:28.752 NotebookApp] Adapting to protocol v5.1 for kernel 8ec9e7b3-7c02-4b05-b078-827d294ed4e1
+[I 15:16:39.212 NotebookApp] Starting buffering for 8ec9e7b3-7c02-4b05-b078-827d294ed4e1:07cf3256bbcc41dbb84b2601e3ab2a87
+[W 15:16:46.363 NotebookApp] Notebook library_learn/tensorflow-拟合平面.ipynb is not trusted
+[I 15:16:46.550 NotebookApp] Kernel started: 92e859e1-741d-4a3d-8ed4-934b88ab7b9f
+[I 15:16:48.378 NotebookApp] Adapting to protocol v5.1 for kernel 92e859e1-741d-4a3d-8ed4-934b88ab7b9f
+[I 15:17:01.430 NotebookApp] Starting buffering for 92e859e1-741d-4a3d-8ed4-934b88ab7b9f:ba9f73ebefa34193b08256286f610c0a
+[I 15:18:41.043 NotebookApp] Creating new file in /my_tools
+[I 15:26:32.335 NotebookApp] Saving file at /my_tools/untitled.txt
+[I 15:27:07.234 NotebookApp] Saving file at /my_tools/my_bash_profile
+[I 15:28:16.372 NotebookApp] Saving file at /my_tools/bash_profile
+[I 15:29:42.664 NotebookApp] Saving file at /my_tools/bash_profile
+[I 15:29:54.876 NotebookApp] Saving file at /my_tools/bash_profile
+[I 15:29:55.609 NotebookApp] Saving file at /my_tools/bash_profile
+[I 15:31:31.488 NotebookApp] Starting buffering for 626da433-0955-4a2b-ac73-4a229f690e08:618af4daba70498fbe65da00295c9d88
+[I 15:33:02.771 NotebookApp] Starting buffering for db1f19e5-e82a-40ae-bf21-d5c4bc625d38:5ab0c05fee604b4e8e0562383dad8742
+[W 15:33:09.715 NotebookApp] Notebook my_tools/backup_mysql_with_python.ipynb is not trusted
+[I 15:33:10.646 NotebookApp] Kernel started: 9c63cd34-71e5-4e48-81df-b580c9ce5644
+[I 15:33:12.288 NotebookApp] Adapting to protocol v5.1 for kernel 9c63cd34-71e5-4e48-81df-b580c9ce5644
+[I 15:35:11.298 NotebookApp] Saving file at /my_tools/backup_mysql_with_python.ipynb
+[W 15:35:11.300 NotebookApp] Notebook my_tools/backup_mysql_with_python.ipynb is not trusted
+[I 15:35:44.013 NotebookApp] Saving file at /my_tools/bash_profile
+[I 15:35:44.018 NotebookApp] Saving file at /my_tools/bash_profile
+[I 15:35:44.228 NotebookApp] Saving file at /my_tools/bash_profile
+[I 15:36:31.765 NotebookApp] Saving file at /my_tools/bash_profile
+[I 15:39:04.618 NotebookApp] Saving file at /my_tools/bash_profile
+[I 15:53:08.858 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 15:53:09.060 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 15:53:53.765 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:08:31.216 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:11:15.389 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:11:15.398 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:11:15.405 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:11:15.603 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:11:16.170 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:11:16.174 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:11:37.160 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:11:37.164 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:11:37.382 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:24:07.121 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:24:10.041 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:24:41.241 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:24:41.246 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:26:56.605 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:26:57.405 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:26:59.841 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:26:59.849 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:27:00.063 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:27:35.525 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:27:35.746 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:28:19.147 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:28:19.385 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:28:50.666 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:28:51.244 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:28:58.401 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:29:15.194 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:29:15.411 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:29:15.970 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:30:31.699 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:30:31.907 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:35:33.081 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:35:33.860 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:35:33.864 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:35:39.187 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:36:34.341 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:36:34.410 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:37:10.481 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:37:11.280 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:37:39.568 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:37:40.336 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:38:15.218 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:38:15.842 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:38:15.848 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:38:15.852 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:38:55.673 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:38:56.260 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:40:04.607 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:40:04.611 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:40:04.851 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:40:05.424 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:41:41.210 NotebookApp] Saving file at /my_tools/bash_profile
+[I 16:41:41.804 NotebookApp] Saving file at /my_tools/bash_profile
+[I 16:41:56.285 NotebookApp] Saving file at /my_tools/bash_profile
+[I 16:41:56.883 NotebookApp] Saving file at /my_tools/bash_profile
+[I 16:41:56.887 NotebookApp] Saving file at /my_tools/bash_profile
+[I 16:42:22.574 NotebookApp] Saving file at /my_tools/bash_profile
+[I 16:42:23.367 NotebookApp] Saving file at /my_tools/bash_profile
+[I 16:42:29.650 NotebookApp] Saving file at /my_tools/bash_profile
+[I 16:42:30.444 NotebookApp] Saving file at /my_tools/bash_profile
+[I 16:42:30.448 NotebookApp] Saving file at /my_tools/bash_profile
+[I 16:42:33.654 NotebookApp] Saving file at /my_tools/bash_profile
+[I 16:42:33.901 NotebookApp] Saving file at /my_tools/bash_profile
+[I 16:42:37.378 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:42:37.389 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:42:37.604 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh

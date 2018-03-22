@@ -1,0 +1,42 @@
+#!/bin/bash
+#Author: xander<yeli.studio@qq.com>
+#Program: My costom function of shell.
+#Usage:include this file to .bash_profile
+
+:<<BLOCK
+if [ -f ~/.bash_profile.me ];then
+	. ~/.bash_profile.me
+fi
+BLOCK
+
+
+function mypip3.6 {
+    if [ -z $1 ];then
+        echo "请输入安装包名称..."
+        return
+    fi
+    pip3.6 install -i https://mirrors.aliyun.com/pypi/simple "$1"
+}
+
+function sshserver {
+    
+    if [ -z $1 ];then
+        echo "请输入服务器名称..."
+        return
+    fi
+
+    case $1 in
+        "monstar")
+            ssh -o serveraliveinterval=60 root@1.1.1.1
+            ;;
+        "xander")
+            ssh -o serveraliveinterval=60 root@1.1.1.1 -p 1234 
+            ;;
+        "zx")
+            ssh -o serveraliveinterval=60 root@1.1.1.1
+            ;;
+        *)
+            echo "请输入正确服务器名称..."
+    esac
+
+}
