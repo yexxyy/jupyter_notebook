@@ -188,3 +188,9 @@
 [I 16:42:37.378 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
 [I 16:42:37.389 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
 [I 16:42:37.604 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:47:48.229 NotebookApp] Starting buffering for 9c63cd34-71e5-4e48-81df-b580c9ce5644:ccea4fc3dff94802b971df26b5dd766c
+[W 16:47:49.143 NotebookApp] Notebook my_tools/backup_mysql_with_python.ipynb is not trusted
+[I 16:47:51.312 NotebookApp] Adapting to protocol v5.1 for kernel 9c63cd34-71e5-4e48-81df-b580c9ce5644
+[I 16:50:51.333 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:50:51.587 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
+[I 16:50:51.839 NotebookApp] Saving file at /my_tools/create_mysql_db_user.sh
