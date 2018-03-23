@@ -226,3 +226,157 @@
 [I 17:30:23.390 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
 [I 17:30:37.958 NotebookApp] Starting buffering for fa03d6fb-90fa-4325-90af-ac1d34943ed7:7b178f39de194f8c8460839a39dd04f0
 [W 17:31:01.540 NotebookApp] delete /deep_learn/mnist
+[W 17:34:04.865 NotebookApp] Notebook deep_learn/卷积神经网络.ipynb is not trusted
+[I 17:34:05.537 NotebookApp] Kernel started: 0106e6dc-ba1e-4e54-8b81-4ddeb2472411
+[I 17:34:07.339 NotebookApp] Adapting to protocol v5.1 for kernel 0106e6dc-ba1e-4e54-8b81-4ddeb2472411
+[I 17:35:14.053 NotebookApp] Saving file at /deep_learn/卷积神经网络理论.ipynb
+[W 17:35:14.055 NotebookApp] Notebook deep_learn/卷积神经网络理论.ipynb is not trusted
+[I 17:35:15.507 NotebookApp] Starting buffering for 0106e6dc-ba1e-4e54-8b81-4ddeb2472411:e4c49bde8cea41199ebb83b34bf8f790
+[W 17:35:31.009 NotebookApp] Notebook deep_learn/tensorflow-拟合平面.ipynb is not trusted
+[I 17:35:31.266 NotebookApp] Kernel started: 3a8bad6e-b34d-40b9-8775-f8f34ff08078
+[I 17:35:33.229 NotebookApp] Adapting to protocol v5.1 for kernel 3a8bad6e-b34d-40b9-8775-f8f34ff08078
+[I 17:36:03.356 NotebookApp] Saving file at /deep_learn/tensorflow-拟合平面.ipynb
+[W 17:36:03.357 NotebookApp] Notebook deep_learn/tensorflow-拟合平面.ipynb is not trusted
+[I 17:36:24.219 NotebookApp] Saving file at /deep_learn/tensorflow-拟合平面.ipynb
+[W 17:36:24.220 NotebookApp] Notebook deep_learn/tensorflow-拟合平面.ipynb is not trusted
+[I 17:36:40.482 NotebookApp] Starting buffering for 3a8bad6e-b34d-40b9-8775-f8f34ff08078:cf3afe7910c643988df5166ebbafd44a
+[I 10:01:22.961 NotebookApp] Creating new notebook in /deep_learn
+[I 10:01:23.562 NotebookApp] Kernel started: a1a8d68a-3170-44c2-aaa3-0f5bff8760e9
+[W 10:01:23.645 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180322094301 (127.0.0.1) 31.72ms referer=http://localhost:8888/notebooks/deep_learn/Untitled.ipynb?kernel_name=python3
+[I 10:01:24.802 NotebookApp] Adapting to protocol v5.1 for kernel a1a8d68a-3170-44c2-aaa3-0f5bff8760e9
+[I 10:03:23.471 NotebookApp] Saving file at /deep_learn/Untitled.ipynb
+[I 10:24:49.611 NotebookApp] Saving file at /deep_learn/Untitled.ipynb
+[I 10:25:23.567 NotebookApp] Saving file at /deep_learn/Untitled.ipynb
+[I 10:26:57.200 NotebookApp] Adapting to protocol v5.1 for kernel fa03d6fb-90fa-4325-90af-ac1d34943ed7
+[I 10:27:24.458 NotebookApp] Saving file at /deep_learn/Untitled.ipynb
+[I 10:28:57.163 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 10:30:57.163 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 10:32:57.162 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 10:34:57.162 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 10:36:57.184 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 10:38:57.212 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 10:40:57.185 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 10:42:57.199 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 10:44:57.196 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 10:48:57.199 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 10:50:57.222 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 10:52:57.218 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 10:54:57.224 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 10:56:57.226 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 10:58:57.230 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 11:00:37.703 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 11:28:25.593 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 11:28:55.337 NotebookApp] Copying deep_learn/MNIST机器学习入门.ipynb to /deep_learn
+[I 11:29:15.396 NotebookApp] Kernel started: 28c0f863-804c-4917-ab44-be2742473709
+[I 11:29:16.757 NotebookApp] Adapting to protocol v5.1 for kernel 28c0f863-804c-4917-ab44-be2742473709
+[I 11:33:15.394 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门-Dropout.ipynb
+[I 11:35:15.395 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门-Dropout.ipynb
+[I 11:37:15.398 NotebookApp] Saving file at /deep_learn/Dropout-MNIST机器学习入门.ipynb
+[I 11:39:15.400 NotebookApp] Saving file at /deep_learn/Dropout-MNIST机器学习入门.ipynb
+[I 11:41:15.405 NotebookApp] Saving file at /deep_learn/Dropout-MNIST机器学习入门.ipynb
+[I 11:43:15.425 NotebookApp] Saving file at /deep_learn/Dropout-MNIST机器学习入门.ipynb
+[I 11:45:15.427 NotebookApp] Saving file at /deep_learn/Dropout-MNIST机器学习入门.ipynb
+[I 11:47:15.432 NotebookApp] Saving file at /deep_learn/Dropout-MNIST机器学习入门.ipynb
+[I 13:15:23.941 NotebookApp] Saving file at /deep_learn/Untitled.ipynb
+[I 13:17:24.820 NotebookApp] Saving file at /deep_learn/Untitled.ipynb
+[I 13:21:15.610 NotebookApp] Saving file at /deep_learn/Dropout-MNIST机器学习入门.ipynb
+[I 13:23:15.608 NotebookApp] Saving file at /deep_learn/Dropout-MNIST机器学习入门.ipynb
+[I 13:25:15.614 NotebookApp] Saving file at /deep_learn/Dropout-MNIST机器学习入门.ipynb
+[I 13:27:15.621 NotebookApp] Saving file at /deep_learn/Dropout-MNIST机器学习入门.ipynb
+[I 13:29:15.629 NotebookApp] Saving file at /deep_learn/Dropout-MNIST机器学习入门.ipynb
+2018-03-23 13:29:21.257102: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 13:31:15.637 NotebookApp] Saving file at /deep_learn/Dropout-MNIST机器学习入门.ipynb
+[I 13:33:15.639 NotebookApp] Saving file at /deep_learn/Dropout-MNIST机器学习入门.ipynb
+[I 13:39:15.651 NotebookApp] Saving file at /deep_learn/Dropout-MNIST机器学习入门.ipynb
+[I 13:41:15.657 NotebookApp] Saving file at /deep_learn/Dropout.ipynb
+[I 13:43:15.655 NotebookApp] Saving file at /deep_learn/Dropout.ipynb
+[I 13:45:15.657 NotebookApp] Saving file at /deep_learn/Dropout.ipynb
+[I 13:47:15.659 NotebookApp] Saving file at /deep_learn/Dropout.ipynb
+[I 13:49:15.672 NotebookApp] Saving file at /deep_learn/Dropout.ipynb
+[I 13:51:15.669 NotebookApp] Saving file at /deep_learn/Dropout.ipynb
+[I 13:53:15.674 NotebookApp] Saving file at /deep_learn/Dropout.ipynb
+[I 13:55:10.957 NotebookApp] Saving file at /deep_learn/Dropout.ipynb
+[I 13:55:29.468 NotebookApp] Starting buffering for 28c0f863-804c-4917-ab44-be2742473709:47a2bfe3ed844803ae4de225a04c60dd
+[I 13:55:34.747 NotebookApp] Kernel shutdown: 28c0f863-804c-4917-ab44-be2742473709
+[E 13:55:37.005 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 85, in post
+        yield gen.maybe_future(km.restart_kernel(kernel_id))
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py", line 271, in restart_kernel
+        self._check_kernel_id(kernel_id)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py", line 350, in _check_kernel_id
+        raise web.HTTPError(404, u'Kernel does not exist: %s' % kernel_id)
+    tornado.web.HTTPError: HTTP 404: Not Found (Kernel does not exist: 28c0f863-804c-4917-ab44-be2742473709)
+[E 13:55:37.022 NotebookApp] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "0",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Origin": "http://localhost:8888",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|a9e2c3f6|da6614378cd8d051ef0adb2c2ac1c0fc|1521682982",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36",
+      "Referer": "http://localhost:8888/notebooks/deep_learn/Dropout.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+      "Cookie": "csrftoken=Pm29RfPKeu7uhOdkyRxRDyfpZFhXJSEoorsNJRtK6zEOStwe9mknb0Y14SdApNhs; _xsrf=2|a9e2c3f6|da6614378cd8d051ef0adb2c2ac1c0fc|1521682982; username-localhost-8888=\"2|1:0|10:1521711473|23:username-localhost-8888|44:ZWI1YzY2ZTMwNWM1NDc2MTkzMDQwNmQ3ZmZlNTZkNDk=|c9050d72ea076ae7b338e2e4e1baf53eb1a42dbb07e19dfe54915bb8ed29872b\""
+    }
+[E 13:55:37.022 NotebookApp] 500 POST /api/kernels/28c0f863-804c-4917-ab44-be2742473709/restart (127.0.0.1) 17.40ms referer=http://localhost:8888/notebooks/deep_learn/Dropout.ipynb
+[W 13:55:37.028 NotebookApp] 404 DELETE /api/sessions/691cb576-dfb4-4f99-9e2f-28a4cf3fbb40 (127.0.0.1): Session not found: session_id='691cb576-dfb4-4f99-9e2f-28a4cf3fbb40'
+[W 13:55:37.028 NotebookApp] Session not found: session_id='691cb576-dfb4-4f99-9e2f-28a4cf3fbb40'
+[W 13:55:37.028 NotebookApp] 404 DELETE /api/sessions/691cb576-dfb4-4f99-9e2f-28a4cf3fbb40 (127.0.0.1) 2.63ms referer=http://localhost:8888/notebooks/deep_learn/Dropout.ipynb
+[I 13:55:37.060 NotebookApp] Kernel started: f38b08a3-a055-4e23-b163-7d0535802f07
+[I 13:55:38.121 NotebookApp] Adapting to protocol v5.1 for kernel f38b08a3-a055-4e23-b163-7d0535802f07
+2018-03-23 13:55:49.132934: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 13:57:15.682 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 13:58:24.003 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 13:59:30.917 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 13:59:59.895 NotebookApp] Kernel interrupted: f38b08a3-a055-4e23-b163-7d0535802f07
+[I 14:01:15.682 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 14:03:15.686 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 14:05:15.686 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 14:07:15.704 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 14:09:14.315 NotebookApp] Kernel interrupted: f38b08a3-a055-4e23-b163-7d0535802f07
+[I 14:09:15.695 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 14:10:29.067 NotebookApp] Kernel interrupted: f38b08a3-a055-4e23-b163-7d0535802f07
+[I 14:11:15.692 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 14:13:15.728 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 14:15:15.729 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 14:16:45.347 NotebookApp] Kernel interrupted: f38b08a3-a055-4e23-b163-7d0535802f07
+[I 14:17:15.739 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 14:19:15.739 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 14:21:15.743 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 14:23:15.747 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 14:25:15.745 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 14:26:16.919 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 14:29:15.742 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 14:29:33.507 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 14:33:15.750 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 14:33:21.930 NotebookApp] Kernel interrupted: f38b08a3-a055-4e23-b163-7d0535802f07
+[I 14:33:23.402 NotebookApp] Kernel interrupted: f38b08a3-a055-4e23-b163-7d0535802f07
+[I 14:33:24.489 NotebookApp] Kernel interrupted: f38b08a3-a055-4e23-b163-7d0535802f07
+[I 14:33:29.713 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 14:34:28.172 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 14:35:15.752 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 14:37:15.755 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 14:38:57.678 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 14:39:15.977 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 14:40:57.676 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 14:42:58.022 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 14:43:15.788 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 14:45:15.789 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 14:47:16.011 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 15:04:57.766 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 15:05:07.823 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门.ipynb
+[I 15:05:08.862 NotebookApp] Starting buffering for fa03d6fb-90fa-4325-90af-ac1d34943ed7:e8e649e5cc2b41d7992116889022ca07
+[I 15:07:18.484 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 15:09:18.494 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 15:11:18.487 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 15:13:18.484 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 15:13:38.455 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 15:13:42.655 NotebookApp] Saving file at /deep_learn/过拟合处理-Dropout.ipynb
+[I 15:13:44.051 NotebookApp] Starting buffering for f38b08a3-a055-4e23-b163-7d0535802f07:47a2bfe3ed844803ae4de225a04c60dd
+[I 15:14:15.369 NotebookApp] Adapting to protocol v5.1 for kernel fa03d6fb-90fa-4325-90af-ac1d34943ed7
+[I 15:14:32.863 NotebookApp] Starting buffering for fa03d6fb-90fa-4325-90af-ac1d34943ed7:f0e7ab3beead4a8394042419e5ff0ee3
+[I 15:17:10.714 NotebookApp] Adapting to protocol v5.1 for kernel f38b08a3-a055-4e23-b163-7d0535802f07
+[I 15:17:13.974 NotebookApp] Starting buffering for f38b08a3-a055-4e23-b163-7d0535802f07:cd4d385f7f634f3c89cfe23231254a4c
