@@ -20,3 +20,6 @@
 [W 11:03:21.833 NotebookApp] Replacing stale connection: 099e9190-9706-4a31-b19a-dbbdf15948fb:C4A7170D6F204653998C794433D1DB63
 [I 11:03:27.672 NotebookApp] Saving file at /deep_learn/神经网络和反向传播.ipynb
 [I 11:03:29.650 NotebookApp] Saving file at /deep_learn/神经网络和反向传播.ipynb
+[W 11:05:49.966 NotebookApp] delete /deep_learn/logs/events.out.tfevents.1522118022.iMac
+[W 11:05:50.008 NotebookApp] delete /deep_learn/logs/events.out.tfevents.1522118740.iMac
+[W 11:05:50.012 NotebookApp] delete /deep_learn/logs/events.out.tfevents.1522118047.iMac
