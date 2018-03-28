@@ -1,25 +1,46 @@
-[I 10:57:33.437 NotebookApp] Loading IPython parallel extension
-[I 10:57:33.448 NotebookApp] Serving notebooks from local directory: /Users/yexianyong/Desktop/jupyter_notebook
-[I 10:57:33.448 NotebookApp] 0 active kernels
-[I 10:57:33.448 NotebookApp] The Jupyter Notebook is running at:
-[I 10:57:33.448 NotebookApp] http://localhost:8888/?token=fe882159e00353211e5bebb4a2d0ef10a8e03d56117cc4e3
-[I 10:57:33.449 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[C 10:57:33.449 NotebookApp] 
+[I 11:19:37.797 NotebookApp] Loading IPython parallel extension
+[I 11:19:37.806 NotebookApp] Serving notebooks from local directory: /Users/yexianyong/Desktop/jupyter_notebook
+[I 11:19:37.806 NotebookApp] 0 active kernels
+[I 11:19:37.806 NotebookApp] The Jupyter Notebook is running at:
+[I 11:19:37.806 NotebookApp] http://localhost:8888/?token=6ae5386f42ff0fd205be2f5fda7382f104f20e23a478c638
+[I 11:19:37.806 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:19:37.807 NotebookApp] 
     
     Copy/paste this URL into your browser when you connect for the first time,
     to login with a token:
-        http://localhost:8888/?token=fe882159e00353211e5bebb4a2d0ef10a8e03d56117cc4e3
-[I 10:57:33.619 NotebookApp] Accepting one-time-token-authenticated connection from ::1
-[I 10:57:38.962 NotebookApp] Kernel started: 001ef883-e042-419f-bf88-9f66b4bcc447
-[I 10:57:39.973 NotebookApp] Adapting to protocol v5.1 for kernel 001ef883-e042-419f-bf88-9f66b4bcc447
-[W 10:57:43.816 NotebookApp] 404 GET /api/kernels/099e9190-9706-4a31-b19a-dbbdf15948fb/channels?session_id=C4A7170D6F204653998C794433D1DB63 (::1): Kernel does not exist: 099e9190-9706-4a31-b19a-dbbdf15948fb
-[W 10:57:43.827 NotebookApp] 404 GET /api/kernels/099e9190-9706-4a31-b19a-dbbdf15948fb/channels?session_id=C4A7170D6F204653998C794433D1DB63 (::1) 13.89ms referer=None
-[W 10:58:16.836 NotebookApp] Replacing stale connection: 099e9190-9706-4a31-b19a-dbbdf15948fb:C4A7170D6F204653998C794433D1DB63
-[I 10:59:38.926 NotebookApp] Saving file at /deep_learn/神经网络和反向传播.ipynb
-[I 11:01:38.929 NotebookApp] Saving file at /deep_learn/神经网络和反向传播.ipynb
-[W 11:03:21.833 NotebookApp] Replacing stale connection: 099e9190-9706-4a31-b19a-dbbdf15948fb:C4A7170D6F204653998C794433D1DB63
-[I 11:03:27.672 NotebookApp] Saving file at /deep_learn/神经网络和反向传播.ipynb
-[I 11:03:29.650 NotebookApp] Saving file at /deep_learn/神经网络和反向传播.ipynb
-[W 11:05:49.966 NotebookApp] delete /deep_learn/logs/events.out.tfevents.1522118022.iMac
-[W 11:05:50.008 NotebookApp] delete /deep_learn/logs/events.out.tfevents.1522118740.iMac
-[W 11:05:50.012 NotebookApp] delete /deep_learn/logs/events.out.tfevents.1522118047.iMac
+        http://localhost:8888/?token=6ae5386f42ff0fd205be2f5fda7382f104f20e23a478c638
+[I 11:19:37.947 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 11:14:01.647 NotebookApp] Kernel started: 9ed10d18-0700-4817-8bdc-915c4cb2e1d7
+[I 11:14:03.195 NotebookApp] Adapting to protocol v5.1 for kernel 9ed10d18-0700-4817-8bdc-915c4cb2e1d7
+[I 11:16:01.581 NotebookApp] Saving file at /library_learn/python.ipynb
+[I 11:18:01.580 NotebookApp] Saving file at /library_learn/python.ipynb
+[I 11:20:01.571 NotebookApp] Saving file at /library_learn/python.ipynb
+[I 11:38:01.553 NotebookApp] Saving file at /library_learn/python.ipynb
+[I 11:40:01.552 NotebookApp] Saving file at /library_learn/python.ipynb
+[I 11:41:24.922 NotebookApp] Saving file at /library_learn/python.ipynb
+[I 11:41:34.973 NotebookApp] Kernel interrupted: 9ed10d18-0700-4817-8bdc-915c4cb2e1d7
+[I 11:41:40.522 NotebookApp] Starting buffering for 9ed10d18-0700-4817-8bdc-915c4cb2e1d7:a9cd0d4965644241923dd1cbcc1e60dc
+[I 11:41:40.847 NotebookApp] Kernel restarted: 9ed10d18-0700-4817-8bdc-915c4cb2e1d7
+[I 11:41:42.138 NotebookApp] Adapting to protocol v5.1 for kernel 9ed10d18-0700-4817-8bdc-915c4cb2e1d7
+[I 11:41:42.140 NotebookApp] Restoring connection for 9ed10d18-0700-4817-8bdc-915c4cb2e1d7:a9cd0d4965644241923dd1cbcc1e60dc
+[I 11:41:42.140 NotebookApp] Replaying 6 buffered messages
+[I 11:42:01.549 NotebookApp] Saving file at /library_learn/python.ipynb
+[I 13:15:14.216 NotebookApp] Saving file at /library_learn/python.ipynb
+[I 13:33:13.669 NotebookApp] Saving file at /library_learn/python.ipynb
+[I 13:35:13.666 NotebookApp] Saving file at /library_learn/python.ipynb
+[I 13:37:13.663 NotebookApp] Saving file at /library_learn/python.ipynb
+[I 13:39:14.182 NotebookApp] Saving file at /library_learn/python.ipynb
+[I 15:01:01.152 NotebookApp] Saving file at /library_learn/python.ipynb
+[I 15:01:02.159 NotebookApp] Starting buffering for 9ed10d18-0700-4817-8bdc-915c4cb2e1d7:a9cd0d4965644241923dd1cbcc1e60dc
+[W 15:07:09.335 NotebookApp] Notebook deep_learn/拟合平面.ipynb is not trusted
+[I 15:07:09.657 NotebookApp] Kernel started: 70ce8785-d79e-45f0-927f-c6f7fff196df
+[I 15:07:11.227 NotebookApp] Adapting to protocol v5.1 for kernel 70ce8785-d79e-45f0-927f-c6f7fff196df
+[I 15:07:11.772 NotebookApp] Starting buffering for 70ce8785-d79e-45f0-927f-c6f7fff196df:b74d8f1e1a9e4d5792b21fe60b2110ea
+[W 15:07:30.591 NotebookApp] Notebook deep_learn/MNIST机器学习入门-优化.ipynb is not trusted
+[I 15:07:31.059 NotebookApp] Kernel started: de91d8da-d0c6-4242-8137-2203182230e9
+[I 15:07:32.025 NotebookApp] Adapting to protocol v5.1 for kernel de91d8da-d0c6-4242-8137-2203182230e9
+[I 15:09:31.064 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门-优化.ipynb
+[W 15:09:31.064 NotebookApp] Notebook deep_learn/MNIST机器学习入门-优化.ipynb is not trusted
+[I 15:25:31.041 NotebookApp] Saving file at /deep_learn/MNIST机器学习入门-优化.ipynb
+[W 15:25:31.041 NotebookApp] Notebook deep_learn/MNIST机器学习入门-优化.ipynb is not trusted
+[I 15:25:50.478 NotebookApp] Starting buffering for de91d8da-d0c6-4242-8137-2203182230e9:bdf1598219c94e0989bce4d0947c38fa
