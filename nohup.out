@@ -128,3 +128,89 @@
 [I 14:35:01.599 NotebookApp] Saving file at /deep_learn/卷积神经网络.ipynb
 [I 14:37:01.610 NotebookApp] Saving file at /deep_learn/卷积神经网络.ipynb
 [I 14:39:01.608 NotebookApp] Saving file at /deep_learn/卷积神经网络.ipynb
+[I 14:43:03.637 NotebookApp] Starting buffering for 4467fe6c-fb80-42fe-9a1f-549b1a934948:20e5fc0f14774c1f877b0b204d096188
+[I 09:29:48.418 NotebookApp] Adapting to protocol v5.1 for kernel 4467fe6c-fb80-42fe-9a1f-549b1a934948
+[W 09:29:48.513 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180329102601 (127.0.0.1) 48.14ms referer=http://localhost:8888/notebooks/deep_learn/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb
+[I 09:35:44.524 NotebookApp] Starting buffering for 4467fe6c-fb80-42fe-9a1f-549b1a934948:7d4023dbcbfb40578cbf9f2e15c5c2f1
+[I 09:53:20.481 NotebookApp] Creating new notebook in /deep_learn
+[I 09:53:21.113 NotebookApp] Kernel started: 6754091d-f0a7-464f-89b5-2a45a584bfb4
+[I 09:53:22.513 NotebookApp] Adapting to protocol v5.1 for kernel 6754091d-f0a7-464f-89b5-2a45a584bfb4
+[I 09:55:21.083 NotebookApp] Saving file at /deep_learn/RNN(Recurrent Neural Network)笔记.ipynb
+[I 09:57:21.900 NotebookApp] Saving file at /deep_learn/RNN(Recurrent Neural Network)笔记.ipynb
+[I 10:36:26.009 NotebookApp] Saving file at /deep_learn/RNN(Recurrent Neural Network).ipynb
+[I 10:38:10.163 NotebookApp] Adapting to protocol v5.1 for kernel 4467fe6c-fb80-42fe-9a1f-549b1a934948
+[I 10:38:26.822 NotebookApp] Saving file at /deep_learn/RNN(Recurrent Neural Network).ipynb
+[I 10:38:34.753 NotebookApp] Starting buffering for 4467fe6c-fb80-42fe-9a1f-549b1a934948:77e59fd472454cd788b3f342949fc9c7
+[I 10:39:00.927 NotebookApp] Adapting to protocol v5.1 for kernel 6754091d-f0a7-464f-89b5-2a45a584bfb4
+[W 10:40:01.725 NotebookApp] Notebook deep_learn/深入MNIST.ipynb is not trusted
+[I 10:40:02.180 NotebookApp] Adapting to protocol v5.1 for kernel 6aee331e-407c-44ba-8b05-73008fd8d962
+[I 10:40:45.081 NotebookApp] Starting buffering for 6aee331e-407c-44ba-8b05-73008fd8d962:dd1be37ff52c47e8909564015e77b04c
+[I 10:41:00.911 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 10:47:00.919 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 10:51:00.921 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 10:59:00.931 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 11:01:00.933 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 11:03:00.936 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 11:05:00.935 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 11:07:00.938 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 11:09:00.960 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 11:11:00.968 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 11:13:00.970 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 11:25:01.008 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 11:27:01.013 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 11:29:01.018 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 11:41:01.041 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 11:43:01.960 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 11:45:01.054 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 11:47:01.053 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 11:49:01.056 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 11:51:01.058 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 11:53:01.063 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 11:55:01.068 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 13:12:53.723 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 13:14:53.726 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 13:16:53.730 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 13:18:54.646 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 16:20:17.678 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 16:22:17.663 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+2018-03-30 16:23:29.712263: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 16:24:17.666 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 16:28:17.676 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 16:30:17.693 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 16:34:17.699 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 16:36:10.126 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 16:40:17.711 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 16:42:11.978 NotebookApp] Starting buffering for 6754091d-f0a7-464f-89b5-2a45a584bfb4:020412bd2d7f42d193aa2906b34f32c4
+[I 16:42:15.810 NotebookApp] Kernel shutdown: 6754091d-f0a7-464f-89b5-2a45a584bfb4
+[E 16:42:15.812 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 85, in post
+        yield gen.maybe_future(km.restart_kernel(kernel_id))
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py", line 271, in restart_kernel
+        self._check_kernel_id(kernel_id)
+      File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py", line 350, in _check_kernel_id
+        raise web.HTTPError(404, u'Kernel does not exist: %s' % kernel_id)
+    tornado.web.HTTPError: HTTP 404: Not Found (Kernel does not exist: 6754091d-f0a7-464f-89b5-2a45a584bfb4)
+[E 16:42:15.814 NotebookApp] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "0",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Origin": "http://localhost:8888",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|3042a566|4a6d843a67dc3f55fd5f9198f5705a8d|1522290117",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+      "Referer": "http://localhost:8888/notebooks/deep_learn/%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C-RNN.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+      "Cookie": "_xsrf=2|3042a566|4a6d843a67dc3f55fd5f9198f5705a8d|1522290117; username-localhost-8888=\"2|1:0|10:1522333912|23:username-localhost-8888|44:Yjg2ZGE2YjgwM2IyNDg3NjkwOGQxNGU1MTRiNzY3MDg=|c8ba4711c20f0d8ef05c04f93f664533cb0c3a23881e155230fcc1aa7b8a42a3\""
+    }
+[E 16:42:15.815 NotebookApp] 500 POST /api/kernels/6754091d-f0a7-464f-89b5-2a45a584bfb4/restart (127.0.0.1) 2.53ms referer=http://localhost:8888/notebooks/deep_learn/%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C-RNN.ipynb
+[W 16:42:15.820 NotebookApp] 404 DELETE /api/sessions/c5f2b9e5-80df-4ae7-9257-fbed36a705cf (127.0.0.1): Session not found: session_id='c5f2b9e5-80df-4ae7-9257-fbed36a705cf'
+[W 16:42:15.821 NotebookApp] Session not found: session_id='c5f2b9e5-80df-4ae7-9257-fbed36a705cf'
+[W 16:42:15.821 NotebookApp] 404 DELETE /api/sessions/c5f2b9e5-80df-4ae7-9257-fbed36a705cf (127.0.0.1) 2.09ms referer=http://localhost:8888/notebooks/deep_learn/%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C-RNN.ipynb
+[I 16:42:15.856 NotebookApp] Kernel started: 2991847f-d625-4d54-8b4c-1b4f8c5903a1
+[I 16:42:17.260 NotebookApp] Adapting to protocol v5.1 for kernel 2991847f-d625-4d54-8b4c-1b4f8c5903a1
+[I 16:42:17.718 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[W 16:43:20.886 NotebookApp] 404 GET /static/components/MathJax/fonts/HTML-CSS/STIX-Web/otf/STIXMathJax_Main-Italic.otf?rev=2.6.0 (127.0.0.1) 6.29ms referer=http://localhost:8888/notebooks/deep_learn/%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C-RNN.ipynb
+[I 16:44:17.720 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
