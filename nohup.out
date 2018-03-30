@@ -214,3 +214,4 @@
 [I 16:42:17.718 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
 [W 16:43:20.886 NotebookApp] 404 GET /static/components/MathJax/fonts/HTML-CSS/STIX-Web/otf/STIXMathJax_Main-Italic.otf?rev=2.6.0 (127.0.0.1) 6.29ms referer=http://localhost:8888/notebooks/deep_learn/%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C-RNN.ipynb
 [I 16:44:17.720 NotebookApp] Saving file at /deep_learn/循环神经网络-RNN.ipynb
+[I 17:24:34.575 NotebookApp] Starting buffering for 2991847f-d625-4d54-8b4c-1b4f8c5903a1:020412bd2d7f42d193aa2906b34f32c4
