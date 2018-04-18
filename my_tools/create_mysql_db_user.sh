@@ -2,12 +2,13 @@
 
 #$1 -> db name
 #$2 -> user name
-
+#$3 -> % ,default is localhost
 if [ -z $1 ] || [ -z $2 ];then
     echo "Pleace input both db name and user name."
     exit 2
 fi
-    
+
+
 HOST="localhost"
 PORT="3306"
 USERNAME="root"
@@ -19,9 +20,9 @@ TEMP_PASSWORD=`openssl rand -hex 4`
 connect_cmd="mysql -h${HOST} -P${PORT} -u${USERNAME} -p${PASSWORD}"
 ${connect_cmd} << EOF
 
-CREATE DATABASE $TEMP_DB CHARACTER SET UTF8;
-CREATE USER IF NOT EXISTS ${TEMP_USER}@'%' IDENTIFIED BY '${TEMP_PASSWORD}';
-GRANT ALL ON ${TEMP_DB}.* TO '${TEMP_USER}'@'%';
+CREATE DATABASE IF NOT EXISTS $TEMP_DB CHARACTER SET UTF8;
+CREATE USER IF NOT EXISTS ${TEMP_USER}@'localhost' IDENTIFIED BY '${TEMP_PASSWORD}';
+GRANT ALL ON ${TEMP_DB}.* TO '${TEMP_USER}'@'localhost';
 FLUSH PRIVILEGES;
 
 EOF
