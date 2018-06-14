@@ -1,0 +1,2 @@
+FROM registry.cn-hangzhou.aliyuncs.com/chenxl/python3.6:latest
+
