@@ -103,3 +103,5 @@ ENV/
 nohup.out
 
 logs/
+
+MNIST_data/
