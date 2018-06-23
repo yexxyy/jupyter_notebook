@@ -3,5 +3,5 @@
 
 >### 此文件夹中代码运行环境：
 ```
-docker run -d -v /Users/yexianyong/Desktop/jupyter_notebook/notebooks:/notebooks --restart=always -p 8889:8888 -p 6007:6006 tensorflow/tensorflow:1.4.0
+docker run -d -v /Users/yetongxue/Desktop/jupyter_notebook/notebooks:/notebooks --restart=always -p 8889:8888 -p 6007:6006 tensorflow/tensorflow:1.4.0
 ```
