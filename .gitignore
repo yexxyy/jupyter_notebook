@@ -103,10 +103,11 @@ ENV/
 nohup.out
 
 logs/
-
 MNIST_data/
-
 tmp
-
 .DS_Store
+flower_photos
+
+
+
 
