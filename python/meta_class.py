@@ -169,7 +169,7 @@ if __name__ == '__main__':
     # user.name='xande'
     # user.age=5
     
-    #针对这样的赋值，需要在def __init__中处理，所以新建一个BaseModel
+    #针对这样的赋值，需要在def __init__中处理，所以新建一个BaseModel,重写def __init__()
     user=User(name='xan',age=3)
     user.save()
     print(user.name,user.age)
