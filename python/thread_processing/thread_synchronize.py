@@ -9,7 +9,7 @@ def add(a,):
     return a
     
 #多线程修改同一个数据造成数据紊乱解释：程序执行的最小单元是 字节码片段
-dis.dis(add)
+# dis.dis(add)
 """
 8           0 LOAD_FAST                0 (a)
             2 LOAD_CONST               1 (1)
@@ -79,7 +79,40 @@ def condition_test():
     thread1.start()
     
 
+#同步方式三 Semaphore :用于控制进入数量的锁
+#写只允许一个线程，读取则可以允许多个线程
+import time
+from threading import Semaphore
+
+class HtmlSpider(Thread):
+    def __init__(self,url,sem):
+        super(HtmlSpider, self).__init__()
+        self.url=url
+        self.sem=sem
+    
+    def run(self):
+        time.sleep(2)
+        print('load {} success'.format(self.url))
+        self.sem.release()
+
+
+class UrlProducer(Thread):
+    def __init__(self,sem):
+        super(UrlProducer, self).__init__()
+        self.sem=sem
+    
+    def run(self):
+        for i in range(20):
+            self.sem.acquire()
+            html_thread=HtmlSpider('https://baidu.com/{}/'.format(i),self.sem)
+            html_thread.start()
+
+
+
 
 if __name__ == '__main__':
-    condition_test()
-
+    # condition_test()
+    
+    sem=Semaphore(3)
+    url_producer=UrlProducer(sem)
+    url_producer.start()
