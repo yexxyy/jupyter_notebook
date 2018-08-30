@@ -100,6 +100,11 @@ def process_pool():
     print(result.get())
 
 
+    #imap
+    pool2 = multiprocessing.Pool(multiprocessing.cpu_count())
+    for result in pool2.imap(get_html,[1,5,3]):
+        print('result:{}'.format(result))
+
 if __name__ == '__main__':
     
     
