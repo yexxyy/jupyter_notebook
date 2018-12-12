@@ -17,8 +17,6 @@ def get_html(times):
     print('get page {}'.format(times))
     return times
     
-    
-
 
 
 
