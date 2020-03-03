@@ -81,8 +81,8 @@ for i, line in enumerate(reader):
                 if ok == False:
                     ng_items.append('{}:{}'.format(column_name, line[index]))
 
-        if ng_items:
-            ng_writer.writerow([line[5], '; '.join(ng_items)])
+            if ng_items:
+                ng_writer.writerow([line[5], '; '.join(ng_items)])
 
 out_data = []
 for name in column_names:
