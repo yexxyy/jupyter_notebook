@@ -43,8 +43,11 @@ for i, line in enumerate(reader):
             name_limit_map_lower.update({name: lower_limts[name_index]})
 
     else:
-        line_start = datetime.datetime.strptime(line[0], time_fmt)
-        line_end = datetime.datetime.strptime(line[1], time_fmt)
+        try:
+            line_start = datetime.datetime.strptime(line[0], time_fmt)
+            line_end = datetime.datetime.strptime(line[1], time_fmt)
+        except:
+            continue
         LCM_FULL_SN = line[4]
         LCM_FULL_SN_arr = LCM_FULL_SN.split('+')
         if line_start > start_time and line_end < end_time and LCM_FULL_SN_arr[1][-3:] == config:
