@@ -55,18 +55,16 @@ for i, line in enumerate(reader):
             if line[2] == 'FAIL':
                 ng_count += 1
 
-            ng_items = []
             for index, column_name in enumerate(column_names):
                 if index < 6:
                     continue
 
                 # 统计超过上下限的项目
-                ok = True
                 try:
                     if float(upper_limts[index]) < float(line[index]):
                         upper_ng_dict.update(
                             {column_names[index]: upper_ng_dict.get(column_names[index], 0) + 1})
-                        ok = False
+                        ng_writer.writerow([line[5], column_name, line[index]])
                 except:
                     pass
                 # 统计超过下限的项目
@@ -74,15 +72,10 @@ for i, line in enumerate(reader):
                     if float(lower_limts[index]) > float(line[index]):
                         lower_ng_dict.update(
                             {column_names[index]: lower_ng_dict.get(column_names[index], 0) + 1})
-                        ok = False
+                        ng_writer.writerow([line[5], column_name, line[index]])
                 except:
                     pass
 
-                if ok == False:
-                    ng_items.append('{}:{}'.format(column_name, line[index]))
-
-            if ng_items:
-                ng_writer.writerow([line[5], '; '.join(ng_items)])
 
 out_data = []
 for name in column_names:
