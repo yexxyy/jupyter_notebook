@@ -76,7 +76,8 @@ def handle(reader):
                                 if float(upper_limts[index]) < float(line[index]):
                                     upper_ng_dict.update(
                                         {column_names[index]: upper_ng_dict.get(column_names[index], 0) + 1})
-                                    ng_writer.writerow([line[5], column_name, line[index], upper_limts[index], ''])
+                                    ng_writer.writerow(
+                                        [line[5], column_name, line[index], upper_limts[index], lower_limts[index]])
                             except:
                                 pass
                             # 统计超过下限的项目
@@ -84,7 +85,8 @@ def handle(reader):
                                 if float(lower_limts[index]) > float(line[index]):
                                     lower_ng_dict.update(
                                         {column_names[index]: lower_ng_dict.get(column_names[index], 0) + 1})
-                                    ng_writer.writerow([line[5], column_name, line[index], '', lower_limts[index]])
+                                    ng_writer.writerow(
+                                        [line[5], column_name, line[index], upper_limts[index], lower_limts[index]])
                             except:
                                 pass
 
