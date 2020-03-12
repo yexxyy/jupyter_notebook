@@ -7,7 +7,7 @@ read_file_paths = [
 ]
 statistic_file_path = '/Users/yetongxue/Downloads/statistic.csv'
 statistic_column_names = ['Test_Items', 'Upper Limit', 'Lower Limit', 'Upper_Limit_NG', 'Lower_Limit_NG']
-ng_detail_column_names = ['SerialNumber', 'Test_Items_Data']
+ng_detail_column_names = ['SerialNumber', 'Test_Items_Data', 'Value', 'Upper Limit', 'Lower Limit']
 ng_detail_file_path = '/Users/yetongxue/Downloads/ng_detail.csv'
 start = '2020/2/10 01:03'
 end = '2020/4/13 01:03'
@@ -76,7 +76,7 @@ def handle(reader):
                                 if float(upper_limts[index]) < float(line[index]):
                                     upper_ng_dict.update(
                                         {column_names[index]: upper_ng_dict.get(column_names[index], 0) + 1})
-                                    ng_writer.writerow([line[5], column_name, line[index]])
+                                    ng_writer.writerow([line[5], column_name, line[index], upper_limts[index], ''])
                             except:
                                 pass
                             # 统计超过下限的项目
@@ -84,7 +84,7 @@ def handle(reader):
                                 if float(lower_limts[index]) > float(line[index]):
                                     lower_ng_dict.update(
                                         {column_names[index]: lower_ng_dict.get(column_names[index], 0) + 1})
-                                    ng_writer.writerow([line[5], column_name, line[index]])
+                                    ng_writer.writerow([line[5], column_name, line[index], '', lower_limts[index]])
                             except:
                                 pass
 
