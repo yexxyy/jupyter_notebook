@@ -67,7 +67,7 @@ def handle(reader):
                 LCM_FULL_SN_arr = LCM_FULL_SN.split('+')
                 config = LCM_FULL_SN_arr[1][-3:]
                 configs.add(config)
-                if line_start > start_time and line_end < end_time:
+                if config in ['et2', 'idg']:
                     total_inputs.update({config: total_inputs.get(config, 0) + 1})
                     if line[2] == 'FAIL':
                         ng_counts.update({config: ng_counts.get(config, 0) + 1})
