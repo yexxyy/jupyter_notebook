@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env playground
 # -*- coding: utf-8 -*-
 # rsa_test.py in jupyter_notebook
 # Created by yetongxue at 2019-08-01

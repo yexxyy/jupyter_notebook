@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env playground
 # -*- coding: utf-8 -*-
 # midi_gen.py in jupyter_notebook
 # Created by yetongxue at 2020-12-17
